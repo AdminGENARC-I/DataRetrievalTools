@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import ttk
 from io import BytesIO
 
-OPTIONS = ["Exterior", "Interior", "Aerial", "DELETE"]
+OPTIONS = ["Exterior", "Interior", "Aerial", "Drawing", "DELETE"]
 
 # Set up Google Sheets API credentials
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
@@ -70,7 +70,7 @@ image_label.pack(padx=20, pady=20)
 option_frame = ttk.Frame(root)
 option_frame.pack(padx=20, pady=10)
 for idx, option in enumerate(OPTIONS):
-    if idx == 3:
+    if idx == 4:
         ttk.Radiobutton(option_frame, text=option, variable=choice_var, value=str(idx+1)).grid(row=1, column=1, padx=5)
     else:
         ttk.Radiobutton(option_frame, text=option, variable=choice_var, value=str(idx+1)).grid(row=0, column=idx, padx=5)
