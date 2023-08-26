@@ -40,7 +40,7 @@ def display_image():
         url = image_urls[start_index]
         response = requests.get(url)
         img = Image.open(BytesIO(response.content))
-        img = img.resize((450, 450))  # Resize image for display
+        img = img.resize((400, 400))  # Resize image for display
         img_tk = ImageTk.PhotoImage(img)
         image_label.config(image=img_tk)
         image_label.img_tk = img_tk
@@ -64,7 +64,7 @@ start_index_entry.pack(side="left", padx=5)
 start_button = ttk.Button(start_frame, text="Start", command=lambda:[start_button.pack_forget(), display_image()])
 start_button.pack(pady=10)
 
-image_label = ttk.Label(root, text="Click 'Next' to start.", font=("Helvetica", 12))
+image_label = ttk.Label(root, text="Click 'Start' to start.", font=("Helvetica", 12))
 image_label.pack(padx=20, pady=20)
 
 option_frame = ttk.Frame(root)
