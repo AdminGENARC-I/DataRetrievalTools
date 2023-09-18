@@ -3,7 +3,7 @@ This script is used to download all the images provided in the `data.xlsx` file 
 
 Here are important reminders:
 - Don't forget to install Python3 and PIP from `https://www.python.org/downloads/`
-- Don't forget to `pip install pandas && pip install openpyxl && pip install pydrive`
+- Don't forget to `pip install pandas && pip install openpyxl && pip install pydrive && pip install validators`
 - Don't forget to setup `client_secrets.json` to be able to access Google Drive. Here are the instructions: https://pythonhosted.org/PyDrive/quickstart.html#authentication which you should do so with the admin GENARC-I email
 
 Step by step how to guide:
