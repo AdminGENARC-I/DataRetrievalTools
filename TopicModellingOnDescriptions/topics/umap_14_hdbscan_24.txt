@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('cru noever', 0.8225749)
+('noever', 0.77074873)
+('cru cru noever', 0.7587732)
+('cru noever noever', 0.7484134)
+('cru', 0.74832726)
+('cru cru', 0.6877968)
+('meanwhile cru', 0.6472727)
+
+Topic: 1
+('parliament futagawa dutch', 0.779743)
+('dutch parliament futagawa', 0.7767357)
+('futagawa dutch parliament', 0.76123714)
+('futagawa dutch', 0.72059274)
+('fabrizi futagawa dutch', 0.67820287)
+('parliament futagawa', 0.6517383)
+('parliament futagawa fabrizi', 0.64487547)
+
+Topic: 2
+('facility', 0.5769277)
+('building', 0.51505005)
+('room', 0.49581403)
+('centre', 0.4610411)
+('village', 0.43634674)
+('construction', 0.43330112)
+('courtyard', 0.43125767)
+
+Topic: 3
+('originally published july', 0.8740499)
+('published july originally', 0.8541784)
+('july originally published', 0.84451497)
+('published july', 0.8367132)
+('originally published august', 0.73478436)
+('originally published january', 0.7195629)
+('originally published march', 0.71869594)
+

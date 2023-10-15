@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('trencher', 0.97680175)
+('trencher trencher', 0.9297594)
+('trencher trencher trencher', 0.8813305)
+('tange trencher trencher', 0.7930347)
+('tange trencher', 0.7662871)
+('tange tange trencher', 0.65793777)
+('ayers', 0.516009)
+
+Topic: 1
+('building', 0.5657471)
+('facility', 0.56309354)
+('architectural', 0.471276)
+('architecture', 0.45796347)
+('construction', 0.45734534)
+('room', 0.45447433)
+('central', 0.43881506)
+

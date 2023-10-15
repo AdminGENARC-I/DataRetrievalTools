@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('description architect break', 0.80373704)
+('description break image', 0.79810834)
+('break image description', 0.7887377)
+('architect description break', 0.7872607)
+('image description architect', 0.7772502)
+('image architect description', 0.7563429)
+('architect break image', 0.75183237)
+
+Topic: 1
+('certification green building', 0.6612258)
+('leed gold certification', 0.65690905)
+('leed silver certification', 0.58503354)
+('gold certification', 0.56444585)
+('silver certification', 0.5307561)
+('certification green', 0.5211583)
+('environmental design', 0.51247096)
+
+Topic: 2
+('building', 0.5530193)
+('construction', 0.4538787)
+('facility', 0.41438395)
+('architectural', 0.38419068)
+('facade', 0.3834533)
+('hall', 0.38344565)
+('architecture', 0.3717155)
+

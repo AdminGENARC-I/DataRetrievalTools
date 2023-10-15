@@ -1,0 +1,86 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('product description', 0.99999976)
+('description product', 0.9604058)
+('description product description', 0.93372256)
+('product description product', 0.92640555)
+('possible product description', 0.8838421)
+('product description ed', 0.86680454)
+('description', 0.8528359)
+
+Topic: 1
+('', 0.9470425)
+('', 0.9470425)
+('', 0.9470425)
+('', 0.9470425)
+('', 0.9470425)
+('', 0.9470425)
+('', 0.9470425)
+
+Topic: 2
+('access', 1.0000001)
+('access access', 0.90957737)
+('access access access', 0.86907953)
+('september access access', 0.74858487)
+('noever access', 0.734355)
+('march access access', 0.70809805)
+('access september', 0.6613284)
+
+Topic: 3
+('pump heating cooling', 0.7958989)
+('heating cooling system', 0.78218174)
+('heat pump system', 0.7687842)
+('heating cooling', 0.7276758)
+('heating cooling provided', 0.72667164)
+('heat pump heating', 0.72645116)
+('heat pump', 0.717217)
+
+Topic: 4
+('himeji castle', 0.91028756)
+('castle himeji', 0.90599805)
+('himeji castle himeji', 0.90378976)
+('gregory himeji castle', 0.7891756)
+('himeji', 0.697942)
+('mcniff gregory himeji', 0.61299074)
+('japanese castle', 0.6008)
+
+Topic: 5
+('leed gold certification', 0.7344359)
+('certification green building', 0.7251879)
+('leed silver certification', 0.7181046)
+('leed gold certified', 0.6913285)
+('leed platinum certification', 0.67234766)
+('silver certification', 0.6392412)
+('gold certification green', 0.6346139)
+
+Topic: 6
+('prison architecture', 0.81368136)
+('prison architecture support', 0.80521244)
+('prison architecture creating', 0.8042729)
+('prison architecture face', 0.77260494)
+('prison architecture still', 0.7713684)
+('prison object critical', 0.65581083)
+('prison environment', 0.6395663)
+
+Topic: 7
+('originally published july', 0.8740499)
+('published july originally', 0.85417867)
+('july originally published', 0.84451497)
+('published july', 0.83671314)
+('originally published january', 0.71956277)
+('published january', 0.68581235)
+('originally published', 0.66867834)
+
+Topic: 8
+('facility', 0.5339824)
+('building', 0.51144975)
+('area', 0.5065711)
+('surrounding', 0.49312723)
+('central', 0.46706235)
+('space', 0.46527702)
+('room', 0.45825773)
+

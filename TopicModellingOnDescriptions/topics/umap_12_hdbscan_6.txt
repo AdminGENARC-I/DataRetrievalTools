@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('cowan howells', 0.9618546)
+('howells cowan', 0.9402689)
+('howells cowan henry', 0.93270904)
+('trevor howells cowan', 0.9303425)
+('howells cowan howells', 0.890605)
+('cowan', 0.800614)
+('henry trevor howells', 0.7940065)
+
+Topic: 1
+('', 0.9374068)
+('', 0.9374068)
+('', 0.9374068)
+('', 0.9374068)
+('', 0.9374068)
+('', 0.9374068)
+('', 0.9374068)
+
+Topic: 2
+('obvious', 0.769903)
+('answer obvious', 0.7573948)
+('obvious meanwhile', 0.69638425)
+('million obvious', 0.62948906)
+('everybody genius', 0.6131573)
+('obvious million obvious', 0.611296)
+('everybody genius soon', 0.5959019)
+
+Topic: 3
+('originally published july', 0.9710922)
+('published july originally', 0.9599731)
+('july originally published', 0.94817746)
+('published july', 0.92539567)
+('originally published august', 0.7943171)
+('originally published january', 0.7764247)
+('originally published march', 0.7707794)
+
+Topic: 4
+('building', 0.5232145)
+('facility', 0.5153579)
+('architectural', 0.45713317)
+('architecture', 0.45353884)
+('centre', 0.43856645)
+('construction', 0.43184346)
+('urban', 0.42295554)
+

@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('everybody genius', 0.6637695)
+('trial respect genius', 0.65685976)
+('respect genius locus', 0.63608015)
+('genius locus', 0.6205896)
+('see everybody genius', 0.6175848)
+('genius locus little', 0.613994)
+('genius going light', 0.58392036)
+
+Topic: 1
+('building', 0.58330363)
+('surrounding', 0.5035949)
+('construction', 0.488828)
+('environment', 0.45520595)
+('facade', 0.4545868)
+('architectural', 0.44449818)
+('facility', 0.43979657)
+

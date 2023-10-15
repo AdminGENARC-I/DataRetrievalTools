@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.937151)
+('', 0.937151)
+('', 0.937151)
+('', 0.937151)
+('', 0.937151)
+('', 0.937151)
+('', 0.937151)
+
+Topic: 1
+('sennott', 0.9567312)
+('sennott stephen sennott', 0.8645622)
+('sennott ayers', 0.8464631)
+('sennott ayers sennott', 0.83617646)
+('sennott stephen', 0.8146924)
+('ayers sennott', 0.7956017)
+('stephen sennott', 0.78569984)
+
+Topic: 2
+('access', 0.9999999)
+('access access', 0.9095776)
+('access access access', 0.8690796)
+('noever access', 0.73435515)
+('port access access', 0.670536)
+('igor access access', 0.65947086)
+('access noever', 0.6573874)
+
+Topic: 3
+('building', 0.8268912)
+('construction', 0.6983583)
+('architect', 0.57045734)
+('architecture', 0.5663579)
+('built', 0.56597054)
+('architectural', 0.5609182)
+('facade', 0.53341043)
+

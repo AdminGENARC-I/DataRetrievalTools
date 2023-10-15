@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('worked', 0.69143367)
+('long', 0.66338843)
+('suggested', 0.6543441)
+('meanwhile', 0.6287689)
+('meanwhile long', 0.625645)
+('long worked', 0.6230496)
+('', 0.62219596)
+
+Topic: 1
+('south africa amnesty', 0.9391715)
+('africa amnesty international', 0.9363934)
+('amnesty international south', 0.91071457)
+('africa amnesty', 0.85744524)
+('amnesty international', 0.8389964)
+('international south africa', 0.73995733)
+('amnesty', 0.7062879)
+
+Topic: 2
+('cowan howells', 0.7858341)
+('cowan henry trevor', 0.7332123)
+('henry trevor howells', 0.7297241)
+('cowan', 0.68181765)
+('cowan henry', 0.6710776)
+('trevor howells', 0.6595572)
+('howells', 0.56073713)
+
+Topic: 3
+('masterpiece architecture engineering', 0.70221305)
+('greatest building masterpiece', 0.6897737)
+('building masterpiece architecture', 0.6841848)
+('world greatest building', 0.6664541)
+('masterpiece architecture', 0.6472596)
+('greatest building', 0.6339315)
+('building masterpiece', 0.58159983)
+
+Topic: 4
+('building', 0.54325515)
+('facade', 0.4697927)
+('construction', 0.45600587)
+('floor', 0.44602355)
+('architectural', 0.44099945)
+('architecture', 0.43961203)
+('facility', 0.41747618)
+

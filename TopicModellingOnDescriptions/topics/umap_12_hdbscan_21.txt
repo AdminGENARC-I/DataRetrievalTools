@@ -1,0 +1,68 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('accessed april', 0.9948081)
+('april accessed', 0.9734925)
+('accessed april accessed', 0.9594978)
+('accessed april access', 0.94932604)
+('april access accessed', 0.9385127)
+('april accessed april', 0.935238)
+('noever accessed april', 0.92269194)
+
+Topic: 1
+('meanwhile', 0.6930826)
+('oma', 0.65717113)
+('oma nevertheless exciting', 0.63899183)
+('expensive', 0.6316663)
+('exciting', 0.63050663)
+('exciting expensive', 0.62994206)
+('nevertheless exciting expensive', 0.62189484)
+
+Topic: 2
+('retrieved mar', 0.75138754)
+('mar retrieved', 0.73992515)
+('retrieved mar mar', 0.733336)
+('retrieved mar accessed', 0.68570644)
+('mar retrieved mar', 0.6841233)
+('mar mar retrieved', 0.68280506)
+('accessed mar', 0.6440028)
+
+Topic: 3
+('nível edificação para', 0.55614346)
+('la comisaría como', 0.54635537)
+('de la comisaría', 0.54280347)
+('comisaría como', 0.52169776)
+('la comisaría', 0.52039087)
+('por la planta', 0.5186804)
+('na relação', 0.4905572)
+
+Topic: 4
+('expect enjoy good', 0.47482142)
+('hope everyone yulin', 0.45996445)
+('everyone yulin alley', 0.45150888)
+('yulin alley get', 0.44563082)
+('yulin alley', 0.4419838)
+('expect enjoy', 0.4351051)
+('little expect enjoy', 0.43144423)
+
+Topic: 5
+('palace westminster', 0.7215472)
+('new palace westminster', 0.71955395)
+('parliament house', 0.631781)
+('house parliament', 0.6001595)
+('westminster', 0.59538007)
+('uk parliament', 0.57558477)
+('new palace', 0.51149106)
+
+Topic: 6
+('building', 0.6057658)
+('construction', 0.51396376)
+('architectural', 0.50787705)
+('architecture', 0.4725908)
+('facility', 0.46968764)
+('facade', 0.44670683)
+('concrete', 0.3914095)
+

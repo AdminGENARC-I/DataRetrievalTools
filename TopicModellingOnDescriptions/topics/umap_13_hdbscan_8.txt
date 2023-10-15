@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('publication material via', 0.87463784)
+('material via publication', 0.8014485)
+('via publication material', 0.7723326)
+('publication material', 0.74376774)
+('going publication material', 0.70898896)
+('via publication', 0.6388464)
+('material via', 0.5997333)
+
+Topic: 1
+('noever', 0.8209891)
+('noever long', 0.74033713)
+('meanwhile noever', 0.72164154)
+('noever noever long', 0.6775454)
+('noever long nevertheless', 0.673984)
+('meanwhile', 0.6550144)
+('noever noever', 0.6520505)
+
+Topic: 2
+('accessed april', 1.0000002)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.9421593)
+('january accessed april', 0.87337804)
+('accessed june', 0.8162661)
+('june accessed', 0.785564)
+
+Topic: 3
+('building', 0.55917275)
+('construction', 0.4604439)
+('urban', 0.4215899)
+('facade', 0.40435177)
+('floor', 0.39915663)
+('concrete', 0.39092827)
+('facility', 0.38442433)
+

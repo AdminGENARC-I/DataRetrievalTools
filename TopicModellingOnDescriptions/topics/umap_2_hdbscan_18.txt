@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('cowan howells', 0.7985313)
+('cowan howells access', 0.7653465)
+('henry trevor howells', 0.7451242)
+('cowan henry trevor', 0.74484813)
+('cowan', 0.70099175)
+('trevor howells', 0.6993215)
+('cowan henry', 0.68715405)
+
+Topic: 1
+('publication material via', 0.8580048)
+('via publication material', 0.77255803)
+('material via publication', 0.7434144)
+('publication material', 0.69336474)
+('via publication', 0.6842581)
+('mar retrieved', 0.6403593)
+('retrieved mar', 0.6374856)
+
+Topic: 2
+('facility', 0.52764726)
+('building', 0.47317976)
+('space', 0.4412431)
+('construction', 0.4075732)
+('courtyard', 0.38165566)
+('area', 0.38158116)
+('station', 0.38068104)
+
+Topic: 3
+('fabric harmony city', 0.63062584)
+('fabric harmony', 0.60108995)
+('fabric photomontage show', 0.5984314)
+('shaper fabric harmony', 0.5970847)
+('shaper fabric', 0.5848589)
+('part shaper fabric', 0.5664297)
+('fabric', 0.56280935)
+

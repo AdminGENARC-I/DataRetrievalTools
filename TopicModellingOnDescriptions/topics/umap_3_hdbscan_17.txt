@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.92607725)
+('', 0.92607725)
+('', 0.92607725)
+('', 0.92607725)
+('', 0.92607725)
+('', 0.92607725)
+('', 0.92607725)
+
+Topic: 1
+('south africa amnesty', 0.9391715)
+('africa amnesty international', 0.9363933)
+('amnesty international south', 0.9107145)
+('africa amnesty', 0.85744524)
+('amnesty international', 0.8389963)
+('international south africa', 0.7399572)
+('amnesty', 0.7062882)
+
+Topic: 2
+('cru', 0.84492534)
+('cru cru', 0.7671522)
+('cru oma', 0.69224745)
+('cru cru oma', 0.682416)
+('ed treib hon', 0.6708101)
+('cru oma ed', 0.66675407)
+('treib hon', 0.6446059)
+
+Topic: 3
+('building', 0.65918785)
+('construction', 0.5359733)
+('architectural', 0.48893008)
+('facility', 0.4800439)
+('architecture', 0.47661784)
+('landscape', 0.46099675)
+('facade', 0.4500755)
+

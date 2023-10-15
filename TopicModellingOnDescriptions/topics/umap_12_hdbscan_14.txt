@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.88603806)
+('', 0.88603806)
+('', 0.88603806)
+('', 0.88603806)
+('', 0.88603806)
+('', 0.88603806)
+('', 0.88603806)
+
+Topic: 1
+('ibid', 1.0)
+('ibid ibid', 0.97439337)
+('ibid ibid ibid', 0.9427337)
+('ibid ibid ed', 0.9408348)
+('ibid ed', 0.92024904)
+('new ibid', 0.8979895)
+('ibid ibid search', 0.84694153)
+
+Topic: 2
+('cowan howells', 0.9618545)
+('howells cowan', 0.94026875)
+('cowan howells cowan', 0.9335574)
+('trevor howells cowan', 0.93034244)
+('howells cowan howells', 0.890605)
+('cowan howells fracalossi', 0.8357706)
+('cowan', 0.80061394)
+
+Topic: 3
+('himeji castle', 0.9180159)
+('castle himeji', 0.91538066)
+('himeji castle himeji', 0.9064585)
+('himeji', 0.701506)
+('japanese castle', 0.60320055)
+('castle', 0.5811471)
+('castle built', 0.5330586)
+
+Topic: 4
+('fire station', 0.9017355)
+('fire station building', 0.884496)
+('new fire station', 0.8432586)
+('gangil fire station', 0.7338113)
+('station building', 0.66385233)
+('area fire', 0.6334144)
+('fire truck', 0.6304726)
+
+Topic: 5
+('building', 0.5244509)
+('architectural', 0.5070174)
+('facility', 0.4783345)
+('architecture', 0.46593827)
+('courtyard', 0.43255383)
+('construction', 0.43070543)
+('centre', 0.4257871)
+

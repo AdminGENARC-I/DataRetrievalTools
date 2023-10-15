@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('access', 0.9999999)
+('access access', 0.9095775)
+('access access access', 0.8690796)
+('user access access', 0.80206156)
+('user access', 0.7977431)
+('access user', 0.7238461)
+('instigated user access', 0.67295575)
+
+Topic: 1
+('future seoul square', 0.7881317)
+('seoul square', 0.77622944)
+('seoul city office', 0.7044742)
+('seoul city', 0.66234136)
+('seoul', 0.6422563)
+('future seoul', 0.6076954)
+('past future seoul', 0.60662663)
+
+Topic: 2
+('building', 0.5679022)
+('facility', 0.5030828)
+('urban', 0.44636333)
+('city', 0.44206482)
+('architectural', 0.44105375)
+('central', 0.43835908)
+('construction', 0.43829465)
+

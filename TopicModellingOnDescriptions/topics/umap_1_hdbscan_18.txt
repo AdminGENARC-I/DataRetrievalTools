@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.1}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('thailand creative', 0.65189904)
+('thailand creative design', 0.6479546)
+('cru', 0.6325085)
+('cru long thailand', 0.60686266)
+('design center tcdc', 0.59360707)
+('cru cru', 0.59063447)
+('creative design', 0.5899863)
+
+Topic: 1
+('accessed april', 1.0000002)
+('april accessed', 0.9809123)
+('accessed april accessed', 0.94843197)
+('april accessed april', 0.9421594)
+('accessed april access', 0.92101187)
+('noever accessed april', 0.9030543)
+('april accessed october', 0.8783865)
+
+Topic: 2
+('building', 0.54107606)
+('facility', 0.5076705)
+('architectural', 0.5051634)
+('architecture', 0.47991836)
+('construction', 0.47322482)
+('surrounding', 0.43255758)
+('centre', 0.42877814)
+

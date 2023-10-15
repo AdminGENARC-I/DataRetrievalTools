@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('por la planta', 0.5790321)
+('de la comisaría', 0.55376035)
+('la comisaría', 0.5423028)
+('la comisaría como', 0.5389791)
+('la planta', 0.52892363)
+('comisaría como', 0.49400753)
+('entrada de luz', 0.47762996)
+
+Topic: 1
+('rome pantheon', 0.6172472)
+('pantheon trajan temple', 0.59319615)
+('pantheon rome', 0.58533525)
+('pantheon rome pantheon', 0.5821513)
+('principle roman architecture', 0.5780433)
+('pantheon paris', 0.57364225)
+('pantheon paris principle', 0.5493614)
+
+Topic: 2
+('building', 0.54031813)
+('construction', 0.45442557)
+('facility', 0.45216793)
+('room', 0.39803928)
+('architectural', 0.38862735)
+('architecture', 0.3825696)
+('entrance', 0.3752918)
+
+Topic: 3
+('fair', 0.7096518)
+('oma', 0.66760147)
+('meanwhile', 0.6513098)
+('obvious', 0.6498201)
+('', 0.6318923)
+('', 0.6318923)
+('', 0.6318923)
+
+Topic: 4
+('zaha hadid architect', 0.74981934)
+('al shaheed monument', 0.59753275)
+('hadid architect', 0.58422315)
+('zaha hadid', 0.5417503)
+('shaheed monument', 0.5334877)
+('architect', 0.52340364)
+('hussein', 0.4814561)
+

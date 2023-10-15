@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('indiana convention center', 0.74615204)
+('facility indiana convention', 0.7169456)
+('expansion indiana convention', 0.68395764)
+('indiana stadium convention', 0.6834274)
+('indiana convention', 0.6735879)
+('convention center', 0.6119977)
+('convention center together', 0.6062823)
+
+Topic: 1
+('change port rotterdam', 0.77521706)
+('port rotterdam various', 0.7536513)
+('port rotterdam', 0.7528609)
+('port rotterdam also', 0.7435897)
+('port rotterdam two', 0.72662157)
+('point port rotterdam', 0.7114268)
+('city rotterdam', 0.6824394)
+
+Topic: 2
+('building', 0.64356196)
+('architectural', 0.54670435)
+('construction', 0.5386354)
+('architecture', 0.529353)
+('community', 0.5002275)
+('urban', 0.4742725)
+('facility', 0.46599895)
+

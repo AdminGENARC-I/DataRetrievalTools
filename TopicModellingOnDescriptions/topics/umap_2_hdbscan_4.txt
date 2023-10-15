@@ -1,0 +1,95 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('plan section', 0.7491887)
+('varying profile plan', 0.7378473)
+('modeling best plan', 0.73243123)
+('plan section repeated', 0.7234035)
+('regular plan brief', 0.71742696)
+('profile plan section', 0.7120594)
+('regular plan', 0.6949012)
+
+Topic: 1
+('sound insulation use', 0.7362721)
+('ideal sound insulation', 0.72604215)
+('improve acoustic insulation', 0.7037324)
+('heat insulation soundproofing', 0.7033622)
+('insulation soundproofing air', 0.6892762)
+('insulation soundproofing', 0.6761559)
+('soundproofing air', 0.581997)
+
+Topic: 2
+('originally published july', 0.99183154)
+('published july originally', 0.9771371)
+('july originally published', 0.9645703)
+('published july', 0.9252939)
+('originally published january', 0.86003804)
+('published january originally', 0.83577)
+('originally published august', 0.8353186)
+
+Topic: 3
+('trencher', 0.9734483)
+('trencher trencher', 0.94191027)
+('trencher trencher really', 0.8855107)
+('trencher really', 0.8848909)
+('trencher michael trencher', 0.8623698)
+('trencher fleig trencher', 0.84747756)
+('trencher fleig', 0.8044896)
+
+Topic: 4
+('de la comisaría', 0.5626701)
+('la comisaría como', 0.55615896)
+('la comisaría', 0.5390079)
+('por la planta', 0.52106166)
+('comisaría como', 0.5190614)
+('neste nível edificação', 0.48352376)
+('la planta', 0.45606488)
+
+Topic: 5
+('himeji castle', 0.91028756)
+('castle himeji', 0.9059981)
+('himeji castle himeji', 0.9037899)
+('japan himeji castle', 0.8748697)
+('himeji', 0.697942)
+('japan himeji', 0.6953235)
+('japanese castle', 0.6007999)
+
+Topic: 6
+('concrete column grid', 0.80696696)
+('reinforced concrete column', 0.7002623)
+('original concrete column', 0.6872387)
+('concrete column', 0.68255675)
+('column grid', 0.5599233)
+('reinforced concrete', 0.51092947)
+('original concrete', 0.47431093)
+
+Topic: 7
+('fire station building', 0.8694267)
+('fire station', 0.86058545)
+('new fire station', 0.8089553)
+('gangil fire station', 0.7221069)
+('area fire', 0.6413294)
+('fire truck', 0.62937075)
+('station building', 0.6237515)
+
+Topic: 8
+('lost rwandan design', 0.6086283)
+('ngo', 0.53624594)
+('rwanda', 0.4884973)
+('rwandan', 0.4711117)
+('opportunity center', 0.43563902)
+('lost rwandan', 0.4095329)
+('malawi new', 0.4060849)
+
+Topic: 9
+('public space', 0.64489776)
+('building', 0.5882864)
+('construction', 0.47360307)
+('architectural', 0.45955253)
+('facade', 0.4492343)
+('architecture', 0.4434384)
+('facility', 0.4040261)
+

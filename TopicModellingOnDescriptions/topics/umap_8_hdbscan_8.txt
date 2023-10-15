@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('access', 1.0000001)
+('access access', 0.90957737)
+('access access access', 0.86907965)
+('access noever access', 0.776853)
+('control access', 0.7380367)
+('noever access', 0.7343551)
+('access user', 0.7238461)
+
+Topic: 1
+('building', 0.63863564)
+('room', 0.5798102)
+('facility', 0.57942915)
+('space', 0.567221)
+('floor', 0.5628343)
+('construction', 0.55136013)
+('architectural', 0.4881802)
+
+Topic: 2
+('meanwhile', 0.7210889)
+('fair', 0.68816084)
+('meanwhile long', 0.6813046)
+('long', 0.6549083)
+('long etc', 0.61655754)
+('etc', 0.610378)
+('', 0.59350735)
+
+Topic: 3
+('obvious', 0.7449717)
+('answer obvious', 0.7395456)
+('obvious obvious', 0.710937)
+('obvious made', 0.7011523)
+('answer obvious obvious', 0.6768126)
+('obvious obvious made', 0.6656294)
+('obvious made going', 0.64397216)
+
+Topic: 4
+('', 0.851652)
+('', 0.851652)
+('', 0.851652)
+('', 0.851652)
+('', 0.851652)
+('', 0.851652)
+('', 0.851652)
+

@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('por la planta', 0.5199187)
+('de la comisaría', 0.51594484)
+('ortogonalidade acima com', 0.5090511)
+('la comisaría', 0.49468687)
+('la comisaría como', 0.48914474)
+('la planta', 0.47458434)
+('comisaría como', 0.4395952)
+
+Topic: 1
+('tange', 0.8757568)
+('tange tange', 0.8327333)
+('tange tange million', 0.8035754)
+('tange tange tange', 0.7777178)
+('tange million', 0.7740426)
+('long tange tange', 0.743428)
+('long tange', 0.7401891)
+
+Topic: 2
+('mark wilson jones', 0.65756977)
+('randers tegl', 0.65005445)
+('wilson jones', 0.62680435)
+('wilson jones kostof', 0.6092558)
+('mason nader khalili', 0.5826491)
+('mark wilson', 0.58091885)
+('randers', 0.5645274)
+
+Topic: 3
+('building', 0.6341938)
+('construction', 0.52733374)
+('architecture', 0.45996526)
+('architectural', 0.45198417)
+('architect', 0.41207582)
+('facility', 0.41202807)
+('facade', 0.39919776)
+

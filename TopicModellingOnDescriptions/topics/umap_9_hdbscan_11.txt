@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.8615556)
+('', 0.8615556)
+('', 0.8615556)
+('', 0.8615556)
+('', 0.8615556)
+('', 0.8615556)
+('', 0.8615556)
+
+Topic: 1
+('', 0.97832054)
+('', 0.97832054)
+('', 0.97832054)
+('', 0.97832054)
+('', 0.97832054)
+('', 0.97832054)
+('', 0.97832054)
+
+Topic: 2
+('building', 0.6248019)
+('architecture', 0.5465505)
+('architectural', 0.54646474)
+('construction', 0.52532387)
+('architect', 0.48723263)
+('facade', 0.46988735)
+('concrete', 0.43582872)
+
+Topic: 3
+('cambridge university press', 0.73139465)
+('yale university press', 0.7237911)
+('university press london', 0.7016967)
+('oxford university press', 0.6989446)
+('university press new', 0.6938535)
+('university press', 0.675447)
+('yale university', 0.53879154)
+

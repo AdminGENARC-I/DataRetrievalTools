@@ -1,0 +1,95 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.94590735)
+('', 0.94590735)
+('', 0.94590735)
+('', 0.94590735)
+('', 0.94590735)
+('', 0.94590735)
+('', 0.94590735)
+
+Topic: 1
+('', 0.9999999)
+('', 0.9999999)
+('', 0.9999999)
+('', 0.9999999)
+('', 0.9999999)
+('', 0.9999999)
+('', 0.9999999)
+
+Topic: 2
+('cru', 0.79804325)
+('meanwhile cru', 0.7417779)
+('cru cru', 0.712726)
+('cru sock', 0.71172976)
+('meanwhile cru cru', 0.7034695)
+('cru cru sock', 0.69503736)
+('cru sock long', 0.6770046)
+
+Topic: 3
+('square seoul city', 0.7807965)
+('square seoul', 0.7600014)
+('seoul city hall', 0.7590413)
+('seoul square symbolical', 0.75352854)
+('seoul square seoul', 0.7510862)
+('extension seoul square', 0.74763846)
+('center seoul existing', 0.74706054)
+
+Topic: 4
+('access', 1.0000001)
+('access access', 0.9095775)
+('access access access', 0.86907965)
+('access allowed', 0.86503726)
+('user access', 0.79774296)
+('access clarifies', 0.7935227)
+('access access clarifies', 0.78771436)
+
+Topic: 5
+('randers tegl', 0.61784935)
+('randers', 0.5123805)
+('mccarter robert kahn', 0.4983642)
+('kahn', 0.4670142)
+('marine base amsterdam', 0.46594992)
+('amsterdam', 0.44514984)
+('munich prestel haver', 0.43998492)
+
+Topic: 6
+('de la comisaría', 0.5929588)
+('la comisaría como', 0.5813293)
+('la comisaría', 0.5718869)
+('nível edificação para', 0.55913997)
+('por la planta', 0.55249226)
+('nível edificação', 0.53398407)
+('comisaría como', 0.5292921)
+
+Topic: 7
+('japan himeji castle', 0.9056065)
+('himeji castle', 0.90213555)
+('castle himeji', 0.89664495)
+('himeji castle himeji', 0.88404775)
+('japan himeji', 0.70366186)
+('japanese castle', 0.6743928)
+('himeji', 0.6569229)
+
+Topic: 8
+('accessed april', 1.0)
+('april accessed', 0.9809124)
+('accessed april accessed', 0.948432)
+('april accessed april', 0.9421596)
+('accessed april access', 0.9210118)
+('noever accessed april', 0.90305436)
+('april access', 0.86404973)
+
+Topic: 9
+('building', 0.6035942)
+('construction', 0.50357234)
+('architectural', 0.49601448)
+('architecture', 0.47164777)
+('facade', 0.4557352)
+('concrete', 0.4286637)
+('courtyard', 0.42588633)
+

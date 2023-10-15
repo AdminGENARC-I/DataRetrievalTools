@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('south africa amnesty', 0.93917143)
+('africa amnesty international', 0.9363932)
+('amnesty international south', 0.9107145)
+('africa amnesty', 0.85744506)
+('amnesty international', 0.8389963)
+('international south africa', 0.739957)
+('amnesty', 0.7062881)
+
+Topic: 1
+('', 0.7739993)
+('', 0.7739993)
+('', 0.7739993)
+('', 0.7739993)
+('', 0.7739993)
+('', 0.7739993)
+('', 0.7739993)
+
+Topic: 2
+('', 0.98025143)
+('', 0.98025143)
+('', 0.98025143)
+('', 0.98025143)
+('', 0.98025143)
+('', 0.98025143)
+('', 0.98025143)
+
+Topic: 3
+('castle himeji castle', 0.90210605)
+('himeji castle', 0.9002665)
+('castle himeji', 0.8948421)
+('himeji castle himeji', 0.8892546)
+('japan himeji castle', 0.88283956)
+('japan himeji', 0.68956065)
+('himeji', 0.6716913)
+
+Topic: 4
+('combination block created', 0.7652051)
+('combination block', 0.7326429)
+('block represents', 0.6956979)
+('block block represents', 0.6690301)
+('block', 0.66026044)
+('block block', 0.6578814)
+('block created unusual', 0.6463237)
+
+Topic: 5
+('building', 0.56629145)
+('architectural', 0.51533026)
+('construction', 0.50714463)
+('architecture', 0.48110133)
+('facade', 0.48005453)
+('design', 0.45947224)
+('surrounding', 0.43381333)
+

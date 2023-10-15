@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('south africa amnesty', 0.9391715)
+('africa amnesty international', 0.93639326)
+('amnesty international south', 0.91071457)
+('africa amnesty', 0.85744524)
+('amnesty international', 0.83899647)
+('part amnesty international', 0.7485315)
+('international south africa', 0.7399572)
+
+Topic: 1
+('description break image', 0.7922623)
+('architect description break', 0.78771937)
+('image architect description', 0.7525419)
+('break image architect', 0.7126373)
+('description break', 0.6249144)
+('architect description', 0.5712629)
+('break image', 0.5618635)
+
+Topic: 2
+('sauna public sauna', 0.86057675)
+('sauna bathing sauna', 0.81680727)
+('room sauna', 0.8097875)
+('sauna experience available', 0.79688966)
+('public sauna', 0.7942127)
+('sauna public', 0.7932167)
+('sauna', 0.79231864)
+
+Topic: 3
+('dweller sense shadow', 0.625185)
+('shadow weight encloses', 0.57122743)
+('sometimes outside count', 0.5697592)
+('sense shadow another', 0.56638473)
+('shadow weight', 0.56135815)
+('oca shadow weight', 0.558292)
+('place oca shadow', 0.5487447)
+
+Topic: 4
+('tange kenzō', 0.6743318)
+('kochuri pana topa', 0.6620802)
+('pana khudi pana', 0.6509423)
+('pana topa pana', 0.6346703)
+('pana khudi', 0.6316166)
+('khudi pana', 0.62445784)
+('pana topa', 0.6215621)
+
+Topic: 5
+('building', 0.5393878)
+('space', 0.4829639)
+('architectural', 0.4716453)
+('room', 0.4677114)
+('facility', 0.46512762)
+('surrounding', 0.4534999)
+('architecture', 0.44817638)
+

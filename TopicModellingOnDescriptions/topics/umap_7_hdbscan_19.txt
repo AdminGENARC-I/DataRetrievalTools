@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('noever', 0.8025548)
+('meanwhile noever', 0.7199321)
+('noever noever', 0.66035295)
+('meanwhile', 0.634217)
+('meanwhile noever noever', 0.6251225)
+('noever long', 0.6111697)
+('noever long even', 0.6072923)
+
+Topic: 1
+('cru', 0.8048452)
+('cru cru', 0.7623234)
+('cru cru worked', 0.692722)
+('cru worked', 0.68019426)
+('cru worked possible', 0.6473843)
+('network cru cru', 0.6155261)
+('network cru', 0.5872005)
+
+Topic: 2
+('architect description break', 0.6978907)
+('description break image', 0.6976541)
+('image architect description', 0.64580977)
+('break image architect', 0.605953)
+('description break', 0.5721247)
+('yale university press', 0.51301086)
+('architect description', 0.512117)
+
+Topic: 3
+('building', 0.74587184)
+('construction', 0.6285918)
+('architecture', 0.55168676)
+('architectural', 0.55024076)
+('architect', 0.52614963)
+('design', 0.507545)
+('facade', 0.504473)
+

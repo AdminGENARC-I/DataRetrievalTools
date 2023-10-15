@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('answer obvious', 0.81088364)
+('obvious', 0.79024124)
+('needed obvious', 0.77741206)
+('answer obvious everybody', 0.7479119)
+('obvious everybody', 0.72593457)
+('want needed obvious', 0.722692)
+('obvious everybody want', 0.70376825)
+
+Topic: 1
+('access', 1.0)
+('access access', 0.9095775)
+('access access access', 0.8690796)
+('noever access', 0.7343551)
+('access noever', 0.657387)
+('nyhavn access access', 0.6453448)
+('war access access', 0.61729693)
+
+Topic: 2
+('four client requirement', 0.6987674)
+('sustainable first client', 0.67373097)
+('help client achieve', 0.64973867)
+('project good client', 0.61893547)
+('four client', 0.58230764)
+('help client', 0.57932734)
+('exciting client economy', 0.56729984)
+
+Topic: 3
+('building', 0.57486546)
+('space', 0.5298446)
+('architectural', 0.51236284)
+('room', 0.4947375)
+('construction', 0.4906687)
+('architecture', 0.47708845)
+('facility', 0.46804124)
+

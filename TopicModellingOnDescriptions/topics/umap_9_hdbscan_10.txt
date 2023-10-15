@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('sq', 0.88630223)
+('sq site sq', 0.8602762)
+('sq site', 0.8569397)
+('site sq', 0.8535997)
+('exciting sq site', 0.79492915)
+('exciting sq', 0.775573)
+('site sq going', 0.76466)
+
+Topic: 1
+('building', 0.73082125)
+('construction', 0.5903739)
+('architectural', 0.53824383)
+('architecture', 0.5018066)
+('facade', 0.48437592)
+('architect', 0.46639517)
+('facility', 0.44254366)
+
+Topic: 2
+('', 0.97990894)
+('', 0.97990894)
+('', 0.97990894)
+('', 0.97990894)
+('', 0.97990894)
+('', 0.97990894)
+('', 0.97990894)
+
+Topic: 3
+('meanwhile', 0.7315357)
+('meanwhile long', 0.67626286)
+('fair', 0.6725699)
+('long', 0.6410446)
+('etc', 0.6390349)
+('', 0.6309071)
+('', 0.6309071)
+

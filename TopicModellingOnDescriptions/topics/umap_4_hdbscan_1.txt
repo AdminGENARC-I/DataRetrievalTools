@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('product description', 0.99999976)
+('description product', 0.9604059)
+('description product description', 0.9337225)
+('product description product', 0.92640555)
+('description', 0.8528358)
+('product description going', 0.8444784)
+('description going', 0.69692564)
+
+Topic: 1
+('himeji castle', 0.9102876)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('himeji', 0.69794196)
+('japanese castle', 0.6007999)
+('castle', 0.5626756)
+('castle built', 0.53320265)
+
+Topic: 2
+('building', 0.60720456)
+('construction', 0.50687325)
+('facility', 0.5009588)
+('architectural', 0.47419953)
+('floor', 0.47413886)
+('architecture', 0.46828842)
+('area', 0.45217535)
+

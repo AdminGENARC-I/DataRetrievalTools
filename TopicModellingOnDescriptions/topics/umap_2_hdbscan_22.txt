@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('road casa grand', 0.7351062)
+('grand casa city', 0.72728837)
+('casamia community house', 0.72454417)
+('casa', 0.713809)
+('casa city', 0.71191967)
+('road casa', 0.7109771)
+('city long casa', 0.707798)
+
+Topic: 1
+('cru', 0.81438637)
+('meanwhile cru', 0.79043937)
+('meanwhile cru cru', 0.7520032)
+('cru cru', 0.7317339)
+('cru cru ed', 0.73064923)
+('cru ed', 0.71807647)
+('meanwhile', 0.6419492)
+
+Topic: 2
+('south africa amnesty', 0.93917155)
+('africa amnesty international', 0.93639326)
+('amnesty international south', 0.91071445)
+('africa amnesty', 0.85744524)
+('amnesty international', 0.8389963)
+('part amnesty international', 0.7485315)
+('international south africa', 0.7399571)
+
+Topic: 3
+('building', 0.62784135)
+('project', 0.5457579)
+('architectural', 0.5303599)
+('construction', 0.5263943)
+('courtyard', 0.52039826)
+('architecture', 0.50943726)
+('facade', 0.50429356)
+

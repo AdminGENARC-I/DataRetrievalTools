@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('sauna public sauna', 0.7129611)
+('sauna public', 0.68759334)
+('public sauna', 0.6867123)
+('sauna bathing', 0.66845894)
+('rarity urban sauna', 0.6452689)
+('part public sauna', 0.6343929)
+('sauna lounge', 0.6324797)
+
+Topic: 1
+('public restroom', 0.77651846)
+('entering public restroom', 0.7761883)
+('public restroom especially', 0.749735)
+('public restroom go', 0.74893826)
+('unused people restroom', 0.7447256)
+('many public restroom', 0.73909974)
+('restroom go unused', 0.7238927)
+
+Topic: 2
+('himeji castle', 0.9102876)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.9037898)
+('japan himeji castle', 0.8748696)
+('himeji', 0.6979421)
+('japan himeji', 0.69532347)
+('japanese castle', 0.60080004)
+
+Topic: 3
+('building', 0.6625626)
+('architectural', 0.5772859)
+('architecture', 0.5676985)
+('facade', 0.56405103)
+('construction', 0.53860176)
+('project', 0.50113714)
+('architect', 0.4939822)
+

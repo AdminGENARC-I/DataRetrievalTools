@@ -1,0 +1,77 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('cowan howells', 0.9618546)
+('howells cowan', 0.9402688)
+('howells cowan henry', 0.93270904)
+('trevor howells cowan', 0.93034244)
+('cowan howells etc', 0.93014455)
+('howells etc cowan', 0.9091871)
+('howells cowan howells', 0.890605)
+
+Topic: 1
+('prison architecture', 0.83709157)
+('penitentiary based', 0.6123754)
+('paradox contemporary penitentiary', 0.57513344)
+('new correctional facility', 0.57497764)
+('new correctional', 0.56235546)
+('prison', 0.55280983)
+('penitentiary', 0.5240356)
+
+Topic: 2
+('cru', 0.8089572)
+('meanwhile call cru', 0.7476428)
+('cru cru', 0.7360487)
+('call cru', 0.7110481)
+('call cru cru', 0.6928816)
+('cru long', 0.67202103)
+('cru cru long', 0.6423565)
+
+Topic: 3
+('', 0.9999998)
+('', 0.9999998)
+('', 0.9999998)
+('', 0.9999998)
+('', 0.9999998)
+('', 0.9999998)
+('', 0.9999998)
+
+Topic: 4
+('himeji castle', 0.91028774)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.9037897)
+('philip himeji castle', 0.8608248)
+('himeji', 0.697942)
+('philip himeji', 0.642654)
+('japanese castle', 0.6008)
+
+Topic: 5
+('access', 0.9999999)
+('access access', 0.90957725)
+('access access access', 0.8690795)
+('accessed', 0.83795786)
+('access access retrieved', 0.7974552)
+('access retrieved', 0.7776066)
+('access noever access', 0.7768529)
+
+Topic: 6
+('national assembly building', 0.6791995)
+('national assembly', 0.5347004)
+('government bangladesh', 0.5337876)
+('government bangladesh national', 0.5309124)
+('make building monumental', 0.5265173)
+('assembly building', 0.5217388)
+('massive entity bengali', 0.46168542)
+
+Topic: 7
+('building', 0.6388172)
+('facade', 0.5772372)
+('architectural', 0.5496028)
+('surrounding', 0.53863525)
+('architecture', 0.53442913)
+('construction', 0.5301094)
+('landscape', 0.4904871)
+

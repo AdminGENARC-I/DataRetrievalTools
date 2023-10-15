@@ -1,0 +1,77 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.9803425)
+('', 0.9803425)
+('', 0.9803425)
+('', 0.9803425)
+('', 0.9803425)
+('', 0.9803425)
+('', 0.9803425)
+
+Topic: 1
+('ayers', 0.91553056)
+('ayers going', 0.8485619)
+('ayers ayers', 0.83765256)
+('ayers ayers going', 0.82754916)
+('ayers ayers ayers', 0.7950651)
+('', 0.5498541)
+('', 0.5498541)
+
+Topic: 2
+('trencher', 0.97108614)
+('trencher trencher', 0.9301311)
+('trencher michael trencher', 0.8519612)
+('trencher fleig trencher', 0.8501109)
+('trencher trencher fleig', 0.8424496)
+('michael trencher trencher', 0.8322072)
+('trencher fleig', 0.81831586)
+
+Topic: 3
+('access', 1.0000001)
+('access access', 0.9095775)
+('access access access', 0.8690796)
+('access access different', 0.77447474)
+('ed access access', 0.7233366)
+('selected access', 0.699923)
+('john access', 0.6770321)
+
+Topic: 4
+('shell thickness', 0.83467007)
+('shell thickness centimeter', 0.82021534)
+('thick cylindrical shell', 0.78959805)
+('varies thickness bottom', 0.68167365)
+('cylindrical shell structure', 0.6766648)
+('varies thickness', 0.6677214)
+('thickness centimeter pot', 0.66365397)
+
+Topic: 5
+('himeji castle', 0.9102876)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('new himeji castle', 0.83231777)
+('himeji', 0.6979421)
+('new himeji', 0.63022673)
+('japanese castle', 0.6007999)
+
+Topic: 6
+('cowan howells', 0.7967118)
+('henry trevor howells', 0.71947265)
+('cowan henry trevor', 0.7181913)
+('cowan henry', 0.6707535)
+('cowan', 0.65984845)
+('trevor howells', 0.64930576)
+('howells', 0.57567203)
+
+Topic: 7
+('building', 0.6164598)
+('construction', 0.48765182)
+('facade', 0.46935713)
+('architectural', 0.44902772)
+('architecture', 0.41881666)
+('architect', 0.38809362)
+('structure', 0.36000675)
+

@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('addressing homelessness challenge', 0.7999568)
+('homelessness challenge', 0.7790987)
+('dealing problem homelessness', 0.7781491)
+('idea around homelessness', 0.7743407)
+('approach addressing homelessness', 0.7668089)
+('homelessness challenge perpetuating', 0.7660069)
+('problem homelessness', 0.76587415)
+
+Topic: 1
+('', 0.9426577)
+('', 0.9426577)
+('', 0.9426577)
+('', 0.9426577)
+('', 0.9426577)
+('', 0.9426577)
+('', 0.9426577)
+
+Topic: 2
+('building', 0.56921047)
+('facility', 0.5072851)
+('architectural', 0.50067925)
+('construction', 0.4913935)
+('architecture', 0.48209563)
+('facade', 0.4635387)
+('space', 0.45680195)
+

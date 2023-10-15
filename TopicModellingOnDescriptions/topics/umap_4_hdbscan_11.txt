@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.97832084)
+('', 0.97832084)
+('', 0.97832084)
+('', 0.97832084)
+('', 0.97832084)
+('', 0.97832084)
+('', 0.97832084)
+
+Topic: 1
+('obvious', 0.8354598)
+('answer obvious', 0.8111362)
+('obvious obvious', 0.7948066)
+('obvious possible', 0.7261038)
+('answer obvious obvious', 0.72289777)
+('little confused', 0.6633698)
+('obvious obvious possible', 0.6584554)
+
+Topic: 2
+('celebrated architecture project', 0.6905228)
+('architecture project visit', 0.68149745)
+('celebrated architecture', 0.6436315)
+('behind celebrated architecture', 0.64305675)
+('project visit ad', 0.6164892)
+('visit ad classic', 0.5456213)
+('ad classic section', 0.5392479)
+
+Topic: 3
+('text provided acxt', 0.8419353)
+('text provided', 0.79732955)
+('text provided atelier', 0.7959291)
+('arquitectos text provided', 0.77056754)
+('text', 0.7575164)
+('arquitectos text', 0.7217659)
+('ny yimby text', 0.517256)
+
+Topic: 4
+('yale university press', 0.87805104)
+('cambridge university press', 0.8261434)
+('oxford university press', 0.8046261)
+('university press london', 0.7992517)
+('university press new', 0.79548275)
+('university press', 0.7752019)
+('london yale university', 0.7383121)
+
+Topic: 5
+('building', 0.70355976)
+('facade', 0.5882669)
+('construction', 0.56697416)
+('architectural', 0.5397771)
+('architecture', 0.5115767)
+('architect', 0.5030104)
+('interior', 0.45209974)
+

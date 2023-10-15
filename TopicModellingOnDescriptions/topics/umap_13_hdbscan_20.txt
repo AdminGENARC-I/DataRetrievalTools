@@ -1,0 +1,68 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('judiciary police department', 0.7350075)
+('judiciary police', 0.72041756)
+('new judiciary police', 0.707662)
+('investigation institution portuguese', 0.6951901)
+('word judiciary police', 0.6696353)
+('department headquarters lisbon', 0.6627464)
+('institution portuguese justice', 0.6600934)
+
+Topic: 1
+('noever learn park', 0.7719845)
+('learn park', 0.70213354)
+('noever', 0.6996999)
+('learn park park', 0.67825496)
+('park', 0.65769285)
+('park longer entered', 0.6487456)
+('park also take', 0.6208508)
+
+Topic: 2
+('iconographic feature oklahoma', 0.5627942)
+('oklahoma homage agricultural', 0.55877167)
+('iconography oklahoma', 0.52164674)
+('map iconography oklahoma', 0.5164603)
+('iconography oklahoma known', 0.5158787)
+('homage agricultural energy', 0.4766899)
+('industrial revolution canal', 0.47565675)
+
+Topic: 3
+('text provided', 0.7327786)
+('text provided atelier', 0.730482)
+('text provided acxt', 0.68712044)
+('text', 0.6678995)
+('arquitectos text provided', 0.6189279)
+('arquitectos text', 0.552978)
+('inclusive school deaf', 0.50235975)
+
+Topic: 4
+('acoustic requirement', 0.6424303)
+('oak flooring acoustic', 0.63972306)
+('acoustic panel', 0.6363516)
+('would find acoustic', 0.60795105)
+('structure flexibility acoustic', 0.60793066)
+('acoustic', 0.60393417)
+('modulated use acoustic', 0.59254134)
+
+Topic: 5
+('de la comisaría', 0.59295887)
+('la comisaría como', 0.5813293)
+('la comisaría', 0.5718869)
+('por la planta', 0.55249226)
+('comisaría como', 0.52929205)
+('la planta', 0.4993912)
+('como un edificio', 0.4856382)
+
+Topic: 6
+('building', 0.7568611)
+('construction', 0.6215354)
+('facade', 0.5874998)
+('architectural', 0.5740448)
+('architecture', 0.5563214)
+('architect', 0.54246396)
+('design', 0.49213254)
+

@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('access', 1.0)
+('access access', 0.9095775)
+('access access access', 0.86907965)
+('meanwhile access', 0.75736576)
+('noever access', 0.73435515)
+('access noever', 0.65738714)
+('life access', 0.63307905)
+
+Topic: 1
+('relationship china taiwan', 0.81830645)
+('relationship china', 0.71740305)
+('predominates relationship china', 0.66273963)
+('regarding status taiwan', 0.624768)
+('taiwan', 0.5290916)
+('relationship island', 0.49321052)
+('relates mainland', 0.4716109)
+
+Topic: 2
+('originally published july', 0.8740499)
+('published july originally', 0.8541783)
+('july originally published', 0.84451497)
+('published july', 0.8367131)
+('originally published january', 0.7195629)
+('originally published march', 0.7186961)
+('published january', 0.68581223)
+
+Topic: 3
+('randers tegl endicott', 0.7173879)
+('randers tegl jansen', 0.69172376)
+('randers tegl kryton', 0.6810128)
+('randers tegl', 0.66900873)
+('sika kryton randers', 0.6522717)
+('mason nader khalili', 0.6002371)
+('randers tegl egger', 0.59437144)
+
+Topic: 4
+('embassy building', 0.7599202)
+('structure embassy', 0.7415269)
+('norwegian embassy', 0.72652173)
+('embassy', 0.68751585)
+('embassy korean', 0.6838552)
+('new embassy', 0.66441756)
+('consulate', 0.6364831)
+
+Topic: 5
+('building', 0.6446045)
+('facade', 0.53637874)
+('construction', 0.508546)
+('architectural', 0.49869698)
+('architecture', 0.48613006)
+('architect', 0.43807542)
+('concrete', 0.41438895)
+

@@ -1,0 +1,518 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.90271497)
+('', 0.90271497)
+('', 0.90271497)
+('', 0.90271497)
+('', 0.90271497)
+('', 0.90271497)
+('', 0.90271497)
+
+Topic: 1
+('cru', 0.8157803)
+('meanwhile cru', 0.748498)
+('cru cru', 0.74385536)
+('cru sock', 0.7429734)
+('cru cru sock', 0.7304148)
+('meanwhile cru cru', 0.7250017)
+('cru sock long', 0.63711804)
+
+Topic: 2
+('', 0.94679105)
+('', 0.94679105)
+('', 0.94679105)
+('', 0.94679105)
+('', 0.94679105)
+('', 0.94679105)
+('', 0.94679105)
+
+Topic: 3
+('originally published july', 0.9809079)
+('published july originally', 0.9684787)
+('july originally published', 0.95441085)
+('published july', 0.9247439)
+('published july note', 0.8336113)
+('originally published may', 0.828153)
+('originally published april', 0.8229)
+
+Topic: 4
+('need boiler system', 0.7263079)
+('produce steam boiler', 0.7104492)
+('need boiler', 0.70577586)
+('produced boiler requiring', 0.70391536)
+('produced boiler', 0.6797881)
+('boiler', 0.6746188)
+('heating system', 0.67084444)
+
+Topic: 5
+('prison architecture', 0.6583549)
+('prison', 0.44633895)
+('new correctional', 0.42927197)
+('new correctional facility', 0.42640424)
+('prisoner', 0.39188796)
+('penitentiary', 0.3856302)
+('enric penitentiary', 0.36486307)
+
+Topic: 6
+('part system developed', 0.62740076)
+('considered part system', 0.60140383)
+('structural system intentionally', 0.5720168)
+('systematization design', 0.53552186)
+('execution construction process', 0.5327599)
+('system developed', 0.53146887)
+('system developed following', 0.5312418)
+
+Topic: 7
+('international zone hague', 0.68749464)
+('international zone eurojust', 0.647545)
+('hague', 0.62626815)
+('side embassy kingdom', 0.5954654)
+('embassy', 0.5787515)
+('rivierenbuurt hague serf', 0.5452597)
+('side embassy', 0.5447648)
+
+Topic: 8
+('rainwater flowing gutter', 0.73768544)
+('rainwater collected roof', 0.7031999)
+('rain facade', 0.6806759)
+('material rain facade', 0.66965926)
+('water collected roof', 0.6625252)
+('water management roof', 0.64998436)
+('roof waterproofed drainage', 0.6447147)
+
+Topic: 9
+('design come seoul', 0.5115644)
+('construction waste', 0.50595486)
+('seoul square concept', 0.46015695)
+('school building', 0.43085766)
+('seoul square', 0.420206)
+('seoul', 0.4173359)
+('extension seoul square', 0.41402656)
+
+Topic: 10
+('monument baghdad monument', 0.6966203)
+('baghdad monument', 0.6938238)
+('al shaheed monument', 0.6229327)
+('president dictator saddam', 0.58162105)
+('regime iraq', 0.56900334)
+('shaheed monument', 0.56698513)
+('hussein', 0.55164933)
+
+Topic: 11
+('open facade competition', 0.62154263)
+('facade', 0.56531096)
+('finish construction building', 0.5557946)
+('finish construction', 0.4946881)
+('construction building', 0.4851014)
+('building', 0.446414)
+('new compact building', 0.4387153)
+
+Topic: 12
+('material constructing building', 0.55932033)
+('month preparing timber', 0.5232939)
+('timber', 0.49813408)
+('material constructing', 0.43384284)
+('architect', 0.4230774)
+('development', 0.3940379)
+('wood', 0.37592995)
+
+Topic: 13
+('identity community rohingya', 0.6779585)
+('rohingya cultural memory', 0.6626948)
+('rohingya cultural', 0.6317985)
+('rohingya refugee', 0.6081448)
+('memory hindupara community', 0.59558445)
+('opinion rohingya refugee', 0.56784713)
+('inspired historic chakravyuha', 0.55891836)
+
+Topic: 14
+('cambridge university press', 0.926221)
+('university press cambridge', 0.915374)
+('oxford university press', 0.81785345)
+('university press london', 0.81720924)
+('press cambridge cambridge', 0.7948656)
+('university press', 0.78020155)
+('press cambridge', 0.77857447)
+
+Topic: 15
+('parliament building', 0.5538298)
+('bring kui elephant', 0.549534)
+('kui elephant', 0.5401026)
+('living condition elephant', 0.53475183)
+('kui elephant back', 0.5058737)
+('elephant world', 0.49535292)
+('house parliament', 0.48744193)
+
+Topic: 16
+('external thermal insulation', 0.75917435)
+('thermal insulation', 0.721162)
+('insulation external', 0.7197226)
+('insulation existing building', 0.69061357)
+('insulation requirement', 0.6890036)
+('insulation reduces thermal', 0.6854435)
+('insulation typology sustainability', 0.6847719)
+
+Topic: 17
+('de la comisaría', 0.6014707)
+('la comisaría como', 0.5951481)
+('la comisaría', 0.5650475)
+('comisaría como', 0.5399789)
+('como un edificio', 0.48492438)
+('corredores escadas', 0.4374516)
+('un edificio', 0.42595133)
+
+Topic: 18
+('geothermal heat', 0.7852043)
+('geothermal energy', 0.77786744)
+('geothermal', 0.7661797)
+('geothermal well', 0.7499661)
+('part building geothermal', 0.73149323)
+('geothermal well drilled', 0.68086076)
+('heating cooling system', 0.5947193)
+
+Topic: 19
+('leed silver certification', 0.7503389)
+('certification green building', 0.72182)
+('leed gold certification', 0.7087662)
+('silver certification project', 0.7025254)
+('gold certification leed', 0.6929998)
+('silver certification ground', 0.6772339)
+('silver certification', 0.6709087)
+
+Topic: 20
+('himeji castle', 0.9002666)
+('castle himeji', 0.89484227)
+('himeji castle himeji', 0.88925457)
+('iteration himeji castle', 0.8202901)
+('access himeji castle', 0.8013896)
+('city himeji', 0.6721192)
+('himeji', 0.67169136)
+
+Topic: 21
+('opportunity local workforce', 0.586218)
+('industry pittsburgh today', 0.5498071)
+('industry pittsburgh wake', 0.5380405)
+('industry pittsburgh', 0.52570546)
+('industry including opportunity', 0.5221549)
+('industrial riverfront', 0.5023178)
+('industry new harbor', 0.49739578)
+
+Topic: 22
+('folding door', 0.73784995)
+('large folding door', 0.71227604)
+('folding door fully', 0.6945243)
+('folding door folding', 0.6901781)
+('folding door manufacturer', 0.6610313)
+('folding door necessary', 0.6544442)
+('folding door opened', 0.6320746)
+
+Topic: 23
+('interior courtyard', 0.69754934)
+('inner courtyard heated', 0.69315606)
+('inside inner courtyard', 0.6853255)
+('two covered courtyard', 0.6842977)
+('inner courtyard', 0.6796166)
+('covered courtyard', 0.67863405)
+('interior courtyard shallow', 0.67636555)
+
+Topic: 24
+('el museo mexicano', 0.61262536)
+('mexico city', 0.5964634)
+('residence located lomas', 0.58807427)
+('quadrant mexico city', 0.5819924)
+('sfmoma el museo', 0.57321)
+('el museo', 0.56083846)
+('grand casa city', 0.5560136)
+
+Topic: 25
+('custom aluminum façade', 0.60851264)
+('façade element designed', 0.5895083)
+('aluminum façade', 0.58228135)
+('aluminum façade element', 0.57260853)
+('efficient structural shape', 0.5445887)
+('retaining wall built', 0.5296804)
+('structural shape material', 0.51205355)
+
+Topic: 26
+('embassy building', 0.6990012)
+('modernist efficiency embassy', 0.62826693)
+('embassy', 0.61919636)
+('new embassy', 0.6091105)
+('new embassy find', 0.5807471)
+('neighborhood embassy', 0.5541284)
+('neighborhood embassy completed', 0.51389635)
+
+Topic: 27
+('durability low maintenance', 0.64854944)
+('project integrate longevity', 0.5803745)
+('longevity strategy work', 0.57812387)
+('durable material', 0.5654557)
+('durability', 0.5534807)
+('longevity strategy', 0.53674716)
+('quality material', 0.5270996)
+
+Topic: 28
+('museum abade pedrosa', 0.61705756)
+('municipal museum abade', 0.59793496)
+('municipal museum', 0.57643056)
+('monastery são bento', 0.54251665)
+('museum abade', 0.52899885)
+('museum', 0.52321386)
+('monastery são', 0.47360086)
+
+Topic: 29
+('public toilet public', 0.85780346)
+('public toilet', 0.8445535)
+('public toilet project', 0.831257)
+('toilet public', 0.8248607)
+('public toilet meet', 0.8100246)
+('building public toilet', 0.7886329)
+('traditional public toilet', 0.78160167)
+
+Topic: 30
+('bamboo structure', 0.8038374)
+('using bamboo', 0.76649225)
+('bamboo frame', 0.7185421)
+('solely bamboo', 0.70648396)
+('bamboo', 0.7023559)
+('bamboo floor', 0.691896)
+('pure bamboo', 0.6891953)
+
+Topic: 31
+('recycled material construction', 0.8646345)
+('material recycled', 0.81594837)
+('recycled material', 0.79822594)
+('recycling', 0.71579564)
+('recycled', 0.71289)
+('sustainable recyclable', 0.6681023)
+('waste waste', 0.64150107)
+
+Topic: 32
+('center miami beach', 0.6975862)
+('convention center', 0.66045946)
+('miami beach square', 0.6451769)
+('center miami', 0.6191038)
+('beach city hall', 0.610698)
+('miami beach city', 0.59556323)
+('beach square', 0.5584865)
+
+Topic: 33
+('oak flooring acoustic', 0.6980076)
+('acoustic comfort', 0.66496205)
+('provides good acoustic', 0.63303435)
+('provide excellent acoustic', 0.6208718)
+('offer ideal acoustic', 0.61310923)
+('panelling acoustically perforated', 0.6127254)
+('improve acoustic', 0.5951313)
+
+Topic: 34
+('photovoltaic roof', 0.70147955)
+('energy solar', 0.598381)
+('photovoltaic', 0.5829917)
+('solar energy', 0.5814186)
+('photovoltaic panel', 0.57996416)
+('solar photovoltaic', 0.57943416)
+('solar panel', 0.57370317)
+
+Topic: 35
+('courtroom primary space', 0.74959415)
+('courtroom floor', 0.7181306)
+('typical courtroom floor', 0.70571375)
+('back arrangement courtroom', 0.70512456)
+('court building', 0.6920655)
+('courtroom office', 0.6893661)
+('typology typical courtroom', 0.6637176)
+
+Topic: 36
+('qinchang village', 0.7237785)
+('qinchang village cpc', 0.65774554)
+('xiangyang village', 0.6469953)
+('village shanghai', 0.62533844)
+('village located', 0.5960423)
+('village town', 0.58826506)
+('henan province', 0.56116873)
+
+Topic: 37
+('san luis project', 0.6176235)
+('neighborhood san', 0.5168727)
+('neighborhood san luis', 0.5135752)
+('san luis neighborhood', 0.5096433)
+('power collaboration innovation', 0.46221977)
+('neighborhood making model', 0.4551779)
+('luis project', 0.448751)
+
+Topic: 38
+('free space various', 0.63286364)
+('happening free space', 0.6203855)
+('space', 0.6181528)
+('intended space question', 0.60870314)
+('subtle space treatment', 0.6078187)
+('impressive space extensible', 0.6014388)
+('space space', 0.59600663)
+
+Topic: 39
+('need fire brigade', 0.51075137)
+('fire brigade', 0.5004853)
+('lower floor canteen', 0.49978942)
+('facility', 0.4926296)
+('physical fitness area', 0.46034777)
+('metropolitan region volunteer', 0.46028998)
+('canteen', 0.4470922)
+
+Topic: 40
+('fire station', 0.9091115)
+('fire station located', 0.88827825)
+('new fire station', 0.87438023)
+('fire station building', 0.87430024)
+('fire station built', 0.8696064)
+('old fire station', 0.8521506)
+('fire station site', 0.8471979)
+
+Topic: 41
+('office sound insulation', 0.7786324)
+('sound insulation', 0.7532978)
+('partition sound insulation', 0.72758067)
+('acoustic insulation', 0.6687629)
+('noise insulation', 0.659294)
+('noise insulation new', 0.62393)
+('panelling used acoustic', 0.5299662)
+
+Topic: 42
+('pedestrian bridge', 0.8578057)
+('structure pedestrian bridge', 0.8344134)
+('viaduct bridge', 0.79496634)
+('pedestrian footbridge', 0.7875458)
+('viaduct', 0.7415426)
+('footbridge', 0.692295)
+('bridge', 0.66604626)
+
+Topic: 43
+('urban architectural space', 0.6535765)
+('urban architectural', 0.6473452)
+('use urban architectural', 0.6468985)
+('architectural space', 0.5529733)
+('traditional mediterranean city', 0.51233464)
+('architectural', 0.49463284)
+('mediterranean city use', 0.4861734)
+
+Topic: 44
+('oak warm color', 0.6324922)
+('natural light wood', 0.6135506)
+('oak furniture', 0.60534364)
+('wood interior', 0.6015538)
+('dark wood', 0.5924708)
+('natural wood interior', 0.57545626)
+('oak veneer', 0.5690733)
+
+Topic: 45
+('climatic condition', 0.61840093)
+('rainy season', 0.5734042)
+('rainfall', 0.54932314)
+('local climate', 0.5421219)
+('tropical climate', 0.5326601)
+('heavy rainfall', 0.51815164)
+('weather', 0.5158297)
+
+Topic: 46
+('natural light ventilation', 0.85954195)
+('ventilation natural light', 0.839643)
+('natural lighting ventilation', 0.8356655)
+('ventilation natural lighting', 0.8354647)
+('light ventilation', 0.81666744)
+('light cross ventilation', 0.7961908)
+('lighting ventilation', 0.7955525)
+
+Topic: 47
+('natural ventilation group', 0.61711)
+('natural ventilation', 0.6109246)
+('natural ventilation thus', 0.59675145)
+('ventilation', 0.59327203)
+('mixed ventilation', 0.5794548)
+('natural ventilation ventilation', 0.5697619)
+('mixed ventilation system', 0.56438744)
+
+Topic: 48
+('park main flow', 0.58974326)
+('yangtze river avenue', 0.5417495)
+('park riverbank directly', 0.52695394)
+('constitution park', 0.5202898)
+('jiangsu grand theatre', 0.5190866)
+('cross jiangsu grand', 0.49736336)
+('park riverbank', 0.49678338)
+
+Topic: 49
+('public restroom', 0.622968)
+('entering public restroom', 0.6195462)
+('public restroom especially', 0.6015544)
+('public toilet', 0.5794945)
+('garden restroom', 0.56401527)
+('restroom', 0.52870995)
+('original public toilet', 0.5180503)
+
+Topic: 50
+('courtroom', 0.51902187)
+('judge staff', 0.5167002)
+('access police court', 0.50987554)
+('internal office area', 0.4989153)
+('police court', 0.47319382)
+('court', 0.4627273)
+('internal office', 0.43822315)
+
+Topic: 51
+('facility', 0.5384127)
+('building', 0.52423716)
+('public space', 0.5102627)
+('construction', 0.46046084)
+('architectural', 0.39669076)
+('architecture', 0.3954327)
+('floor', 0.3952257)
+
+Topic: 52
+('building material', 0.82875824)
+('material building', 0.78934187)
+('construction material', 0.77289975)
+('building', 0.58719635)
+('industrial building', 0.5597359)
+('material use', 0.55418694)
+('material create', 0.549677)
+
+Topic: 53
+('furniture', 0.67000663)
+('wood structure', 0.6429111)
+('wood construction', 0.6334956)
+('wood', 0.5889231)
+('contemporary furniture', 0.58666325)
+('building wood', 0.58179545)
+('wood material', 0.5654114)
+
+Topic: 54
+('recuperates heat evacuating', 0.7137596)
+('ventilation system', 0.70940393)
+('heating system recuperates', 0.708696)
+('system recuperates heat', 0.67196023)
+('ventilation accomplished', 0.646309)
+('heating system', 0.6318586)
+('cooling ventilation', 0.6308228)
+
+Topic: 55
+('protection sun rain', 0.6477311)
+('protecting rain', 0.6184458)
+('protecting rain project', 0.61530036)
+('protection heavy rain', 0.59184253)
+('protection winter rain', 0.5803546)
+('protection extreme weather', 0.5322438)
+('raining top transparent', 0.53203315)
+
+Topic: 56
+('sustainability', 0.4829895)
+('natural ventilation', 0.47856808)
+('environmental', 0.47509372)
+('sustainable', 0.46832782)
+('solar hot water', 0.46400172)
+('municipal water', 0.46266937)
+('energy efficient', 0.43761796)
+

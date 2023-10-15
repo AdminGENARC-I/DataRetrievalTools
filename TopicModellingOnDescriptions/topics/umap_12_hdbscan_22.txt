@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.76342744)
+('', 0.76342744)
+('', 0.76342744)
+('', 0.76342744)
+('', 0.76342744)
+('', 0.76342744)
+('', 0.76342744)
+
+Topic: 1
+('building', 0.64552546)
+('construction', 0.5456471)
+('facility', 0.5011891)
+('architectural', 0.46689153)
+('architecture', 0.45927542)
+('facade', 0.40868896)
+('architect', 0.39974105)
+
+Topic: 2
+('killing turtle nowadays', 0.51796275)
+('knowing protect turtle', 0.50449765)
+('local community maritime', 0.46476367)
+('turtle come', 0.44167864)
+('turtle', 0.43118563)
+('canal', 0.39873052)
+('night mother tortoise', 0.39449862)
+

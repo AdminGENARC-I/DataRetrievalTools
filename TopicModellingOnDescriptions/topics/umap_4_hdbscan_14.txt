@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('access', 1.0)
+('access access', 0.90957755)
+('access access access', 0.8690799)
+('access access cowan', 0.78534544)
+('access noever access', 0.7768531)
+('noever access', 0.7343552)
+('john access', 0.6770323)
+
+Topic: 1
+('building', 0.5977976)
+('construction', 0.48845202)
+('facade', 0.485403)
+('architectural', 0.4459331)
+('architecture', 0.43811628)
+('facility', 0.4249582)
+('concrete', 0.41577512)
+

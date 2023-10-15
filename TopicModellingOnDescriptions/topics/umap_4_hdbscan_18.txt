@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.98106885)
+('', 0.98106885)
+('', 0.98106885)
+('', 0.98106885)
+('', 0.98106885)
+('', 0.98106885)
+('', 0.98106885)
+
+Topic: 1
+('aluminium cladding perforated', 0.7432053)
+('aluminium mesh clads', 0.7207228)
+('wall aluminium cladding', 0.70851505)
+('cladding perforated', 0.6280345)
+('cladding perforated surface', 0.62091374)
+('clads emerging part', 0.6092119)
+('mesh clads', 0.6070087)
+
+Topic: 2
+('access', 1.0000002)
+('access access', 0.9095776)
+('accessible', 0.7799819)
+('access noever', 0.6573874)
+('gregory access', 0.6333238)
+('koivu anniina access', 0.5720444)
+('leonard access', 0.56802416)
+
+Topic: 3
+('building', 0.5144608)
+('space', 0.50116193)
+('architectural', 0.47637045)
+('facility', 0.47401476)
+('room', 0.47007024)
+('construction', 0.4488138)
+('architecture', 0.43466377)
+

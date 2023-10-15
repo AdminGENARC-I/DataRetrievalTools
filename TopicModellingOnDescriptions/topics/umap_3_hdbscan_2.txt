@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('celebrated architecture project', 0.69315815)
+('architecture project visit', 0.68649673)
+('behind celebrated architecture', 0.6260576)
+('celebrated architecture', 0.62177134)
+('project visit ad', 0.6015452)
+('architecture project', 0.57087976)
+('ad classic section', 0.54442215)
+
+Topic: 1
+('accessed april', 1.0000004)
+('april accessed', 0.9809124)
+('accessed april accessed', 0.948432)
+('april accessed april', 0.94215953)
+('noever accessed april', 0.90305436)
+('april access', 0.86404973)
+('accessed june', 0.8162661)
+
+Topic: 2
+('site sq', 0.89824414)
+('sq', 0.8445342)
+('site sq sqm', 0.79185677)
+('sq suggested', 0.7565383)
+('see sq', 0.7274202)
+('see sq suggested', 0.7258407)
+('sqm sq', 0.70443386)
+
+Topic: 3
+('building', 0.65663874)
+('construction', 0.49636126)
+('architectural', 0.47068757)
+('facade', 0.46749043)
+('architecture', 0.4628209)
+('courtyard', 0.44255272)
+('architect', 0.42405954)
+

@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('cru', 0.83176154)
+('cru oma', 0.7914171)
+('cru cru', 0.7576629)
+('cru cru oma', 0.74938095)
+('cru oma etc', 0.7186688)
+('oma', 0.6685147)
+('etc hon', 0.62103766)
+
+Topic: 1
+('building', 0.6285775)
+('construction', 0.5267318)
+('architectural', 0.5007424)
+('architecture', 0.46600732)
+('facility', 0.44793266)
+('facade', 0.44520456)
+('design', 0.41202387)
+

@@ -1,0 +1,77 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.8731198)
+('', 0.8731198)
+('', 0.8731198)
+('', 0.8731198)
+('', 0.8731198)
+('', 0.8731198)
+('', 0.8731198)
+
+Topic: 1
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+
+Topic: 2
+('product description', 0.99999976)
+('description product', 0.9604058)
+('description product description', 0.93372256)
+('product description product', 0.92640543)
+('description', 0.85283583)
+('noever product description', 0.79253423)
+('product description cowan', 0.71643364)
+
+Topic: 3
+('september', 0.925913)
+('september september', 0.89697397)
+('september september ed', 0.81571805)
+('september mar', 0.79033935)
+('september ed', 0.7689945)
+('possible september september', 0.76621)
+('possible september', 0.763429)
+
+Topic: 4
+('yale university press', 0.87805104)
+('cambridge university press', 0.8261434)
+('oxford university press', 0.8046261)
+('university press london', 0.79925156)
+('university press new', 0.79548275)
+('university press', 0.77520204)
+('london yale', 0.6941714)
+
+Topic: 5
+('himeji castle', 0.9102876)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('gregory himeji castle', 0.7891758)
+('himeji', 0.697942)
+('mcniff gregory himeji', 0.6129908)
+('japanese castle', 0.60080004)
+
+Topic: 6
+('people republic china', 0.50117123)
+('period relationship china', 0.49340174)
+('republic china', 0.49245068)
+('new focus china', 0.41784328)
+('governing constitution commemorative', 0.41721904)
+('civil war', 0.41042018)
+('one since taiwan', 0.40794462)
+
+Topic: 7
+('building', 0.5990628)
+('architectural', 0.5365424)
+('architecture', 0.5112859)
+('construction', 0.5111659)
+('facade', 0.49254936)
+('facility', 0.46753514)
+('architect', 0.42091534)
+

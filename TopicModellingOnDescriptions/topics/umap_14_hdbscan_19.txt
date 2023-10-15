@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('south africa amnesty', 0.9391717)
+('africa amnesty international', 0.9363934)
+('amnesty international south', 0.91071457)
+('africa amnesty', 0.8574453)
+('amnesty international', 0.83899647)
+('international south africa', 0.73995733)
+('amnesty', 0.7062879)
+
+Topic: 1
+('originally published july', 0.973917)
+('published july originally', 0.9583059)
+('july originally published', 0.9487109)
+('published july', 0.9238254)
+('published august originally', 0.7820612)
+('originally published january', 0.7805841)
+('published april originally', 0.7746459)
+
+Topic: 2
+('sauna public sauna', 0.8181944)
+('public sauna', 0.77417845)
+('sauna public', 0.7661084)
+('make sauna', 0.74629456)
+('sauna', 0.74401104)
+('make sauna experience', 0.73314726)
+('sauna bathing', 0.7291876)
+
+Topic: 3
+('mar uncertain', 0.6833003)
+('uncertain', 0.6820278)
+('mar', 0.66359216)
+('hon', 0.6616068)
+('little confused', 0.6457419)
+('mar uncertain used', 0.6128874)
+('confused', 0.6043863)
+
+Topic: 4
+('building', 0.5950199)
+('construction', 0.47548488)
+('architectural', 0.45719838)
+('facade', 0.43309635)
+('architecture', 0.4292709)
+('courtyard', 0.3922002)
+('facility', 0.38736826)
+

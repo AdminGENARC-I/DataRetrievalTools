@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('void goodbye', 0.8333018)
+('void left', 0.8322062)
+('void', 0.8248136)
+('void left lost', 0.8202813)
+('every void', 0.81086147)
+('void goodbye due', 0.80386686)
+('life void', 0.80109286)
+
+Topic: 1
+('himeji castle', 0.918016)
+('castle himeji', 0.9153806)
+('himeji castle himeji', 0.90645856)
+('himeji', 0.701506)
+('japanese castle', 0.60320055)
+('castle', 0.5811471)
+('castle built', 0.53305864)
+
+Topic: 2
+('yale university press', 0.910649)
+('cambridge university press', 0.81446815)
+('university press new', 0.80477977)
+('oxford university press', 0.78790414)
+('university press', 0.7764279)
+('university press london', 0.76942253)
+('yale university', 0.6999198)
+
+Topic: 3
+('building', 0.69584537)
+('construction', 0.5899627)
+('architectural', 0.5084852)
+('architecture', 0.49899912)
+('facade', 0.4755466)
+('architect', 0.46885848)
+('facility', 0.4602465)
+

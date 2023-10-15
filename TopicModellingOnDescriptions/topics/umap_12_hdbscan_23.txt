@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('margin intersection neighboring', 0.63047445)
+('intersection generate hard', 0.6166706)
+('superimposed intersecting movement', 0.60265154)
+('margin intersection', 0.5966016)
+('intersection reveal belt', 0.5850136)
+('intersecting movement', 0.5631102)
+('intersection generate', 0.563066)
+
+Topic: 1
+('mozambique lake malawi', 0.799702)
+('malawi landlocked country', 0.73531604)
+('tanzania mozambique lake', 0.72473294)
+('country malawi', 0.7092916)
+('malawi malawi', 0.7047318)
+('malawi', 0.6948936)
+('republic malawi landlocked', 0.6863374)
+
+Topic: 2
+('municipal water', 0.5110465)
+('water sanitation', 0.50812227)
+('municipal water source', 0.50373393)
+('sanitation', 0.48329622)
+('municipal water minimized', 0.47271913)
+('education centre', 0.46256804)
+('urban agriculture', 0.457686)
+
+Topic: 3
+('leed gold certification', 0.73443586)
+('certification green building', 0.7251881)
+('leed silver certification', 0.7181046)
+('leed platinum certification', 0.67234766)
+('leed certification', 0.6603242)
+('silver certification', 0.6392413)
+('gold certification green', 0.6346139)
+
+Topic: 4
+('building', 0.596768)
+('architecture', 0.56692684)
+('architectural', 0.55172336)
+('facade', 0.49803913)
+('construction', 0.48797464)
+('floor', 0.44429803)
+('concrete', 0.44193062)
+

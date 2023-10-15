@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+
+Topic: 1
+('building', 0.6214409)
+('construction', 0.51862544)
+('architectural', 0.5153643)
+('facade', 0.498007)
+('floor', 0.49102604)
+('architecture', 0.48450655)
+('activity', 0.48135614)
+
+Topic: 2
+('accessed april', 0.994808)
+('accessed april access', 0.94932604)
+('april access accessed', 0.9385127)
+('noever accessed april', 0.92269194)
+('access accessed april', 0.91191244)
+('april access', 0.87237394)
+('accessed june', 0.8057723)
+
+Topic: 3
+('trencher', 0.75711966)
+('pawley', 0.74823713)
+('trencher trencher', 0.7076025)
+('pawley pawley', 0.6947249)
+('martin pawley', 0.6915675)
+('pawley martin pawley', 0.6852948)
+('martin pawley pawley', 0.6792309)
+
+Topic: 4
+('possible', 0.75392365)
+('suggested', 0.7361089)
+('obvious', 0.7290964)
+('see', 0.7039205)
+('possible see', 0.6749971)
+('worked possible', 0.6694852)
+('worked', 0.64993525)
+
+Topic: 5
+('', 0.9810688)
+('', 0.9810688)
+('', 0.9810688)
+('', 0.9810688)
+('', 0.9810688)
+('', 0.9810688)
+('', 0.9810688)
+

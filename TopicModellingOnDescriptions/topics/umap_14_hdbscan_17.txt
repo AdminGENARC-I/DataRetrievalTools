@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('accessed april', 1.0)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.94843215)
+('april accessed april', 0.9421594)
+('noever accessed april', 0.9030545)
+('accessed june', 0.816266)
+('may accessed february', 0.79578334)
+
+Topic: 1
+('cru noever', 0.82172894)
+('cru', 0.762715)
+('noever', 0.7606455)
+('cru cru noever', 0.7600646)
+('cru noever noever', 0.74325556)
+('cru cru', 0.7003723)
+('noever oma', 0.62542695)
+
+Topic: 2
+('access', 0.6879892)
+('access distribution', 0.6636652)
+('access access distribution', 0.63917947)
+('access access', 0.6153839)
+('access distribution circulation', 0.61238503)
+('access access access', 0.5866763)
+('operational system courthouse', 0.5468198)
+
+Topic: 3
+('building', 0.7503911)
+('construction', 0.65612876)
+('architectural', 0.58458996)
+('architecture', 0.5672965)
+('facade', 0.5659587)
+('concrete', 0.5475828)
+('built', 0.5299249)
+

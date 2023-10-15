@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('accessed april', 1.0)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484322)
+('april accessed april', 0.9421593)
+('noever accessed april', 0.90305436)
+('april accessed october', 0.8783866)
+('january accessed april', 0.87337804)
+
+Topic: 1
+('', 0.9321284)
+('', 0.9321284)
+('', 0.9321284)
+('', 0.9321284)
+('', 0.9321284)
+('', 0.9321284)
+('', 0.9321284)
+
+Topic: 2
+('access', 1.0000002)
+('access access', 0.90957737)
+('access access access', 0.8690796)
+('noever access', 0.73435515)
+('philip access access', 0.6799067)
+('access noever', 0.6573874)
+('mar accessed', 0.6094116)
+
+Topic: 3
+('ibid', 1.0000001)
+('ibid ibid', 0.9743934)
+('ibid ibid ibid', 0.9427339)
+('new ibid', 0.89798963)
+('ibid ibid victoria', 0.8690809)
+('ibid ibid search', 0.8469415)
+('ibid search', 0.8359975)
+
+Topic: 4
+('kenzō tange', 0.8969496)
+('tange kenzō', 0.8928329)
+('kenzō kenzō tange', 0.8749219)
+('tange kenzō kenzō', 0.8700716)
+('kenzō tange tange', 0.85723567)
+('reference tange kenzō', 0.8417101)
+('tange tange kenzō', 0.8395493)
+
+Topic: 5
+('building', 0.6469466)
+('construction', 0.5409833)
+('architectural', 0.51854867)
+('facade', 0.49752074)
+('architecture', 0.4957891)
+('architect', 0.4591421)
+('design', 0.41645616)
+

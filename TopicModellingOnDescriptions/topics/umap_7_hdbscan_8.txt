@@ -1,0 +1,113 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('hon', 0.73600197)
+('', 0.69478357)
+('', 0.69478357)
+('', 0.69478357)
+('', 0.69478357)
+('', 0.69478357)
+('', 0.69478357)
+
+Topic: 1
+('accessed april', 1.0000002)
+('april accessed', 0.9809122)
+('accessed april accessed', 0.94843197)
+('april accessed april', 0.94215953)
+('noever accessed april', 0.90305424)
+('june accessed april', 0.8830303)
+('accessed june', 0.81626594)
+
+Topic: 2
+('fire station building', 0.8851751)
+('fire station', 0.8716548)
+('new fire station', 0.83523244)
+('gangil fire station', 0.6896546)
+('station building', 0.65464747)
+('area fire', 0.6187393)
+('fire truck', 0.5884104)
+
+Topic: 3
+('prison architecture', 0.852782)
+('modern prison architecture', 0.85187423)
+('modern prison', 0.65903866)
+('throughout prison prison', 0.5826775)
+('prison', 0.5780134)
+('penitentiary', 0.5423781)
+('enric penitentiary', 0.49765715)
+
+Topic: 4
+('meanwhile', 0.7157097)
+('meanwhile long', 0.69957906)
+('long', 0.67566967)
+('fair', 0.67008543)
+('long etc', 0.6294873)
+('', 0.6266092)
+('', 0.6266092)
+
+Topic: 5
+('quarried pantheon trajan', 0.6588588)
+('pantheon trajan', 0.630492)
+('rome pantheon', 0.6187122)
+('pantheon antiquity present', 0.6154109)
+('pantheon rome', 0.5906253)
+('pantheon trajan temple', 0.5896996)
+('pantheon rome pantheon', 0.567592)
+
+Topic: 6
+('originally published july', 0.9707782)
+('published july originally', 0.9610816)
+('july originally published', 0.9423566)
+('published july', 0.93902624)
+('published july year', 0.89555013)
+('originally published', 0.72340715)
+('included originally published', 0.65691155)
+
+Topic: 7
+('part listed villa', 0.45334712)
+('villa', 0.44965118)
+('new building', 0.4243999)
+('open imposing geography', 0.408244)
+('building', 0.37998214)
+('public façade raised', 0.3656305)
+('public building house', 0.36318815)
+
+Topic: 8
+('produce steam boiler', 0.6561485)
+('need boiler system', 0.6507477)
+('heating system', 0.643065)
+('need boiler', 0.63028526)
+('boiler', 0.61863345)
+('produced boiler', 0.61334527)
+('new boiler', 0.6128179)
+
+Topic: 9
+('sauna public sauna', 0.6981524)
+('room sauna two', 0.68509024)
+('public sauna', 0.67524457)
+('room sauna', 0.67071223)
+('sauna public', 0.66398954)
+('room relax sauna', 0.6293652)
+('sauna', 0.5739694)
+
+Topic: 10
+('unesco world heritage', 0.8423355)
+('world heritage site', 0.7337875)
+('listed unesco', 0.73165905)
+('unesco world', 0.7112243)
+('unesco', 0.6934873)
+('heritage site', 0.6418417)
+('world heritage', 0.63440496)
+
+Topic: 11
+('building', 0.6151816)
+('public space', 0.564287)
+('architectural', 0.4804455)
+('construction', 0.4761224)
+('architecture', 0.45112693)
+('facade', 0.43518192)
+('facility', 0.42060208)
+

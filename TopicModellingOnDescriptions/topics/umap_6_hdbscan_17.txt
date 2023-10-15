@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.1}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('obvious', 0.77580273)
+('answer obvious', 0.7371783)
+('obvious obvious', 0.7241954)
+('fair', 0.69468653)
+('answer obvious obvious', 0.6728002)
+('meanwhile', 0.6429353)
+('obvious obvious made', 0.61058235)
+
+Topic: 1
+('cru', 0.7974075)
+('cru cru', 0.7622674)
+('cru cru oma', 0.69537145)
+('cru oma', 0.6948718)
+('needed call cru', 0.6930269)
+('cru oma somewhere', 0.6732133)
+('call cru', 0.65165675)
+
+Topic: 2
+('accessed april', 1.0000002)
+('april accessed', 0.9809123)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.9421594)
+('noever accessed april', 0.9030545)
+('june accessed april', 0.8830302)
+('march accessed april', 0.84459114)
+
+Topic: 3
+('building', 0.6409293)
+('construction', 0.5504605)
+('architectural', 0.5210913)
+('architecture', 0.5148263)
+('facade', 0.49332094)
+('design', 0.48227453)
+('architect', 0.4366017)
+
+Topic: 4
+('originally published july', 0.980908)
+('published july originally', 0.96847856)
+('july originally published', 0.954411)
+('published july', 0.9247438)
+('published july note', 0.83361137)
+('originally published may', 0.8281531)
+('originally published april', 0.8228999)
+
+Topic: 5
+('access', 0.8648542)
+('access access', 0.7980215)
+('access access access', 0.7628164)
+('user access access', 0.72312105)
+('wall access', 0.7181554)
+('wall access noever', 0.65673745)
+('noever access', 0.6278782)
+

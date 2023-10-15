@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('building', 0.67536664)
+('construction', 0.5543944)
+('architectural', 0.47833344)
+('facade', 0.4574486)
+('architecture', 0.45323664)
+('facility', 0.42610985)
+('centre', 0.4179988)
+
+Topic: 1
+('text provided atelier', 0.8489858)
+('provided atelier text', 0.8407774)
+('text provided acxt', 0.8281455)
+('text provided', 0.8103052)
+('provided acxt text', 0.8034774)
+('acxt arquitectos text', 0.8000566)
+('arquitectos text provided', 0.79788494)
+

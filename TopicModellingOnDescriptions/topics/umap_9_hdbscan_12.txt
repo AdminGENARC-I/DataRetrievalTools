@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('ibid', 0.97120345)
+('ibid ibid', 0.94438046)
+('ibid ibid ibid', 0.9157254)
+('new ibid', 0.86722195)
+('ibid ibid search', 0.8150877)
+('ibid proved', 0.8081796)
+('ibid search', 0.80467373)
+
+Topic: 1
+('product description', 0.97250867)
+('description product', 0.92710197)
+('description product description', 0.8945836)
+('product description product', 0.89022475)
+('description', 0.8465488)
+('product description etc', 0.8120897)
+('description etc product', 0.79961264)
+
+Topic: 2
+('building', 0.63764197)
+('construction', 0.5063473)
+('architectural', 0.47699922)
+('architecture', 0.47253186)
+('facade', 0.4629686)
+('facility', 0.45920235)
+('architect', 0.45735294)
+

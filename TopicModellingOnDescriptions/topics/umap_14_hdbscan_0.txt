@@ -1,0 +1,104 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.9802513)
+('', 0.9802513)
+('', 0.9802513)
+('', 0.9802513)
+('', 0.9802513)
+('', 0.9802513)
+('', 0.9802513)
+
+Topic: 1
+('long', 0.69172394)
+('long used', 0.682868)
+('original', 0.6790653)
+('used', 0.6571281)
+('meanwhile', 0.6377593)
+('call', 0.629082)
+('meanwhile call', 0.61728)
+
+Topic: 2
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+('', 0.9805409)
+
+Topic: 3
+('access', 1.0)
+('access access', 0.90957737)
+('access access access', 0.8690796)
+('ed access access', 0.7233367)
+('noever ed access', 0.67316043)
+('access noever', 0.6573874)
+('ed access', 0.65194225)
+
+Topic: 4
+('accessed april', 1.0000001)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.948432)
+('april accessed april', 0.9421596)
+('accessed april access', 0.9210117)
+('noever accessed april', 0.90305424)
+('april access', 0.8640496)
+
+Topic: 5
+('kenzō tange', 0.9211314)
+('reference tange kenzō', 0.9145768)
+('tange kenzō', 0.91289186)
+('tange kenzō tange', 0.8974947)
+('tange kenzō kenzō', 0.87658644)
+('braziller tange kenzō', 0.8441282)
+('reference tange', 0.7222308)
+
+Topic: 6
+('himeji castle', 0.9102875)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('himeji', 0.6979419)
+('japanese castle', 0.60080004)
+('castle', 0.5626757)
+('never attacked himeji', 0.56161004)
+
+Topic: 7
+('refuge distressed abused', 0.6643795)
+('homeless domestic violence', 0.60502106)
+('domestic violence survivor', 0.58074915)
+('refugee camp', 0.5698749)
+('refugee camp formed', 0.55717826)
+('refugee camp location', 0.53937346)
+('violence survivor', 0.5375477)
+
+Topic: 8
+('trevor howells cowan', 0.82955897)
+('henry trevor howells', 0.77711165)
+('cowan howells', 0.7658751)
+('howells cowan', 0.76078945)
+('cowan henry trevor', 0.76052976)
+('howells wilkinson cowan', 0.73675185)
+('howells cowan howells', 0.6985858)
+
+Topic: 9
+('earthquake shook mexico', 0.66075397)
+('earthquake', 0.5634151)
+('earthquake shook', 0.5558325)
+('infrastructure collapsed ensemble', 0.5541865)
+('mexico september jojutla', 0.4826429)
+('shook mexico september', 0.44794533)
+('shook mexico', 0.43496948)
+
+Topic: 10
+('space', 0.62927085)
+('facility', 0.5346427)
+('building', 0.52009135)
+('urban', 0.50685865)
+('room', 0.4965506)
+('surrounding', 0.4876262)
+('place', 0.48508823)
+

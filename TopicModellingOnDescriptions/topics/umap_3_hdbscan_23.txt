@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('trevor howells cowan', 0.81293756)
+('howells cowan', 0.7749999)
+('cowan howells', 0.77363265)
+('cowan henry trevor', 0.76609665)
+('henry trevor howells', 0.722387)
+('cowan henry', 0.71713424)
+('howells cowan howells', 0.7035812)
+
+Topic: 1
+('plan figured sq', 0.7868035)
+('plan section', 0.7066746)
+('sq', 0.68256474)
+('sq strategy building', 0.6665473)
+('sq strategy', 0.6616243)
+('going sq strategy', 0.64390075)
+('modeling best plan', 0.6432488)
+
+Topic: 2
+('building', 0.59194255)
+('construction', 0.501486)
+('architectural', 0.48104393)
+('facade', 0.46947187)
+('architecture', 0.45841086)
+('design', 0.41213375)
+('facility', 0.40910834)
+

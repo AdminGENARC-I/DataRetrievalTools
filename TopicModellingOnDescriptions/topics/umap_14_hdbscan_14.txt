@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('trevor howells cowan', 0.87244624)
+('howells cowan', 0.83034444)
+('cowan howells', 0.8297447)
+('cowan henry trevor', 0.8014519)
+('henry trevor howells', 0.771397)
+('howells cowan howells', 0.7546445)
+('cowan', 0.75405157)
+
+Topic: 1
+('sauna public sauna', 0.85748386)
+('public sauna', 0.79209995)
+('sauna public', 0.7910361)
+('offer access sauna', 0.7775774)
+('sauna', 0.7763221)
+('sauna bathing', 0.7750666)
+('relax sauna bathing', 0.7581836)
+
+Topic: 2
+('building', 0.75690484)
+('construction', 0.6252511)
+('architectural', 0.57294524)
+('architecture', 0.5477376)
+('facade', 0.5419885)
+('architect', 0.49405175)
+('design', 0.47998223)
+

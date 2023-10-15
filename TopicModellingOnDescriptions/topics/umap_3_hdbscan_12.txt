@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('project necessary reorganization', 0.6103975)
+('necessary reorganization process', 0.53726864)
+('allocated development project', 0.5238046)
+('emergency commissioning implied', 0.5057956)
+('emergency commissioning', 0.4950598)
+('reorganization process', 0.48158166)
+('necessary reorganization', 0.48049313)
+
+Topic: 1
+('accessed april', 1.0000002)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.9421594)
+('noever accessed april', 0.9030545)
+('march accessed april', 0.84459114)
+('accessed june', 0.8162661)
+
+Topic: 2
+('long', 0.66704726)
+('meanwhile', 0.65938973)
+('long etc going', 0.6322322)
+('etc going', 0.6320673)
+('long etc', 0.63088965)
+('', 0.6130142)
+('', 0.6130142)
+
+Topic: 3
+('building', 0.5943883)
+('architectural', 0.5307957)
+('facade', 0.52221453)
+('construction', 0.4930861)
+('architecture', 0.4923845)
+('architect', 0.43933773)
+('design', 0.4199863)
+

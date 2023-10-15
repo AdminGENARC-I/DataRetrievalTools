@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('ibid', 1.0000001)
+('ibid ibid', 0.9743934)
+('ibid ibid ibid', 0.9427338)
+('new ibid', 0.89798963)
+('ibid ibid victoria', 0.869081)
+('ibid ibid search', 0.8469415)
+('ibid search', 0.83599746)
+
+Topic: 1
+('made', 0.70343345)
+('original', 0.68974274)
+('made original', 0.6605062)
+('meanwhile', 0.6511427)
+('original meanwhile', 0.6225971)
+('', 0.6175493)
+('', 0.6175493)
+
+Topic: 2
+('aarhus harbor bath', 0.61792755)
+('cowan howells', 0.6149527)
+('aarhus harbor', 0.5597018)
+('henry trevor howells', 0.546133)
+('cowan henry trevor', 0.5179283)
+('trevor howells', 0.51142824)
+('access cowan', 0.5092687)
+
+Topic: 3
+('al shaheed monument', 0.6229327)
+('shaheed monument', 0.56698513)
+('hussein', 0.55164945)
+('saddam hussein', 0.5274695)
+('people iraqi republic', 0.5128888)
+('saddam', 0.51240885)
+('monument built honor', 0.5030032)
+
+Topic: 4
+('building', 0.6719581)
+('construction', 0.6130631)
+('design', 0.56989986)
+('architectural', 0.5218196)
+('architecture', 0.51837635)
+('architect', 0.47121632)
+('built', 0.46492553)
+
+Topic: 5
+('originally published july', 0.9918313)
+('published july originally', 0.97713715)
+('july originally published', 0.96457034)
+('published july', 0.9252938)
+('originally published january', 0.86003816)
+('originally published august', 0.83531857)
+('originally published march', 0.82691324)
+

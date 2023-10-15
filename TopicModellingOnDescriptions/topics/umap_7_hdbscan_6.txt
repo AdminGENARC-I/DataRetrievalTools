@@ -1,0 +1,149 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('originally published july', 0.99183166)
+('published july originally', 0.97713715)
+('july originally published', 0.9645703)
+('published july', 0.92529386)
+('originally published january', 0.8600381)
+('originally published august', 0.83531857)
+('originally published march', 0.82691324)
+
+Topic: 1
+('meanwhile', 0.67686486)
+('etc going', 0.66657424)
+('', 0.65693295)
+('', 0.65693295)
+('', 0.65693295)
+('', 0.65693295)
+('', 0.65693295)
+
+Topic: 2
+('', 0.9805337)
+('', 0.9805337)
+('', 0.9805337)
+('', 0.9805337)
+('', 0.9805337)
+('', 0.9805337)
+('', 0.9805337)
+
+Topic: 3
+('', 0.84945834)
+('', 0.84945834)
+('', 0.84945834)
+('', 0.84945834)
+('', 0.84945834)
+('', 0.84945834)
+('', 0.84945834)
+
+Topic: 4
+('accessed april', 0.9948081)
+('april accessed', 0.9734924)
+('accessed april accessed', 0.9594977)
+('accessed april access', 0.94932586)
+('april access accessed', 0.93851256)
+('april accessed april', 0.93523794)
+('noever accessed april', 0.9226918)
+
+Topic: 5
+('himeji castle', 0.9102876)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.9037899)
+('himeji', 0.697942)
+('japanese castle', 0.60080004)
+('castle', 0.5626757)
+('castle built', 0.53320265)
+
+Topic: 6
+('terrace balcony', 0.70619667)
+('generous balcony terrace', 0.6805992)
+('large opening balcony', 0.6674859)
+('balcony', 0.66292596)
+('open space balcony', 0.65938973)
+('ibid terrace balcony', 0.6468694)
+('mount balcony', 0.6355273)
+
+Topic: 7
+('description break image', 0.8336218)
+('image description architect', 0.7689973)
+('architect description break', 0.7675741)
+('image architect description', 0.73209786)
+('break image architect', 0.70716494)
+('description break', 0.64675456)
+('break image', 0.59632957)
+
+Topic: 8
+('thermal insulation', 0.5689482)
+('glass wall equipped', 0.53983915)
+('insulation', 0.50408745)
+('outside space warm', 0.48782304)
+('outer cladding panel', 0.44406694)
+('glass', 0.44067445)
+('sound insulation', 0.43227112)
+
+Topic: 9
+('need public safety', 0.60739255)
+('public safety', 0.5564413)
+('facility', 0.5200764)
+('infrastructure supporting', 0.5184807)
+('emergency service', 0.48772913)
+('piece infrastructure supporting', 0.474618)
+('infrastructure supporting highly', 0.4652212)
+
+Topic: 10
+('africa amnesty international', 0.9099349)
+('amnesty international south', 0.89832485)
+('south africa amnesty', 0.8967277)
+('amnesty international', 0.83785564)
+('africa amnesty', 0.8202528)
+('international south africa', 0.7267842)
+('amnesty', 0.6901027)
+
+Topic: 11
+('bamboo architecture', 0.82590973)
+('bamboo structure', 0.8165431)
+('using bamboo', 0.78839886)
+('engineered bamboo', 0.7822127)
+('use bamboo', 0.75852025)
+('material bamboo', 0.7556746)
+('bamboo frame', 0.7363957)
+
+Topic: 12
+('baghdad monument', 0.65042776)
+('al shaheed monument', 0.62733436)
+('hussein', 0.55816925)
+('shaheed monument', 0.55546665)
+('saddam hussein', 0.48571935)
+('saddam', 0.46208626)
+('baghdad', 0.4531709)
+
+Topic: 13
+('acoustic panel', 0.6849736)
+('panelling used acoustic', 0.67249715)
+('acoustic comfort', 0.6449373)
+('improve acoustic comfort', 0.6313941)
+('panelling acoustically', 0.6182333)
+('provides good acoustic', 0.60985136)
+('panelling acoustically perforated', 0.60633075)
+
+Topic: 14
+('fire station', 0.8970094)
+('fire station building', 0.87362236)
+('new fire station', 0.84103477)
+('gangil fire station', 0.7045249)
+('fire truck', 0.6817571)
+('fire brigade', 0.6510742)
+('fire department', 0.64674616)
+
+Topic: 15
+('building', 0.6588826)
+('facade', 0.601615)
+('public space', 0.58398557)
+('construction', 0.5358464)
+('architectural', 0.51211977)
+('architecture', 0.4916923)
+('architect', 0.42476588)
+

@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('cru meanwhile architecture', 0.5802974)
+('structural system intentionally', 0.5740738)
+('quickly constructed dismounted', 0.5218136)
+('construction process treib', 0.5152395)
+('effective execution construction', 0.51303744)
+('process treib marc', 0.50192124)
+('structural', 0.4941435)
+
+Topic: 1
+('access', 0.99999994)
+('access access', 0.9095776)
+('access access access', 0.8690796)
+('access offering', 0.7956843)
+('noever access', 0.7343551)
+('ed access access', 0.7233366)
+('access offering flexibility', 0.6681089)
+
+Topic: 2
+('building', 0.51015663)
+('room', 0.5036719)
+('facility', 0.5000783)
+('architectural', 0.4598076)
+('surrounding', 0.45642334)
+('space', 0.44559807)
+('floor', 0.43340594)
+

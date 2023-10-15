@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('cowan howells', 0.9134449)
+('trevor howells cowan', 0.90996253)
+('howells cowan', 0.89636326)
+('howells cowan howells', 0.8433794)
+('henry trevor howells', 0.79950124)
+('cowan henry trevor', 0.7934221)
+('cowan', 0.7753773)
+
+Topic: 1
+('going hon', 0.7053393)
+('hon', 0.6935928)
+('fonte nova eng', 0.6717795)
+('million fonte nova', 0.63647676)
+('million fonte', 0.6307175)
+('te pae', 0.6270137)
+('fonte nova', 0.62399554)
+
+Topic: 2
+('meanwhile', 0.73132885)
+('', 0.7085918)
+('', 0.7085918)
+('', 0.7085918)
+('', 0.7085918)
+('', 0.7085918)
+('', 0.7085918)
+
+Topic: 3
+('nikken sekkei gada', 0.45133018)
+('miquel garcía unai', 0.43746683)
+('fata', 0.43222022)
+('noever accessed april', 0.4243247)
+('access noever', 0.41979736)
+('mireia campmany miquel', 0.4186455)
+('morichha etc', 0.41137898)
+
+Topic: 4
+('building', 0.5855774)
+('construction', 0.4867757)
+('facility', 0.45720956)
+('architectural', 0.45199376)
+('architecture', 0.43243703)
+('facade', 0.43224794)
+('room', 0.41985852)
+

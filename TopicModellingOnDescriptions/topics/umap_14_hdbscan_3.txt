@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.8859328)
+('', 0.8859328)
+('', 0.8859328)
+('', 0.8859328)
+('', 0.8859328)
+('', 0.8859328)
+('', 0.8859328)
+
+Topic: 1
+('meanwhile', 0.70895296)
+('meanwhile long', 0.69529295)
+('long', 0.69127)
+('fair', 0.68217784)
+('original', 0.6442043)
+('long etc', 0.6305257)
+('', 0.61827815)
+
+Topic: 2
+('nueva comisaría se', 0.5935531)
+('pensadas como enquadramentos', 0.57089597)
+('nueva comisaría', 0.5636124)
+('peças de concreto', 0.54367805)
+('pieza unitaria que', 0.5354359)
+('perfurada fazem mediação', 0.52713907)
+('pensadas como', 0.5146054)
+
+Topic: 3
+('himeji castle', 0.9102876)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('himeji', 0.6979421)
+('japanese castle', 0.6008001)
+('castle', 0.5626756)
+('castle built', 0.53320247)
+
+Topic: 4
+('building', 0.5732361)
+('facility', 0.50783193)
+('architectural', 0.48997492)
+('construction', 0.47241145)
+('architecture', 0.46175724)
+('facade', 0.4505868)
+('architect', 0.44085535)
+

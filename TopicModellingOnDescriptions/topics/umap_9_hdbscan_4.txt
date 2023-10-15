@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('originally published july', 0.99183136)
+('published july originally', 0.9771371)
+('july originally published', 0.96457016)
+('published july', 0.9252938)
+('originally published january', 0.8600382)
+('originally published august', 0.83531857)
+('originally published march', 0.82691324)
+
+Topic: 1
+('project necessary reorganization', 0.5417719)
+('emergency commissioning implied', 0.5262691)
+('emergency commissioning', 0.52488923)
+('allocated development project', 0.51831913)
+('necessary reorganization process', 0.49231064)
+('new necessitated decommissioning', 0.4751886)
+('commissioning implied radical', 0.47010535)
+
+Topic: 2
+('text provided acxt', 0.8396389)
+('provided acxt text', 0.81584936)
+('text provided', 0.79963934)
+('text provided atelier', 0.7947468)
+('provided atelier text', 0.7899494)
+('text', 0.7467292)
+('thill text provided', 0.6942397)
+
+Topic: 3
+('building', 0.66337824)
+('construction', 0.58939266)
+('project', 0.5877512)
+('community', 0.577305)
+('facility', 0.5472159)
+('architectural', 0.54042315)
+('area', 0.5330671)
+

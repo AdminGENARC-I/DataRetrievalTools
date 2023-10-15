@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.1}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('accessed april', 1.0000002)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.9421593)
+('noever accessed april', 0.9030545)
+('june accessed april', 0.8830302)
+('accessed june', 0.8162661)
+
+Topic: 1
+('http', 0.97398895)
+('http http', 0.91498363)
+('http http http', 0.8530823)
+('http http everybody', 0.8239143)
+('see http', 0.79964834)
+('http everybody', 0.7965902)
+('http perfectly', 0.7934873)
+
+Topic: 2
+('product description', 0.9999999)
+('description product', 0.9604059)
+('description product description', 0.9337227)
+('product description product', 0.92640555)
+('description', 0.8528356)
+('product description etc', 0.84124005)
+('worked product description', 0.7854043)
+
+Topic: 3
+('building', 0.56317353)
+('architectural', 0.51663923)
+('architecture', 0.494592)
+('facade', 0.4877181)
+('construction', 0.4690832)
+('surrounding', 0.4533943)
+('urban', 0.43630826)
+

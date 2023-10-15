@@ -1,0 +1,68 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.77399933)
+('', 0.77399933)
+('', 0.77399933)
+('', 0.77399933)
+('', 0.77399933)
+('', 0.77399933)
+('', 0.77399933)
+
+Topic: 1
+('', 0.94884497)
+('', 0.94884497)
+('', 0.94884497)
+('', 0.94884497)
+('', 0.94884497)
+('', 0.94884497)
+('', 0.94884497)
+
+Topic: 2
+('accessed april', 1.0000002)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484322)
+('april accessed april', 0.9421594)
+('accessed april access', 0.9210119)
+('june accessed april', 0.8830301)
+('april access', 0.8640496)
+
+Topic: 3
+('access', 1.0000002)
+('access access', 0.90957737)
+('access access access', 0.8690796)
+('user access', 0.79774314)
+('member access', 0.72866166)
+('access user', 0.723846)
+('access noever', 0.65738714)
+
+Topic: 4
+('randers tegl fena', 0.7389326)
+('randers tegl endicott', 0.71527874)
+('randers tegl jansen', 0.65104115)
+('randers tegl', 0.63910973)
+('randers tegl kryton', 0.63117075)
+('kryton randers tegl', 0.6274573)
+('tegl jansen endicott', 0.6255096)
+
+Topic: 5
+('parliament building', 0.81563556)
+('building parliament', 0.7473338)
+('house parliament', 0.7446809)
+('parliament house', 0.73657703)
+('parliament uk parliament', 0.69525623)
+('uk parliament', 0.6926489)
+('parliament uk', 0.67941403)
+
+Topic: 6
+('building', 0.68156195)
+('construction', 0.5534264)
+('architectural', 0.51595634)
+('facade', 0.49796358)
+('architecture', 0.49609432)
+('concrete', 0.4839004)
+('architect', 0.4696964)
+

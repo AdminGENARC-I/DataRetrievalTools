@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.7547369)
+('', 0.7547369)
+('', 0.7547369)
+('', 0.7547369)
+('', 0.7547369)
+('', 0.7547369)
+('', 0.7547369)
+
+Topic: 1
+('encyclopedia britannica encyclopædia', 0.9078936)
+('encyclopedia britannica', 0.9009836)
+('britannica encyclopædia britannica', 0.8971937)
+('britannica encyclopædia', 0.87816)
+('encyclopædia britannica online', 0.87584066)
+('encyclopædia britannica', 0.87026995)
+('britannica', 0.8601274)
+
+Topic: 2
+('building', 0.7375344)
+('construction', 0.60740757)
+('courtyard', 0.5754663)
+('architecture', 0.5646937)
+('architectural', 0.55556685)
+('facade', 0.5110036)
+('architect', 0.50509226)
+

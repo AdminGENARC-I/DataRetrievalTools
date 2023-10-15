@@ -1,0 +1,95 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('mar retrieved', 0.91865754)
+('retrieved mar mar', 0.9101419)
+('retrieved mar', 0.90732867)
+('mar retrieved mar', 0.89483017)
+('mar mar retrieved', 0.88810706)
+('mar accessed mar', 0.8787347)
+('accessed mar', 0.86867404)
+
+Topic: 1
+('access', 0.98671496)
+('access access', 0.92040956)
+('access access access', 0.8812832)
+('access accessed', 0.8704289)
+('accessed', 0.85193866)
+('access access accessed', 0.84877205)
+('access noever access', 0.8153832)
+
+Topic: 2
+('cowan howells', 0.9618547)
+('howells cowan', 0.94026875)
+('trevor howells cowan', 0.93034256)
+('cowan howells etc', 0.93014467)
+('howells etc cowan', 0.90918696)
+('howells cowan howells', 0.8906049)
+('cowan howells trencher', 0.81025815)
+
+Topic: 3
+('community rohingya community', 0.75301045)
+('rohingya community', 0.7519723)
+('identity community rohingya', 0.7372354)
+('community rohingya', 0.7336204)
+('rohingya community gone', 0.7199166)
+('rohingya cultural memory', 0.65479726)
+('life rohingya cultural', 0.6525152)
+
+Topic: 4
+('himeji castle', 0.9124607)
+('castle himeji', 0.9041939)
+('himeji castle himeji', 0.899165)
+('japan himeji castle', 0.8782617)
+('city himeji', 0.6921019)
+('japan himeji', 0.6765393)
+('himeji', 0.6739559)
+
+Topic: 5
+('national symbol iran', 0.49685803)
+('newly formed islamic', 0.4097808)
+('monument', 0.40778837)
+('tehran', 0.40136367)
+('national celebration protest', 0.3859948)
+('structure embassy', 0.38017225)
+('iran', 0.37139323)
+
+Topic: 6
+('pantheon represented empire', 0.7843969)
+('pantheon antiquity present', 0.7346075)
+('pantheon antiquity', 0.7317625)
+('pantheon rome pantheon', 0.72499025)
+('pantheon rome', 0.72091436)
+('pantheon trajan', 0.67434025)
+('pantheon trajan temple', 0.6602906)
+
+Topic: 7
+('unai medina', 0.48592997)
+('são paulo', 0.47197688)
+('lota shushulil lota', 0.46832407)
+('fata', 0.45864105)
+('lastra rafael', 0.45732749)
+('unai medina francisco', 0.45660335)
+('paulo', 0.4545361)
+
+Topic: 8
+('description break image', 0.8247063)
+('architect description break', 0.7817973)
+('image description architect', 0.7705277)
+('image architect description', 0.74346435)
+('break image architect', 0.71954787)
+('description break', 0.63880086)
+('break image', 0.59393775)
+
+Topic: 9
+('building', 0.6296247)
+('facade', 0.53705704)
+('architectural', 0.51964754)
+('construction', 0.5103099)
+('architecture', 0.50302577)
+('architect', 0.45042223)
+('facility', 0.4316398)
+

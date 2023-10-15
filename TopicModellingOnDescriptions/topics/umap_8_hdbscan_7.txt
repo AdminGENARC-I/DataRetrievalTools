@@ -1,0 +1,104 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('note project originally', 0.8241861)
+('note project', 0.77024424)
+('million note project', 0.75626504)
+('may note project', 0.7485658)
+('december note project', 0.7333618)
+('published december note', 0.696314)
+('published may note', 0.68809295)
+
+Topic: 1
+('', 0.7535391)
+('', 0.7535391)
+('', 0.7535391)
+('', 0.7535391)
+('', 0.7535391)
+('', 0.7535391)
+('', 0.7535391)
+
+Topic: 2
+('', 0.9802512)
+('', 0.9802512)
+('', 0.9802512)
+('', 0.9802512)
+('', 0.9802512)
+('', 0.9802512)
+('', 0.9802512)
+
+Topic: 3
+('accessed april', 0.9999999)
+('april accessed', 0.98091215)
+('accessed april accessed', 0.94843185)
+('april accessed april', 0.9421594)
+('accessed april access', 0.9210117)
+('noever accessed april', 0.90305424)
+('june accessed april', 0.88303006)
+
+Topic: 4
+('cowan howells', 0.7888525)
+('cowan henry trevor', 0.7424048)
+('cowan henry', 0.7173835)
+('henry trevor howells', 0.71210015)
+('cowan', 0.70725656)
+('trevor howells', 0.6350174)
+('howells', 0.56154263)
+
+Topic: 5
+('rome pantheon', 0.8290019)
+('ancient rome pantheon', 0.82551587)
+('pantheon rome', 0.8025459)
+('pantheon rome pantheon', 0.78958035)
+('pantheon represented empire', 0.7875216)
+('pantheon antiquity', 0.7606391)
+('pantheon antiquity present', 0.7561698)
+
+Topic: 6
+('access', 1.0)
+('access access', 0.90957737)
+('access access access', 0.8690797)
+('user access access', 0.80206156)
+('user access', 0.79774296)
+('member access', 0.72866166)
+('access user', 0.7238461)
+
+Topic: 7
+('himeji castle', 0.9021355)
+('castle himeji', 0.89664495)
+('himeji castle himeji', 0.88404775)
+('japanese castle', 0.6743929)
+('himeji', 0.65692276)
+('castle', 0.58298004)
+('castle built', 0.5571854)
+
+Topic: 8
+('operation existing rectory', 0.5796405)
+('rectory', 0.54563427)
+('new church centrally', 0.5419205)
+('catholic church', 0.52226007)
+('new building unmistakably', 0.5137308)
+('cathedral', 0.5094974)
+('church city', 0.504926)
+
+Topic: 9
+('fire station building', 0.8561131)
+('new fire station', 0.81368935)
+('fire station', 0.81281406)
+('gangil fire station', 0.63227844)
+('fire truck', 0.6168126)
+('fire department', 0.60554904)
+('fire brigade', 0.5974647)
+
+Topic: 10
+('building', 0.5648315)
+('public space', 0.53415155)
+('facade', 0.4898421)
+('architectural', 0.48979658)
+('architecture', 0.4836228)
+('architect', 0.4680606)
+('construction', 0.44428807)
+

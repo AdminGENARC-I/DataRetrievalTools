@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('dutch parliament futagawa', 0.6913655)
+('parliament futagawa dutch', 0.6908568)
+('futagawa dutch parliament', 0.6782902)
+('parliament futagawa', 0.59886694)
+('dutch parliament', 0.59578073)
+('dutch parliament fabrizi', 0.59200424)
+('futagawa dutch', 0.57904816)
+
+Topic: 1
+('building', 0.4954334)
+('facility', 0.4716897)
+('centre', 0.45375776)
+('architectural', 0.4153477)
+('central', 0.4132995)
+('courtyard', 0.40680328)
+('construction', 0.39737433)
+
+Topic: 2
+('', 0.94884515)
+('', 0.94884515)
+('', 0.94884515)
+('', 0.94884515)
+('', 0.94884515)
+('', 0.94884515)
+('', 0.94884515)
+
+Topic: 3
+('meanwhile long', 0.7165902)
+('long nevertheless exciting', 0.68045694)
+('long', 0.6771178)
+('meanwhile', 0.673978)
+('meanwhile long nevertheless', 0.64468795)
+('long nevertheless', 0.6396326)
+('original meanwhile long', 0.6353456)
+

@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('mar retrieved', 0.91865766)
+('retrieved mar mar', 0.91014177)
+('retrieved mar', 0.9073286)
+('mar retrieved mar', 0.8948301)
+('mar mar retrieved', 0.888107)
+('mar accessed mar', 0.8787345)
+('accessed mar', 0.86867404)
+
+Topic: 1
+('himeji castle', 0.91028756)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('japan himeji castle', 0.8748696)
+('himeji castle remains', 0.8543478)
+('iteration himeji castle', 0.8223146)
+('himeji old fortress', 0.7133453)
+
+Topic: 2
+('wilson jones', 0.814657)
+('mark wilson jones', 0.81299233)
+('jones', 0.7772819)
+('wilson jones papandrea', 0.7479721)
+('wilson', 0.63429236)
+('mark wilson', 0.63314134)
+('tod mark wilson', 0.577358)
+
+Topic: 3
+('building', 0.54868233)
+('facility', 0.51483256)
+('architectural', 0.49043897)
+('architecture', 0.46542656)
+('construction', 0.4628706)
+('area', 0.4572571)
+('surrounding', 0.43315846)
+

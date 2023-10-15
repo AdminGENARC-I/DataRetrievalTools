@@ -1,0 +1,68 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('', 0.9783211)
+('', 0.9783211)
+('', 0.9783211)
+('', 0.9783211)
+('', 0.9783211)
+('', 0.9783211)
+('', 0.9783211)
+
+Topic: 1
+('', 0.935334)
+('', 0.935334)
+('', 0.935334)
+('', 0.935334)
+('', 0.935334)
+('', 0.935334)
+('', 0.935334)
+
+Topic: 2
+('retrieved mar', 0.8420328)
+('mar retrieved', 0.8409593)
+('retrieved mar mar', 0.8316381)
+('mar retrieved mar', 0.8145821)
+('retrieved mar already', 0.8051977)
+('mar mar retrieved', 0.8025049)
+('mar', 0.765665)
+
+Topic: 3
+('work architectural concrete', 0.65039563)
+('precast concrete', 0.6337713)
+('made concrete', 0.612435)
+('concrete', 0.5918951)
+('site construction monument', 0.48663074)
+('formed factory assembled', 0.47030348)
+('precise mould used', 0.46556354)
+
+Topic: 4
+('mccarter', 0.9758252)
+('mccarter mccarter', 0.96102464)
+('mccarter mccarter mccarter', 0.93481857)
+('mccarter robert', 0.8653277)
+('mccarter mccarter ainsworth', 0.8409539)
+('robert kahn mccarter', 0.75931174)
+('simplicity mccarter', 0.75610197)
+
+Topic: 5
+('building', 0.5933385)
+('architectural', 0.52076113)
+('construction', 0.49398082)
+('facade', 0.48951825)
+('architecture', 0.48437357)
+('public space', 0.43806356)
+('architect', 0.41642755)
+
+Topic: 6
+('fire station building', 0.85364926)
+('fire station', 0.8298917)
+('new fire station', 0.78922904)
+('gangil fire station', 0.6988614)
+('fire truck', 0.6411401)
+('station building', 0.62496656)
+('fire brigade', 0.5946402)
+

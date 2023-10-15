@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('meat fish island', 0.5996938)
+('island commercially available', 0.5721535)
+('island commercially', 0.545892)
+('croft island south', 0.53365034)
+('restaurant source meat', 0.53023684)
+('home kitchen restaurant', 0.52849007)
+('restaurant meat vegetable', 0.5220423)
+
+Topic: 1
+('noever', 0.8399477)
+('noever oma', 0.74938715)
+('', 0.7314224)
+('', 0.7314224)
+('', 0.7314224)
+('', 0.7314224)
+('', 0.7314224)
+
+Topic: 2
+('vegetable garden', 0.5966866)
+('modelled green school', 0.530234)
+('garden', 0.46619833)
+('fruit vegetable', 0.45744395)
+('moyo education centre', 0.45283782)
+('vegetable', 0.44374242)
+('montessori education', 0.43092325)
+
+Topic: 3
+('qinchang village town', 0.7323461)
+('qinchang village', 0.70300645)
+('qinchang village cpc', 0.6955807)
+('qinchang', 0.54272884)
+('qili village', 0.50456244)
+('village town hall', 0.4841214)
+('village cpc', 0.4436949)
+
+Topic: 4
+('energy geothermal', 0.75043255)
+('geothermal energy', 0.7357142)
+('geothermal heat', 0.73525846)
+('geothermally heated', 0.7275654)
+('geothermal', 0.71211743)
+('geothermal well', 0.7037778)
+('geothermally', 0.6806921)
+
+Topic: 5
+('public space', 0.7411171)
+('building', 0.5146272)
+('architectural', 0.48013595)
+('architecture', 0.4642092)
+('space', 0.46372646)
+('facility', 0.4611169)
+('construction', 0.4560847)
+

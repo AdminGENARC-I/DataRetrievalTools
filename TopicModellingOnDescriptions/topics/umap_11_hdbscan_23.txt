@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.1}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('cloud flying phoenix', 0.6552837)
+('phoenix fly cloud', 0.644349)
+('cloud', 0.57380486)
+('cloud flying', 0.5722159)
+('glimmering cloud', 0.5635166)
+('quietness cloud', 0.55723906)
+('white glimmering cloud', 0.55293405)
+
+Topic: 1
+('suggested', 0.6893345)
+('obvious', 0.666515)
+('suggested obvious', 0.6381024)
+('hard suggested', 0.6282836)
+('going', 0.6175315)
+('cru', 0.61349523)
+('possible', 0.5860362)
+
+Topic: 2
+('building', 0.5310594)
+('courtyard', 0.45394593)
+('facade', 0.44004226)
+('construction', 0.4317456)
+('surrounding', 0.42916846)
+('architectural', 0.4287992)
+('centre', 0.4255638)
+

@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('cru', 0.82643807)
+('cru oma', 0.78583413)
+('cru cru', 0.7526028)
+('cru oma going', 0.75210047)
+('cru cru oma', 0.7425288)
+('oma', 0.6648153)
+('oma going hon', 0.649068)
+
+Topic: 1
+('steel rod mm', 0.8871221)
+('mill rod', 0.81128824)
+('steel rod', 0.7952026)
+('obvious steel rod', 0.7889447)
+('fair mill rod', 0.7439134)
+('rod mm', 0.74090934)
+('thick mm', 0.6999947)
+
+Topic: 2
+('castle himeji castle', 0.9155843)
+('himeji castle', 0.9124607)
+('castle himeji', 0.9041938)
+('himeji castle himeji', 0.8991651)
+('himeji', 0.67395604)
+('japanese castle', 0.6217008)
+('castle built', 0.57392424)
+
+Topic: 3
+('building', 0.5810182)
+('construction', 0.47696847)
+('facility', 0.4686619)
+('facade', 0.41941226)
+('architectural', 0.40176085)
+('architecture', 0.39790744)
+('architect', 0.37736008)
+

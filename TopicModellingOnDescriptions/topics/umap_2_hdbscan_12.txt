@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('celebrated architecture project', 0.6918875)
+('architecture project visit', 0.6887298)
+('project visit ad', 0.6316232)
+('behind celebrated architecture', 0.6126251)
+('celebrated architecture', 0.6054412)
+('project visit', 0.54442906)
+('architecture project', 0.5404394)
+
+Topic: 1
+('ladder stair', 0.59717447)
+('ladder stair time', 0.5851736)
+('stair', 0.579346)
+('doorway ladder stair', 0.57905364)
+('stair special elevator', 0.5749462)
+('doorway ladder', 0.5649251)
+('stair time', 0.5601642)
+
+Topic: 2
+('núcleo tem natureza', 0.66218174)
+('metálica que núcleo', 0.65156806)
+('metálica espaço nuclear', 0.5930863)
+('que núcleo', 0.5764116)
+('núcleo principal edifício', 0.574033)
+('de estrutura metálica', 0.5654689)
+('que núcleo principal', 0.5556854)
+
+Topic: 3
+('future seoul square', 0.82016945)
+('square seoul square', 0.80949986)
+('square seoul', 0.80336463)
+('seoul square seoul', 0.79436636)
+('seoul square', 0.79200745)
+('seoul square symbolical', 0.7782148)
+('come seoul square', 0.7551362)
+
+Topic: 4
+('building', 0.64420325)
+('construction', 0.5124788)
+('facade', 0.46903622)
+('architecture', 0.45363358)
+('courtyard', 0.4503638)
+('architectural', 0.4494208)
+('facility', 0.44610155)
+

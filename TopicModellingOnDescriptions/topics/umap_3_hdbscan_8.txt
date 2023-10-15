@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('visible alley', 0.6453107)
+('house adjoined alley', 0.63720834)
+('visible alley contain', 0.63668394)
+('alley provided newness', 0.61781216)
+('visible distance alley', 0.6154306)
+('used façade visible', 0.6094227)
+('wood used façade', 0.60457563)
+
+Topic: 1
+('mark wilson jones', 0.6809863)
+('wilson jones', 0.6487856)
+('randers tegl', 0.620826)
+('wilson jones kostof', 0.6004211)
+('jones', 0.58389854)
+('mark wilson', 0.5801844)
+('randers', 0.5653852)
+
+Topic: 2
+('', 0.92372227)
+('', 0.92372227)
+('', 0.92372227)
+('', 0.92372227)
+('', 0.92372227)
+('', 0.92372227)
+('', 0.92372227)
+
+Topic: 3
+('modern architecture korean', 0.7585038)
+('architecture go culture', 0.64720535)
+('modern architecture heritage', 0.6295123)
+('modern architecture', 0.6012199)
+('new city hall', 0.5697951)
+('city hall', 0.5671543)
+('seoul new city', 0.5670582)
+
+Topic: 4
+('building', 0.5804047)
+('facility', 0.49478066)
+('construction', 0.4751951)
+('architectural', 0.4516807)
+('architecture', 0.44314444)
+('courtyard', 0.44146934)
+('floor', 0.40134376)
+

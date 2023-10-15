@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.1}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('accessed april', 1.0000005)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.94215965)
+('accessed april etc', 0.93385315)
+('accessed april access', 0.92101187)
+('meanwhile accessed april', 0.9078546)
+
+Topic: 1
+('noever', 0.84723496)
+('noever oma', 0.7836434)
+('noever oma going', 0.7133891)
+('oma going hon', 0.70600927)
+('noever noever', 0.70517516)
+('oma', 0.70499396)
+('noever noever oma', 0.7018175)
+
+Topic: 2
+('building', 0.54896295)
+('architectural', 0.46301854)
+('facility', 0.4549929)
+('construction', 0.44171697)
+('room', 0.42481315)
+('architecture', 0.42452252)
+('centre', 0.4223296)
+

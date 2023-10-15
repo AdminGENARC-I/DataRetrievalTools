@@ -1,0 +1,86 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('himeji castle', 0.91028756)
+('castle himeji', 0.905998)
+('himeji castle himeji', 0.90378976)
+('new himeji castle', 0.8323177)
+('himeji', 0.6979421)
+('new himeji', 0.63022673)
+('japanese castle', 0.6008)
+
+Topic: 1
+('ayers', 0.93294936)
+('ayers ayers', 0.8817091)
+('ayers etc', 0.81862307)
+('ayers ayers etc', 0.8157362)
+('ayers ed ayers', 0.8019477)
+('ayers ed', 0.7956494)
+('ed ayers ayers', 0.75099957)
+
+Topic: 2
+('randers tegl', 0.7087658)
+('randers', 0.6500635)
+('mccarter', 0.63185287)
+('mason nader khalili', 0.6235147)
+('mccarter mccarter', 0.6194136)
+('mccarter mccarter mccarter', 0.6041831)
+('mccarter robert', 0.6000179)
+
+Topic: 3
+('accessed april', 1.0000004)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484322)
+('april accessed april', 0.94215953)
+('accessed april access', 0.9210119)
+('noever accessed april', 0.90305436)
+('june accessed april', 0.8830303)
+
+Topic: 4
+('mar retrieved', 0.91315436)
+('retrieved mar', 0.90541285)
+('retrieved mar mar', 0.9012909)
+('mar retrieved mar', 0.8900285)
+('mar mar retrieved', 0.8790618)
+('mar accessed mar', 0.87349236)
+('accessed mar', 0.8626121)
+
+Topic: 5
+('al shaheed monument', 0.6793169)
+('baghdad monument', 0.6509228)
+('shaheed monument', 0.6185429)
+('hussein leader revolution', 0.5658012)
+('hussein', 0.5239941)
+('idealization kuwaiti history', 0.5006123)
+('hussein wished', 0.4893488)
+
+Topic: 6
+('maritime setting renovated', 0.6149416)
+('pier', 0.5846368)
+('area harbour', 0.5774026)
+('harbour', 0.57668453)
+('maritime heritage industrial', 0.5634017)
+('lower area harbour', 0.5381667)
+('harbor', 0.5343993)
+
+Topic: 7
+('product description', 1.0)
+('description product', 0.9604058)
+('description product description', 0.93372256)
+('product description product', 0.92640555)
+('description', 0.85283566)
+('product', 0.63738483)
+('text provided', 0.55405736)
+
+Topic: 8
+('building', 0.6095933)
+('architectural', 0.5133655)
+('construction', 0.5058915)
+('architecture', 0.4816765)
+('architect', 0.44986165)
+('facility', 0.4414702)
+('facade', 0.41390383)
+

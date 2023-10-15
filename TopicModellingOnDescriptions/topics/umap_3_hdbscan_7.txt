@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('meanwhile', 0.7267084)
+('', 0.71368045)
+('', 0.71368045)
+('', 0.71368045)
+('', 0.71368045)
+('', 0.71368045)
+('', 0.71368045)
+
+Topic: 1
+('building', 0.5621833)
+('construction', 0.4614607)
+('facade', 0.45658296)
+('architectural', 0.44314438)
+('architecture', 0.43450052)
+('facility', 0.4202875)
+('surrounding', 0.36969763)
+

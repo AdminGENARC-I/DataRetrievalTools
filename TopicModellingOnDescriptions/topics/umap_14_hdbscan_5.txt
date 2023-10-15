@@ -1,0 +1,77 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('design come seoul', 0.8003582)
+('seoul square concept', 0.7994287)
+('extension seoul square', 0.79640996)
+('come seoul square', 0.75610256)
+('seoul square', 0.7556298)
+('vertical extension seoul', 0.70866495)
+('seoul square going', 0.7030174)
+
+Topic: 1
+('product description', 0.9999998)
+('description product', 0.9604057)
+('description product description', 0.93372256)
+('product description product', 0.92640525)
+('product description several', 0.86328065)
+('description', 0.85283566)
+('product description new', 0.80268216)
+
+Topic: 2
+('', 0.8696803)
+('', 0.8696803)
+('', 0.8696803)
+('', 0.8696803)
+('', 0.8696803)
+('', 0.8696803)
+('', 0.8696803)
+
+Topic: 3
+('accessed april', 1.0000002)
+('april accessed', 0.98091227)
+('accessed april accessed', 0.94843197)
+('april accessed april', 0.9421593)
+('noever accessed april', 0.9030544)
+('accessed june', 0.81626606)
+('may accessed february', 0.79578334)
+
+Topic: 4
+('cowan howells', 0.96185446)
+('howells cowan', 0.94026875)
+('howells cowan henry', 0.9327091)
+('trevor howells cowan', 0.9303425)
+('howells cowan howells', 0.8906051)
+('cowan', 0.800614)
+('henry trevor howells', 0.79400635)
+
+Topic: 5
+('access', 0.9999999)
+('access access', 0.90957737)
+('access access access', 0.86907953)
+('user access access', 0.8020613)
+('user access', 0.7977429)
+('access user access', 0.77345717)
+('permission access', 0.7432585)
+
+Topic: 6
+('three different sauna', 0.78366274)
+('sauna', 0.7694323)
+('make sauna experience', 0.7548512)
+('heated sauna', 0.75326943)
+('temporary sauna village', 0.7527832)
+('sauna experience', 0.74801123)
+('temporary sauna', 0.7428836)
+
+Topic: 7
+('building', 0.60428643)
+('architectural', 0.52928686)
+('construction', 0.49900052)
+('facility', 0.4964183)
+('architecture', 0.49255785)
+('facade', 0.4687212)
+('design', 0.43835437)
+

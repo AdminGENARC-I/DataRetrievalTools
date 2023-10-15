@@ -1,0 +1,68 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('originally published july', 0.9918313)
+('published july originally', 0.97713715)
+('july originally published', 0.96457034)
+('published july', 0.92529374)
+('originally published january', 0.8600381)
+('published january originally', 0.8357697)
+('originally published august', 0.83531857)
+
+Topic: 1
+('obvious', 0.7935091)
+('answer obvious', 0.7861891)
+('obvious obvious', 0.7826954)
+('answer obvious obvious', 0.7342541)
+('little confused', 0.68012893)
+('obvious obvious made', 0.6762779)
+('confused answer obvious', 0.65077984)
+
+Topic: 2
+('optimistically prelude future', 0.7200411)
+('time present future', 0.7112043)
+('foreseeing upcoming future', 0.6915209)
+('present future alteration', 0.6808975)
+('present future', 0.67047983)
+('upcoming future need', 0.66912663)
+('upcoming future', 0.6598164)
+
+Topic: 3
+('call', 0.74875915)
+('take place call', 0.7477546)
+('call going', 0.72651076)
+('take place', 0.71658415)
+('place call', 0.70677674)
+('going', 0.70263386)
+('truly call going', 0.6796697)
+
+Topic: 4
+('building', 0.61038077)
+('architectural', 0.558244)
+('design', 0.55348146)
+('construction', 0.5451288)
+('architecture', 0.5411267)
+('facility', 0.52014863)
+('facade', 0.50716895)
+
+Topic: 5
+('himeji castle', 0.92458856)
+('castle himeji', 0.9121865)
+('himeji castle himeji', 0.90894794)
+('himeji', 0.7093601)
+('castle', 0.5751651)
+('japanese castle', 0.56615627)
+('castle built', 0.5363198)
+
+Topic: 6
+('pawley', 0.8221514)
+('pawley pawley', 0.7828641)
+('pawley martin pawley', 0.7732197)
+('martin pawley pawley', 0.77028275)
+('martin pawley', 0.75906575)
+('pawley pawley pawley', 0.7360443)
+('pawley martin', 0.7133406)
+

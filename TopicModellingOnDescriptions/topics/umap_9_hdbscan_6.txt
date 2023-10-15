@@ -1,0 +1,86 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('access', 0.9999999)
+('access access', 0.90957737)
+('access access access', 0.8690795)
+('user access access', 0.8020613)
+('user access', 0.797743)
+('access user access', 0.7734571)
+('control access', 0.7380369)
+
+Topic: 1
+('', 0.97696877)
+('', 0.97696877)
+('', 0.97696877)
+('', 0.97696877)
+('', 0.97696877)
+('', 0.97696877)
+('', 0.97696877)
+
+Topic: 2
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+('', 0.9427607)
+
+Topic: 3
+('yale university press', 0.8960978)
+('cambridge university press', 0.8067827)
+('university press new', 0.7532869)
+('oxford university press', 0.7449325)
+('university press', 0.73214626)
+('university press london', 0.7217977)
+('new ct yale', 0.6841625)
+
+Topic: 4
+('de la comisaría', 0.5929588)
+('la comisaría como', 0.5813293)
+('la comisaría', 0.571887)
+('por la planta', 0.55249226)
+('comisaría como', 0.5292921)
+('la planta', 0.4993912)
+('como un edificio', 0.48563832)
+
+Topic: 5
+('', 0.8637236)
+('', 0.8637236)
+('', 0.8637236)
+('', 0.8637236)
+('', 0.8637236)
+('', 0.8637236)
+('', 0.8637236)
+
+Topic: 6
+('accessed april', 0.9717035)
+('april accessed', 0.9568938)
+('april accessed april', 0.9157439)
+('accessed april accessed', 0.9110319)
+('noever accessed april', 0.8905519)
+('accessed april access', 0.8893589)
+('april access', 0.8543042)
+
+Topic: 7
+('piazza del campo', 0.66548705)
+('paving piazza del', 0.63811165)
+('modern architecture le', 0.6358252)
+('italyguides piazza del', 0.6324791)
+('historical architecture photographic', 0.6315682)
+('modern architecture', 0.629895)
+('del campo siena', 0.61991286)
+
+Topic: 8
+('building', 0.68807745)
+('construction', 0.5509945)
+('facade', 0.504362)
+('architectural', 0.5030332)
+('facility', 0.4955249)
+('architecture', 0.48123723)
+('hall', 0.46060067)
+

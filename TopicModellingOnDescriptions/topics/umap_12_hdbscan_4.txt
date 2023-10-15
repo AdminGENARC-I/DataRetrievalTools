@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('cru', 0.85917765)
+('cru cru', 0.7978952)
+('cru oma', 0.79065365)
+('cru cru oma', 0.762041)
+('meanwhile cru', 0.69754386)
+('meanwhile cru cru', 0.695451)
+('cru oma long', 0.67166865)
+
+Topic: 1
+('natural butterfly garden', 0.6905224)
+('natural butterfly farm', 0.65258527)
+('butterfly garden', 0.6344949)
+('population butterfly', 0.5427406)
+('new natural butterfly', 0.53859985)
+('natural butterfly', 0.52958995)
+('papalotla natural butterfly', 0.52424467)
+
+Topic: 2
+('japan himeji castle', 0.9040032)
+('himeji castle', 0.88552785)
+('castle himeji', 0.8801507)
+('himeji castle himeji', 0.8628453)
+('japan himeji', 0.6934798)
+('japanese castle', 0.6559763)
+('himeji', 0.6430324)
+
+Topic: 3
+('architecture go korea', 0.7613008)
+('seoul citizen cultural', 0.7255527)
+('urban structure seoul', 0.7041366)
+('structure seoul', 0.7007121)
+('structure seoul different', 0.6925794)
+('seoul new city', 0.6724961)
+('seoul new', 0.6418644)
+
+Topic: 4
+('building', 0.6683133)
+('construction', 0.53893685)
+('facade', 0.5145708)
+('architectural', 0.49192575)
+('architecture', 0.4797924)
+('facility', 0.43921983)
+('courtyard', 0.4184131)
+

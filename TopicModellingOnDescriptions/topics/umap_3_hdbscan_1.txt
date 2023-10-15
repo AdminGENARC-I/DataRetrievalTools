@@ -1,0 +1,77 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('south africa amnesty', 0.93917155)
+('africa amnesty international', 0.93639326)
+('amnesty international south', 0.91071445)
+('africa amnesty', 0.85744524)
+('amnesty international', 0.8389963)
+('international south africa', 0.7399571)
+('amnesty', 0.7062881)
+
+Topic: 1
+('accessed april', 1.0000004)
+('april accessed', 0.98091245)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.94215953)
+('accessed april access', 0.9210118)
+('noever accessed april', 0.90305424)
+('june accessed april', 0.8830302)
+
+Topic: 2
+('people story temporality', 0.6588093)
+('story temporality fundamental', 0.6572206)
+('story temporality', 0.6527159)
+('create story care', 0.63518167)
+('story care everyone', 0.62503815)
+('story care', 0.6077669)
+('interpret different story', 0.57826006)
+
+Topic: 3
+('', 0.92697585)
+('', 0.92697585)
+('', 0.92697585)
+('', 0.92697585)
+('', 0.92697585)
+('', 0.92697585)
+('', 0.92697585)
+
+Topic: 4
+('', 1.0)
+('', 1.0)
+('', 1.0)
+('', 1.0)
+('', 1.0)
+('', 1.0)
+('', 1.0)
+
+Topic: 5
+('rome pantheon', 0.81822574)
+('pantheon antiquity', 0.7617223)
+('pantheon antiquity present', 0.7556805)
+('empire pantheon', 0.73811245)
+('pantheon commissioned marcus', 0.68297005)
+('pantheon commissioned', 0.66484165)
+('pantheon', 0.6400976)
+
+Topic: 6
+('building', 0.51389146)
+('facility', 0.50715923)
+('construction', 0.43215537)
+('architectural', 0.38530517)
+('architecture', 0.38362283)
+('courtyard', 0.3833481)
+('floor', 0.38167816)
+
+Topic: 7
+('fishing community', 0.70220757)
+('local community fishing', 0.66193855)
+('local fishing activity', 0.65561974)
+('local fishery research', 0.6472358)
+('local fishing', 0.63576066)
+('local fishery', 0.62053514)
+('gathering space fishing', 0.6020833)
+

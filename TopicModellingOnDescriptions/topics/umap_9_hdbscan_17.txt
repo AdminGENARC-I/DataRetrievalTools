@@ -1,0 +1,95 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('fog city press', 0.82166165)
+('city press', 0.7411233)
+('news via', 0.6297661)
+('san francisco fog', 0.6289299)
+('francisco fog city', 0.6274879)
+('francisco fog', 0.58978724)
+('fog city', 0.5513226)
+
+Topic: 1
+('plant medicinal benefit', 0.7900039)
+('medicinal benefit fruit', 0.74333966)
+('leaf medicinal benefit', 0.7237624)
+('plant medicinal', 0.7080946)
+('medicinal benefit', 0.68484366)
+('like leaf medicinal', 0.6802808)
+('listed plant medicinal', 0.66908264)
+
+Topic: 2
+('al shaheed monument', 0.72794247)
+('baghdad monument', 0.71773803)
+('shaheed monument', 0.669894)
+('holocaust monument', 0.59091103)
+('monument memorial', 0.587422)
+('national holocaust monument', 0.58535945)
+('monument celebrates', 0.5803412)
+
+Topic: 3
+('note project originally', 0.85544753)
+('note project', 0.8414298)
+('project', 0.7213304)
+('project originally published', 0.699401)
+('story note project', 0.67668366)
+('project originally', 0.6764977)
+('project learn project', 0.6516216)
+
+Topic: 4
+('kawalerii administrative office', 0.46241784)
+('office embassy', 0.4614488)
+('note embassy building', 0.45996964)
+('various consulate function', 0.4555338)
+('new embassy designed', 0.44816458)
+('embassy', 0.4417763)
+('consulate', 0.4376911)
+
+Topic: 5
+('relação', 0.5325213)
+('como un edificio', 0.42404383)
+('plano de', 0.42074513)
+('de modo', 0.41097164)
+('como', 0.37576693)
+('un edificio', 0.3751276)
+('como un', 0.3629369)
+
+Topic: 6
+('new police station', 0.8266803)
+('police station new', 0.8104912)
+('local police station', 0.780727)
+('neighborhood police station', 0.7679529)
+('police station', 0.75943625)
+('police headquarters', 0.73230594)
+('new police', 0.68006545)
+
+Topic: 7
+('construction work', 0.62841916)
+('construction', 0.5935636)
+('building process', 0.5862513)
+('building', 0.5797579)
+('design competition', 0.52469444)
+('competition entry', 0.4539969)
+('project received', 0.45318475)
+
+Topic: 8
+('fire station', 0.90724874)
+('fire station building', 0.8797295)
+('new fire station', 0.8390968)
+('gangil fire station', 0.7505381)
+('fire service', 0.66840017)
+('fire brigade', 0.6552038)
+('fire truck', 0.65228707)
+
+Topic: 9
+('building', 0.5706401)
+('architectural', 0.5394676)
+('facade', 0.53244275)
+('architecture', 0.5241265)
+('construction', 0.46640986)
+('architect', 0.45438373)
+('design', 0.42005336)
+

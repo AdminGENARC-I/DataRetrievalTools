@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('description break image', 0.719471)
+('architect description break', 0.68437123)
+('image architect description', 0.6802264)
+('break image architect', 0.60971224)
+('description break', 0.5546831)
+('architect description', 0.50657964)
+('image architect', 0.49660876)
+
+Topic: 1
+('building', 0.5745138)
+('architectural', 0.5025549)
+('construction', 0.48473483)
+('architecture', 0.47482535)
+('landscape', 0.43368024)
+('facade', 0.43220466)
+('facility', 0.42371905)
+

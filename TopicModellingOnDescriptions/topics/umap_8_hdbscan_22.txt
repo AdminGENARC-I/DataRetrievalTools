@@ -1,0 +1,59 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 3, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 25, 'prediction_data': True}
+
+
+Topic: 0
+('long', 0.70401376)
+('fair', 0.68663794)
+('meanwhile', 0.6751914)
+('meanwhile long', 0.6719066)
+('', 0.6438422)
+('', 0.6438422)
+('', 0.6438422)
+
+Topic: 1
+('south africa amnesty', 0.93917155)
+('africa amnesty international', 0.93639326)
+('amnesty international south', 0.91071457)
+('africa amnesty', 0.8574452)
+('amnesty international', 0.8389964)
+('international south africa', 0.739957)
+('amnesty', 0.7062881)
+
+Topic: 2
+('szczecin', 0.6447345)
+('office szcz', 0.62876153)
+('office szcz also', 0.61840236)
+('randers tegl', 0.5575495)
+('poland go stair', 0.5558857)
+('kryton randers tegl', 0.54214144)
+('poland', 0.53218067)
+
+Topic: 3
+('bamboo construction', 0.8727747)
+('bamboo architecture', 0.84986144)
+('bamboo structure', 0.81644464)
+('engineered bamboo', 0.77283394)
+('using bamboo', 0.76709896)
+('use bamboo', 0.73346186)
+('made bamboo', 0.7237145)
+
+Topic: 4
+('building', 0.63557065)
+('construction', 0.54829526)
+('architectural', 0.50617206)
+('architecture', 0.48069084)
+('facility', 0.47022775)
+('facade', 0.4250602)
+('architect', 0.4242416)
+
+Topic: 5
+('waste waste', 0.78781605)
+('waste', 0.65266156)
+('disposal', 0.6242469)
+('recycling centre', 0.57972044)
+('composting toilet', 0.57468855)
+('recycle reuse wastewater', 0.5729698)
+('recycling', 0.5694933)
+

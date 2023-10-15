@@ -1,0 +1,896 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.05}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('community centre', 0.5592518)
+('facility', 0.54096097)
+('building', 0.5378955)
+('public space', 0.5079795)
+('community center', 0.5045053)
+('architectural', 0.5037625)
+('architecture', 0.48557556)
+
+Topic: 1
+('courtyard', 0.72037065)
+('inner courtyard', 0.7190027)
+('central courtyard', 0.68667626)
+('patio', 0.5489239)
+('public space', 0.5447662)
+('terrace', 0.540768)
+('building', 0.5232724)
+
+Topic: 2
+('office meeting room', 0.798548)
+('meeting room', 0.68614054)
+('office meeting', 0.66401476)
+('conference room', 0.6071727)
+('office', 0.49799594)
+('room', 0.46060914)
+('facility', 0.45385128)
+
+Topic: 3
+('glass panel', 0.5488137)
+('lighting', 0.5076414)
+('light shadow', 0.48763555)
+('natural light', 0.47826192)
+('curtain wall', 0.46176174)
+('skylight', 0.46038634)
+('glass', 0.4585814)
+
+Topic: 4
+('floor level', 0.7240394)
+('ground level', 0.68239975)
+('ground floor', 0.6630649)
+('floor ground', 0.6534431)
+('scale building', 0.51010346)
+('floor', 0.5097469)
+('three floor', 0.4995374)
+
+Topic: 5
+('fire station', 0.90699655)
+('fire station building', 0.8804718)
+('new fire station', 0.86496276)
+('gangil fire station', 0.6673365)
+('station building', 0.63172865)
+('fire department', 0.62617743)
+('fire brigade', 0.61328685)
+
+Topic: 6
+('building', 0.93731767)
+('construction', 0.86474246)
+('existing building', 0.8048874)
+('construction process', 0.7599517)
+('new building', 0.7541666)
+('construction technique', 0.7354995)
+('constructed', 0.70601034)
+
+Topic: 7
+('forest tree', 0.6786008)
+('pine tree', 0.6356176)
+('existing tree', 0.63026226)
+('forest', 0.61220336)
+('tree', 0.6097454)
+('wooded', 0.57400084)
+('tree house', 0.5623208)
+
+Topic: 8
+('rural construction', 0.7706339)
+('rural building', 0.76508003)
+('rural area', 0.6323949)
+('rural public', 0.6278653)
+('villager activity', 0.62760556)
+('traditional village', 0.6253331)
+('rural life', 0.6165961)
+
+Topic: 9
+('structure roof', 0.8179941)
+('building roof', 0.8168999)
+('roof construction', 0.81670326)
+('roof structure', 0.8064182)
+('roof form', 0.8028202)
+('support roof', 0.7389623)
+('sloping roof', 0.7325476)
+
+Topic: 10
+('building architecture', 0.5772643)
+('building', 0.5295354)
+('local culture', 0.50576556)
+('heritage', 0.49791425)
+('original building', 0.48909223)
+('architectural', 0.4776724)
+('architecture', 0.4753681)
+
+Topic: 11
+('child family centre', 0.8650191)
+('child center', 0.82219076)
+('family centre', 0.7674829)
+('childcare', 0.72921187)
+('youth centre', 0.7172085)
+('child care', 0.6889404)
+('community center', 0.6106689)
+
+Topic: 12
+('public toilet', 0.8146994)
+('public restroom', 0.7553487)
+('original public toilet', 0.74476236)
+('area restroom', 0.6854824)
+('area toilet', 0.684585)
+('toilet toilet', 0.6788887)
+('toilet project', 0.6735775)
+
+Topic: 13
+('main entrance building', 0.8852737)
+('building main entrance', 0.88029915)
+('entrance building', 0.8102617)
+('main entrance', 0.8046285)
+('entrance located', 0.75678563)
+('entrance site', 0.65357786)
+('new entrance', 0.6060506)
+
+Topic: 14
+('facade building', 0.851887)
+('building facade', 0.84551674)
+('main facade', 0.8268646)
+('façade design', 0.8116633)
+('design facade', 0.80593705)
+('facade', 0.78510284)
+('façade', 0.78510284)
+
+Topic: 15
+('court building', 0.8063796)
+('courthouse', 0.7681639)
+('courtroom office', 0.75320387)
+('courthouse designed', 0.7422849)
+('new courthouse', 0.7320389)
+('courtroom', 0.69797385)
+('district court', 0.6579341)
+
+Topic: 16
+('staircase connects', 0.74528897)
+('staircase', 0.7331289)
+('open staircase', 0.71962035)
+('stairwell', 0.7035343)
+('space staircase', 0.6985087)
+('spiral staircase', 0.68659174)
+('floor stair', 0.670065)
+
+Topic: 17
+('wood structure', 0.75866646)
+('timber structure', 0.74010915)
+('timber structural', 0.7244023)
+('type wood', 0.6912701)
+('timber structural system', 0.6834595)
+('laminated timber', 0.67200154)
+('larch wood', 0.6694339)
+
+Topic: 18
+('natural ventilation', 0.85209817)
+('allow natural ventilation', 0.83869267)
+('ventilation natural', 0.8054228)
+('ventilation space', 0.7547183)
+('natural lighting ventilation', 0.7504475)
+('cooling ventilation', 0.7468532)
+('natural light ventilation', 0.74385965)
+
+Topic: 19
+('green roof', 0.74013335)
+('roof system', 0.5797136)
+('roof structure', 0.5790121)
+('roof shelter', 0.5521474)
+('space roof', 0.5428899)
+('roof', 0.5316908)
+('rooftop', 0.5044733)
+
+Topic: 20
+('building situated', 0.61802155)
+('building', 0.57556826)
+('building height', 0.5199163)
+('building form', 0.515879)
+('surrounding landscape', 0.5094743)
+('architectural', 0.507238)
+('architecture', 0.49524128)
+
+Topic: 21
+('masonry', 0.6078822)
+('handmade brick', 0.5407775)
+('brick tile', 0.53486764)
+('red brick', 0.53462064)
+('facade', 0.53338003)
+('façade', 0.53338003)
+('concrete', 0.5204129)
+
+Topic: 22
+('building atrium', 0.8657019)
+('atrium façade', 0.8115745)
+('atrium placed', 0.78553265)
+('atrium placed center', 0.78295916)
+('atrium patio', 0.758786)
+('atrium around', 0.7418066)
+('atrium space', 0.74024034)
+
+Topic: 23
+('leed gold certification', 0.71041304)
+('certification green building', 0.69531345)
+('leed silver certification', 0.6225333)
+('gold certification', 0.6047039)
+('silver certification', 0.5526186)
+('certification green', 0.54999447)
+('green building council', 0.5486438)
+
+Topic: 24
+('concrete column', 0.76599133)
+('steel column', 0.6312506)
+('wooden column', 0.61404854)
+('concrete structure', 0.5962764)
+('building concrete', 0.58826494)
+('reinforced concrete', 0.5866792)
+('concrete foundation', 0.5774313)
+
+Topic: 25
+('existing town hall', 0.8322729)
+('new town hall', 0.8141083)
+('town hall new', 0.80600375)
+('hall new town', 0.7892528)
+('new city hall', 0.77426296)
+('town hall', 0.76541114)
+('city hall', 0.72068214)
+
+Topic: 26
+('heat pump system', 0.79486054)
+('heating cooling system', 0.7229212)
+('source heat pump', 0.71872944)
+('heat pump', 0.7152727)
+('heat pump heating', 0.7025818)
+('heating system', 0.6744126)
+('pump heating', 0.6580409)
+
+Topic: 27
+('qinchang village', 0.71420676)
+('xiangyang village', 0.6672409)
+('qinchang village cpc', 0.65543485)
+('village shanghai', 0.61841226)
+('qili village', 0.602424)
+('henan province', 0.58425164)
+('yunnan province', 0.5687288)
+
+Topic: 28
+('municipal water source', 0.71605754)
+('municipal water', 0.67228127)
+('water sanitation', 0.6502794)
+('collected rainwater', 0.6236833)
+('rainwater harvesting', 0.60837454)
+('rainwater collection', 0.58028644)
+('irrigation system', 0.5430959)
+
+Topic: 29
+('construction technique material', 0.7269597)
+('construction material', 0.6561464)
+('construction technique', 0.65481734)
+('construction method', 0.6089115)
+('construction', 0.4992293)
+('building', 0.45922053)
+('longevity strategy work', 0.4583395)
+
+Topic: 30
+('material natural stone', 0.81142753)
+('concrete stone', 0.79182404)
+('natural stone', 0.79119873)
+('stone concrete', 0.7884786)
+('stone structure', 0.7596773)
+('materiality stone wall', 0.75274324)
+('design stone', 0.7520056)
+
+Topic: 31
+('demolition construction', 0.73264515)
+('building demolished', 0.68597615)
+('demolition reconstruction', 0.685429)
+('partial demolition', 0.65811485)
+('demolition', 0.6174667)
+('urban renovation', 0.57571256)
+('reused construction', 0.5513158)
+
+Topic: 32
+('area square meter', 0.7691974)
+('square meter', 0.75117594)
+('ground square meter', 0.73327863)
+('meter building', 0.72356075)
+('building meter', 0.7199134)
+('square metre', 0.702369)
+('grid square metre', 0.6536933)
+
+Topic: 33
+('interior color', 0.56556636)
+('material color', 0.51009357)
+('main decoration', 0.50900424)
+('choice material color', 0.50515777)
+('furniture light', 0.49858233)
+('facade', 0.4945268)
+('design', 0.49367434)
+
+Topic: 34
+('bamboo architecture', 0.7784209)
+('bamboo tree', 0.76542693)
+('bamboo branch', 0.76131225)
+('idea bamboo', 0.74803865)
+('tree bamboo', 0.7479857)
+('bamboo structure', 0.74061984)
+('bamboo forest', 0.73490936)
+
+Topic: 35
+('park city living', 0.5399895)
+('city living room', 0.53624785)
+('green expo park', 0.5253583)
+('river city', 0.5203457)
+('urban living room', 0.51408)
+('expo park city', 0.51212037)
+('urban design', 0.49217492)
+
+Topic: 36
+('sustainability', 0.78470534)
+('sustainability project', 0.7742113)
+('project sustainability', 0.7684378)
+('sustainability idea', 0.7569102)
+('sustainability innovation', 0.7293142)
+('sustainable development', 0.7030275)
+('sustainable', 0.68976116)
+
+Topic: 37
+('celebrated architecture project', 0.69052255)
+('architecture project visit', 0.6814976)
+('celebrated architecture', 0.64363134)
+('behind celebrated architecture', 0.64305675)
+('project visit ad', 0.6164892)
+('visit ad classic', 0.54562116)
+('ad classic section', 0.539248)
+
+Topic: 38
+('building underground parking', 0.75556827)
+('parking building', 0.7293372)
+('underground parking', 0.6904615)
+('parking structure', 0.6764474)
+('underground car park', 0.6579029)
+('parking space', 0.65059304)
+('conventional parking house', 0.62710845)
+
+Topic: 39
+('wooden structure', 0.6272235)
+('building wooden', 0.57494897)
+('door window system', 0.56848294)
+('floor ceiling', 0.56252944)
+('alloy door window', 0.5444152)
+('door window', 0.5415513)
+('wooden beam', 0.533162)
+
+Topic: 40
+('urban farming', 0.5428087)
+('urban agriculture', 0.5335642)
+('beautiful countryside', 0.5134821)
+('countryside', 0.5068409)
+('landscape', 0.4730336)
+('environment', 0.45336878)
+('agriculture', 0.44415653)
+
+Topic: 41
+('open welcoming', 0.52746475)
+('everyone yulin alley', 0.47245103)
+('yulin alley', 0.45923272)
+('little expect enjoy', 0.45457214)
+('creates kind social', 0.454413)
+('expect enjoy good', 0.44815302)
+('yulin alley get', 0.44745982)
+
+Topic: 42
+('pedestrian path', 0.66682065)
+('place reflected path', 0.6108186)
+('reflected path selection', 0.58016634)
+('pedestrian crossing', 0.56030416)
+('reflected path', 0.5451522)
+('interaction place reflected', 0.5378436)
+('site pedestrian', 0.52841747)
+
+Topic: 43
+('design build', 0.68932474)
+('design construction', 0.6839757)
+('created design', 0.6527926)
+('design concept', 0.629645)
+('design process', 0.62043977)
+('design project', 0.6139041)
+('design', 0.6044482)
+
+Topic: 44
+('randers tegl endicott', 0.65335447)
+('szczecin', 0.62359726)
+('randers tegl jansen', 0.62233233)
+('randers tegl kryton', 0.5793674)
+('randers tegl', 0.5735885)
+('poland next initiative', 0.56200516)
+('przełomy', 0.5588601)
+
+Topic: 45
+('real altamira palace', 0.5827712)
+('tower el molino', 0.56400764)
+('maria basilica dome', 0.55463624)
+('santa maria basilica', 0.53718114)
+('altamira palace', 0.53129715)
+('maria basilica', 0.51076984)
+('basilica dome', 0.51036996)
+
+Topic: 46
+('tower building', 0.69640183)
+('tallest building', 0.6431826)
+('building', 0.60319495)
+('twin tower', 0.577696)
+('two tower', 0.5682127)
+('tower rise', 0.5545322)
+('tower', 0.5543902)
+
+Topic: 47
+('swimming pool', 0.74468565)
+('public swimming pool', 0.7223549)
+('swimming pool located', 0.7042937)
+('olympic swimming pool', 0.7028577)
+('indoor pool', 0.6953895)
+('pool', 0.6786225)
+('pool sport', 0.67556745)
+
+Topic: 48
+('charleroi police headquarters', 0.79711354)
+('new police headquarters', 0.78609353)
+('police station located', 0.78203106)
+('police station new', 0.78003484)
+('police station', 0.76197785)
+('police building', 0.75926393)
+('neighborhood police station', 0.75349665)
+
+Topic: 49
+('project', 0.8037724)
+('project based', 0.75497365)
+('learn project', 0.7380713)
+('project learn project', 0.7259832)
+('project learn', 0.6975408)
+('project completed', 0.6517029)
+('mainly thanks project', 0.5862788)
+
+Topic: 50
+('interior design', 0.91331804)
+('interior designed', 0.85758567)
+('interior architecture', 0.8357114)
+('architecture interior', 0.82645905)
+('building interior', 0.82223403)
+('interior interior', 0.80255795)
+('interior', 0.80129576)
+
+Topic: 51
+('structure pedestrian bridge', 0.8533182)
+('pedestrian bridge', 0.8440784)
+('pedestrian footbridge', 0.7603221)
+('bridge', 0.64094007)
+('footbridge', 0.63091123)
+('structure pedestrian', 0.621033)
+('edge near bridge', 0.61819935)
+
+Topic: 52
+('design award', 0.6841155)
+('design awarded first', 0.66472703)
+('architectural competition', 0.6590587)
+('architect design', 0.6507986)
+('design awarded', 0.64034724)
+('architect', 0.6207902)
+('architectural firm', 0.5927563)
+
+Topic: 53
+('architecture', 0.8092519)
+('architectural', 0.7934451)
+('made architectural', 0.743822)
+('architecture architecture', 0.74235034)
+('new architecture', 0.7281742)
+('modern architecture', 0.72520566)
+('mind elementary architectural', 0.7087367)
+
+Topic: 54
+('new building parliament', 0.82803524)
+('new parliament building', 0.82398236)
+('parliament building', 0.79657805)
+('house parliament', 0.76015073)
+('building parliament', 0.7565882)
+('new parliament', 0.74853957)
+('parliament house', 0.73348004)
+
+Topic: 55
+('plasticity concrete', 0.6830627)
+('concrete principal material', 0.6732182)
+('recycled material construction', 0.6703164)
+('material recycled', 0.6700063)
+('recycled material', 0.65758216)
+('building material', 0.5846482)
+('reclaimed material', 0.58028823)
+
+Topic: 56
+('optimize construction way', 0.54961056)
+('selected optimize construction', 0.54711384)
+('matrix subsystem project', 0.5424324)
+('operational need generating', 0.5301235)
+('subsystem project', 0.52909863)
+('generating programmatic', 0.49817383)
+('requirement program', 0.4843938)
+
+Topic: 57
+('child playground', 0.8164879)
+('playground designed', 0.74309886)
+('playground', 0.6978009)
+('playground equipment', 0.6813729)
+('many playground standard', 0.66401815)
+('many child play', 0.58370364)
+('child play', 0.57012284)
+
+Topic: 58
+('resource climatic material', 0.6824001)
+('resource climatic', 0.6595737)
+('natural resource climatic', 0.650967)
+('climatic material', 0.6407917)
+('climatic material one', 0.62740505)
+('control climate within', 0.5954096)
+('local climate', 0.58968306)
+
+Topic: 59
+('vegetation', 0.5486255)
+('plant provide sun', 0.5453644)
+('place outdoors shade', 0.5303532)
+('pattern inform plant', 0.5082511)
+('place light sunlight', 0.50245476)
+('spring fruiting autumn', 0.50156933)
+('blooming spring fruiting', 0.4964208)
+
+Topic: 60
+('opposition opacity transparency', 0.60270196)
+('opaque', 0.5845125)
+('transparency', 0.5802856)
+('organic geometry facade', 0.5586586)
+('opposition opacity', 0.5448202)
+('opacity contrast unity', 0.53394115)
+('transparent', 0.5308547)
+
+Topic: 61
+('social space', 0.5921998)
+('pleasant public space', 0.57847416)
+('neighborhood communication', 0.56375194)
+('public space', 0.5263484)
+('neighborhood communication space', 0.48726094)
+('notice public space', 0.4851999)
+('neighbouring building office', 0.46351656)
+
+Topic: 62
+('floor distribution circulation', 0.5599589)
+('operational system courthouse', 0.5341327)
+('distribution circulation system', 0.5289706)
+('courthouse vertical distribution', 0.5155845)
+('requirement courthouse vertical', 0.5060295)
+('operational system', 0.47790435)
+('ground floor characterized', 0.47041526)
+
+Topic: 63
+('folding door', 0.7429441)
+('folding door fully', 0.721624)
+('window door', 0.56134367)
+('door fully', 0.54236865)
+('door fully opened', 0.5400647)
+('mean window door', 0.5383293)
+('building exterior', 0.48010585)
+
+Topic: 64
+('mexico city', 0.5637721)
+('cultural facility', 0.5180243)
+('cultural activity', 0.4756846)
+('santa cruz', 0.4468341)
+('cultural social', 0.44671455)
+('state mexico', 0.4367686)
+('mexico', 0.43124747)
+
+Topic: 65
+('himeji castle', 0.9102874)
+('castle himeji', 0.9059979)
+('himeji castle himeji', 0.9037899)
+('japan himeji castle', 0.8748697)
+('himeji', 0.6979421)
+('japan himeji', 0.69532347)
+('modern japan himeji', 0.66122764)
+
+Topic: 66
+('embassy building', 0.70502126)
+('embassy', 0.64251626)
+('embassy republic', 0.63336444)
+('neighbor embassy republic', 0.6174548)
+('new embassy', 0.60944045)
+('material used embassy', 0.57981175)
+('neighbor embassy', 0.56358755)
+
+Topic: 67
+('dutch parliament futagawa', 0.7780374)
+('parliament futagawa dutch', 0.7747755)
+('futagawa dutch parliament', 0.7689438)
+('dutch parliament', 0.66837454)
+('parliament futagawa', 0.6583686)
+('futagawa dutch', 0.65770745)
+('parliament futagawa fabrizi', 0.6393053)
+
+Topic: 68
+('theatre auditorium', 0.64904904)
+('auditorium', 0.6159948)
+('gymnastics dance auditorium', 0.60641986)
+('small auditorium provides', 0.59206116)
+('hand auditorium', 0.5730736)
+('large auditorium contains', 0.5713772)
+('lead directly auditorium', 0.5677068)
+
+Topic: 69
+('construction skill', 0.6925148)
+('material technique building', 0.6575533)
+('building made local', 0.63678837)
+('local construction', 0.63649154)
+('construction technique', 0.61096096)
+('construction system', 0.5850387)
+('made local material', 0.57482386)
+
+Topic: 70
+('orientation building tier', 0.49912357)
+('vertical unit design', 0.44130987)
+('outward engage tree', 0.4363817)
+('opening along perimeter', 0.4200638)
+('utilized roof offer', 0.33558863)
+('main entrance', 0.3288538)
+('vertical unit', 0.31426138)
+
+Topic: 71
+('construction budget', 0.8521342)
+('minimizing cost construction', 0.68042886)
+('budget design', 0.66603863)
+('construction work', 0.5645697)
+('budget', 0.55994916)
+('average building', 0.5522618)
+('new construction process', 0.5491117)
+
+Topic: 72
+('landscape design', 0.78177595)
+('landscape landscape', 0.7765963)
+('landscape', 0.7629915)
+('surrounding landscape', 0.7508809)
+('nature building landscape', 0.7499982)
+('nature landscape idea', 0.7428258)
+('architectural landscape', 0.7411063)
+
+Topic: 73
+('republic venice', 0.5838869)
+('venice', 0.5655009)
+('kahn proposal palazzo', 0.5388426)
+('venetian', 0.51896656)
+('palazzo dei congressi', 0.48451144)
+('palazzo dei', 0.48274422)
+('specifically warn venice', 0.48002672)
+
+Topic: 74
+('accessed april', 0.9948084)
+('april accessed', 0.9734926)
+('accessed april accessed', 0.9594978)
+('accessed april access', 0.9493259)
+('april access accessed', 0.9385127)
+('april accessed april', 0.93523765)
+('noever accessed april', 0.92269206)
+
+Topic: 75
+('sauna bathing', 0.70291084)
+('public sauna', 0.6588445)
+('sauna', 0.6443409)
+('place jacuzzi sauna', 0.6437634)
+('sauna experience', 0.63121694)
+('part public sauna', 0.6237905)
+('heated sauna', 0.6184771)
+
+Topic: 76
+('tourism foster local', 0.66965544)
+('local tourist economy', 0.66473085)
+('local tourism design', 0.6413611)
+('tourism', 0.6367604)
+('tourism design', 0.63528323)
+('tourism foster', 0.63136494)
+('tourism local', 0.62814564)
+
+Topic: 77
+('structure decoration sound', 0.586002)
+('structure building powerful', 0.53656876)
+('inside building surrounding', 0.50934863)
+('insulated acoustic', 0.5051458)
+('structurally design based', 0.5012208)
+('building', 0.4991601)
+('structurally design', 0.4942717)
+
+Topic: 78
+('visitor experience', 0.5534102)
+('exhibition', 0.545733)
+('experience visitor', 0.5130269)
+('opened exhibition', 0.5021011)
+('office tour', 0.4731848)
+('new design includes', 0.46926934)
+('showcasing', 0.4556529)
+
+Topic: 79
+('privacy outside user', 0.62743056)
+('user privacy', 0.5923445)
+('privacy function beyond', 0.5779088)
+('allows user check', 0.576597)
+('provide great privacy', 0.5748596)
+('privacy function', 0.5745888)
+('privacy outside', 0.5694356)
+
+Topic: 80
+('administrative department', 0.58699596)
+('office residential unit', 0.584726)
+('one department', 0.5723127)
+('one department secretary', 0.55917203)
+('organization administrative', 0.54561704)
+('organization administrative staff', 0.53662384)
+('secretary economic service', 0.53385955)
+
+Topic: 81
+('idea timelessness purity', 0.48325893)
+('materiality', 0.47882336)
+('showcasing timelessness', 0.47664958)
+('inspired material enriched', 0.46875513)
+('showcasing timelessness adaptive', 0.45557612)
+('identity culture expression', 0.44466949)
+('life used architectural', 0.4204017)
+
+Topic: 82
+('netherlands architectural', 0.6144508)
+('netherlands architectural style', 0.5911322)
+('oldest structure binnenhof', 0.58667254)
+('binnenhof', 0.5213945)
+('building', 0.49294093)
+('netherlands detail design', 0.4876287)
+('modernistic building', 0.4813153)
+
+Topic: 83
+('visitor explore', 0.6986481)
+('encourages visitor explore', 0.67079175)
+('path guide visitor', 0.6309487)
+('preparing visitor see', 0.6046667)
+('visitor see', 0.5833671)
+('guide visitor', 0.5808853)
+('encourages visitor', 0.5808262)
+
+Topic: 84
+('master plan brasília', 0.5494169)
+('maneira não', 0.5322701)
+('marcam hierarquizam espaços', 0.4986053)
+('rafael', 0.4862315)
+('roberto', 0.47398806)
+('brasília', 0.46813232)
+('maneira', 0.46613926)
+
+Topic: 85
+('thermal insulation', 0.6171942)
+('façade design', 0.5830823)
+('façades', 0.5503391)
+('façade', 0.54411)
+('thermal comfort', 0.54167956)
+('insulation', 0.53016675)
+('façade provides', 0.52625465)
+
+Topic: 86
+('nueva comisaría se', 0.63425636)
+('nueva comisaría', 0.6155774)
+('de la comisaría', 0.6154784)
+('la comisaría como', 0.60334367)
+('la comisaría', 0.5925613)
+('peças de concreto', 0.55741405)
+('por la planta', 0.5560659)
+
+Topic: 87
+('design process', 0.70488816)
+('process design development', 0.69290614)
+('project design', 0.6620861)
+('process development previous', 0.62492144)
+('participatory process constructional', 0.6166124)
+('planning process important', 0.6097165)
+('process constructional practice', 0.6079309)
+
+Topic: 88
+('functional constraint space', 0.5639175)
+('multifunctionality different space', 0.48485807)
+('functional interaction interior', 0.4839467)
+('interaction interior space', 0.4711629)
+('functionality space', 0.46893963)
+('make unique space', 0.45040146)
+('structure also contemplated', 0.45037228)
+
+Topic: 89
+('organized area', 0.5679362)
+('new architecture landscape', 0.56387365)
+('open area organized', 0.5378938)
+('organization center reflection', 0.5320456)
+('spatial', 0.49992245)
+('plan inside space', 0.4890908)
+('area space', 0.482749)
+
+Topic: 90
+('motif fixture furniture', 0.5271195)
+('pleat motif fixture', 0.5005032)
+('perfect coloration avoiding', 0.4753321)
+('project made wall', 0.46073055)
+('materiality selection color', 0.44899035)
+('instead constructing thick', 0.44796306)
+('phone green wall', 0.4429294)
+
+Topic: 91
+('pavilion central pier', 0.5906995)
+('port rotterdam various', 0.55770427)
+('port rotterdam', 0.55370605)
+('port rotterdam also', 0.55234885)
+('port rotterdam two', 0.55059665)
+('northshore pavilion', 0.54316676)
+('central pier', 0.50134283)
+
+Topic: 92
+('library experience', 0.6330375)
+('model contemporary library', 0.6169449)
+('library experience design', 0.6101052)
+('library key community', 0.58161163)
+('librarian visitor use', 0.5645621)
+('library technology facilitates', 0.56185865)
+('librarian visitor', 0.5611142)
+
+Topic: 93
+('view lake', 0.72601736)
+('lake view', 0.7110245)
+('overlooking lake facing', 0.6719836)
+('lake', 0.6056512)
+('northern lake', 0.5629854)
+('pavilion lake', 0.54494965)
+('park building dramatic', 0.5413587)
+
+Topic: 94
+('project collaborative team', 0.7097499)
+('project developed team', 0.69285655)
+('partner idea collaboration', 0.636985)
+('project team', 0.6360092)
+('project group focus', 0.60521114)
+('stage participatory program', 0.58073187)
+('project also undertook', 0.5784975)
+
+Topic: 95
+('community center', 0.71588486)
+('community centre', 0.6935246)
+('plot community center', 0.6336693)
+('income building community', 0.61070395)
+('community', 0.5664419)
+('youth community', 0.55953014)
+('organization new community', 0.54544413)
+
+Topic: 96
+('pritzker prize frei', 0.67698705)
+('pritzker architecture prize', 0.67541766)
+('pritzker prize', 0.65386456)
+('pritzker prize help', 0.634735)
+('prize help innovative', 0.59656954)
+('prize frei otto', 0.56174636)
+('prize end competitive', 0.5216154)
+
+Topic: 97
+('miami beach square', 0.6859658)
+('design miami', 0.67255044)
+('miami new location', 0.60911435)
+('miami beach soundscape', 0.604706)
+('convention center', 0.60363805)
+('miami beach', 0.60207754)
+('beach square', 0.59431183)
+
+Topic: 98
+('originally published july', 0.9918312)
+('published july originally', 0.9771372)
+('july originally published', 0.96457016)
+('published july', 0.92529386)
+('originally published january', 0.860038)
+('january originally published', 0.80397385)
+('published january', 0.79635775)
+

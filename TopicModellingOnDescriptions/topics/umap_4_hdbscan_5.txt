@@ -1,0 +1,77 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 15, 'prediction_data': True}
+
+
+Topic: 0
+('plantas devido destaque', 0.60487354)
+('nível edificação para', 0.5643378)
+('nueva comisaría se', 0.5507914)
+('pilotis retornemos avaliação', 0.5245316)
+('nueva comisaría', 0.52448285)
+('nível edificação', 0.5180582)
+('pensadas como enquadramentos', 0.51584935)
+
+Topic: 1
+('south africa amnesty', 0.93917143)
+('africa amnesty international', 0.9363933)
+('amnesty international south', 0.9107145)
+('africa amnesty', 0.85744506)
+('amnesty international', 0.8389964)
+('international south africa', 0.7399571)
+('amnesty', 0.706288)
+
+Topic: 2
+('cambridge university press', 0.89952284)
+('yale university press', 0.8798916)
+('university press cambridge', 0.87891245)
+('oxford university press', 0.8452889)
+('university press london', 0.8273877)
+('university press', 0.8126962)
+('university press new', 0.81203276)
+
+Topic: 3
+('accessed april', 1.0000002)
+('april accessed', 0.9809123)
+('accessed april accessed', 0.94843185)
+('april accessed april', 0.9421594)
+('noever accessed april', 0.9030541)
+('june accessed april', 0.88303006)
+('march accessed april', 0.84459126)
+
+Topic: 4
+('ibid', 1.0000001)
+('ibid ibid', 0.97439337)
+('ibid ibid ibid', 0.94273376)
+('ibid ibid either', 0.9266629)
+('ibid either', 0.92339927)
+('new ibid', 0.8979894)
+('take ibid ibid', 0.8656731)
+
+Topic: 5
+('seoul city hall', 0.72931933)
+('extension seoul square', 0.7107106)
+('symbolical center seoul', 0.7106067)
+('seoul square city', 0.7103491)
+('center seoul existing', 0.70967466)
+('seoul square symbolical', 0.70380414)
+('seoul existing outside', 0.70328295)
+
+Topic: 6
+('sauna public sauna', 0.84230214)
+('room sauna', 0.8087621)
+('new apartment sauna', 0.796155)
+('room relax sauna', 0.78398407)
+('public sauna', 0.7808627)
+('sauna public', 0.77897525)
+('sauna', 0.7528401)
+
+Topic: 7
+('space', 0.61273086)
+('building', 0.5937921)
+('facility', 0.57605225)
+('room', 0.5179236)
+('construction', 0.4963675)
+('centre', 0.46082094)
+('urban', 0.44683135)
+

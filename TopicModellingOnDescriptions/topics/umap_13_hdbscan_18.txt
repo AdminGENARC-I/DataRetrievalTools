@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('accessible wheelchair', 0.7919034)
+('wheelchair accessible', 0.7899227)
+('accessible wheelchair user', 0.7849946)
+('floor accessible wheelchair', 0.7756851)
+('premise wheelchair accessible', 0.76605254)
+('wheelchair accessible path', 0.76359344)
+('accessibility inclusion', 0.7571391)
+
+Topic: 1
+('accessed april', 0.97178483)
+('april accessed', 0.9603024)
+('accessed april somewhere', 0.94747305)
+('april accessed april', 0.91612947)
+('accessed april accessed', 0.9115157)
+('call accessed april', 0.8192271)
+('accessed', 0.70513874)
+
+Topic: 2
+('ibid', 0.97182256)
+('ibid ibid', 0.9467046)
+('ibid ibid ibid', 0.91862416)
+('ibid ibid nevertheless', 0.8933979)
+('new ibid', 0.8833611)
+('ibid nevertheless', 0.8785907)
+('oma ibid ibid', 0.85957277)
+
+Topic: 3
+('building', 0.6240308)
+('architectural', 0.56817555)
+('architecture', 0.5427389)
+('facade', 0.5080153)
+('construction', 0.49838987)
+('architect', 0.47236046)
+('design', 0.4542296)
+

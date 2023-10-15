@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.2}
+
+HDBScan Parameters: {'min_cluster_size': 15, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('ed', 0.6756144)
+('million ed', 0.655891)
+('hon', 0.65402734)
+('going hon', 0.64981115)
+('million', 0.63965696)
+('etc going hon', 0.6340046)
+('etc', 0.61721784)
+
+Topic: 1
+('accessed april', 0.9948082)
+('april accessed', 0.9734925)
+('accessed april accessed', 0.9594977)
+('accessed april access', 0.94932604)
+('april accessed april', 0.935238)
+('noever accessed april', 0.922692)
+('april access', 0.87237406)
+
+Topic: 2
+('rome pantheon', 0.7089647)
+('rome', 0.57351816)
+('pantheon', 0.5560294)
+('roman', 0.554578)
+('ancient rome', 0.54793394)
+('grande arche', 0.50794375)
+('roman empire', 0.4802773)
+
+Topic: 3
+('building', 0.63157296)
+('construction', 0.5411482)
+('facade', 0.5209329)
+('architectural', 0.50145566)
+('architecture', 0.48406747)
+('urban', 0.4456355)
+('concrete', 0.44062245)
+

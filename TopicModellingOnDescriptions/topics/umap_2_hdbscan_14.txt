@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 25, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('product description', 0.99999976)
+('description product', 0.9604058)
+('description product description', 0.9337226)
+('product description product', 0.92640555)
+('description', 0.85283583)
+('product', 0.63738453)
+('regret product description', 0.63659316)
+
+Topic: 1
+('etc woc encourages', 0.7191732)
+('encourages meanwhile', 0.7172011)
+('encourages', 0.7158145)
+('woc encourages', 0.6782484)
+('meanwhile', 0.6291359)
+('etc', 0.61850476)
+('encourages meanwhile long', 0.608145)
+
+Topic: 2
+('accessed april', 1.0000002)
+('april accessed', 0.9809123)
+('accessed april accessed', 0.9484321)
+('april accessed april', 0.94215935)
+('noever accessed april', 0.90305424)
+('safe accessed april', 0.7830821)
+('accessed', 0.70941836)
+
+Topic: 3
+('building', 0.57389724)
+('architectural', 0.56882775)
+('architecture', 0.5565912)
+('architect', 0.5189817)
+('construction', 0.4832495)
+('facade', 0.4771335)
+('facility', 0.4264672)
+

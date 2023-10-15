@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 30, 'min_samples': 30, 'prediction_data': True}
+
+
+Topic: 0
+('fog city press', 0.8258293)
+('san francisco fog', 0.74177366)
+('francisco fog city', 0.7400894)
+('city press san', 0.73507184)
+('city press', 0.70224804)
+('francisco fog', 0.69588584)
+('press san francisco', 0.68644536)
+
+Topic: 1
+('himeji castle', 0.9102875)
+('castle himeji', 0.90599805)
+('himeji castle himeji', 0.90378976)
+('japan himeji castle', 0.8748697)
+('himeji', 0.697942)
+('japan himeji', 0.69532347)
+('modern japan himeji', 0.6612277)
+
+Topic: 2
+('building', 0.703642)
+('construction', 0.6052886)
+('architectural', 0.5750038)
+('architecture', 0.56597793)
+('facility', 0.5410907)
+('architect', 0.5238944)
+('facade', 0.5000115)
+

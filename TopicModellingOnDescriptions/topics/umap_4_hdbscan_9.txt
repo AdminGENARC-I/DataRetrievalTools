@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 20, 'min_samples': 35, 'prediction_data': True}
+
+
+Topic: 0
+('product description', 1.0000001)
+('description product', 0.96040595)
+('description product description', 0.9337226)
+('product description product', 0.92640555)
+('description', 0.8528359)
+('product description going', 0.84447855)
+('description going', 0.69692564)
+
+Topic: 1
+('building', 0.6478275)
+('design', 0.63404244)
+('architectural', 0.6333687)
+('architecture', 0.610633)
+('construction', 0.5926328)
+('facade', 0.5864624)
+('architect', 0.55473477)
+

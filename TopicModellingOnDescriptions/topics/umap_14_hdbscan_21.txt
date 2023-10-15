@@ -1,0 +1,41 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 35, 'min_samples': 20, 'prediction_data': True}
+
+
+Topic: 0
+('cru', 0.6420183)
+('building cru cru', 0.6284231)
+('requirement building cru', 0.6025708)
+('cru cru', 0.58481807)
+('meant replace cluster', 0.5214674)
+('growing occupancy', 0.5071976)
+('growing occupancy requirement', 0.5040892)
+
+Topic: 1
+('mar retrieved', 0.9267231)
+('retrieved mar mar', 0.9154198)
+('retrieved mar', 0.91530716)
+('mar retrieved mar', 0.9003111)
+('mar mar retrieved', 0.8983662)
+('mar accessed mar', 0.8741306)
+('accessed mar', 0.85583556)
+
+Topic: 2
+('cowan howells', 0.77916694)
+('cowan henry trevor', 0.77520573)
+('henry trevor howells', 0.76383495)
+('cowan henry', 0.7160109)
+('trevor howells', 0.69990057)
+('cowan', 0.6901097)
+('mcniff gregory cowan', 0.65998876)
+
+Topic: 3
+('building', 0.67164135)
+('construction', 0.545133)
+('facade', 0.5301882)
+('architectural', 0.4882601)
+('concrete', 0.4508999)
+('architecture', 0.43653882)
+('architect', 0.43462074)
+
