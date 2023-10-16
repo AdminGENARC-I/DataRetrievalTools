@@ -1,0 +1,446 @@
+UMAP Parameters: {'n_neighbors': 6, 'n_components': 6, 'min_dist': 0.05}
+
+HDBScan Parameters: {'min_cluster_size': 8, 'min_samples': 2, 'prediction_data': True}
+
+
+Topic: 0
+('building', 0.4042061)
+('courtyard', 0.38250622)
+('terrace', 0.36020875)
+('architecture', 0.35632995)
+('facility', 0.3504119)
+('public space', 0.3457527)
+('landscape', 0.31271607)
+
+Topic: 1
+('facade', 0.55536723)
+('building', 0.5206187)
+('architecture', 0.48344448)
+('construction', 0.43530187)
+('design', 0.37838843)
+('concrete', 0.37076092)
+('structure', 0.3617611)
+
+Topic: 2
+('village', 0.42250094)
+('villager', 0.3368744)
+('rural', 0.30141163)
+('countryside', 0.28268892)
+('town', 0.26529962)
+('courtyard', 0.25784406)
+('building', 0.2535806)
+
+Topic: 3
+('fire station', 0.54601324)
+('new fire station', 0.5377406)
+('fire brigade', 0.43573612)
+('fire truck', 0.43211865)
+('firefighter', 0.34754413)
+('fire engine', 0.33284378)
+('building', 0.32845277)
+
+Topic: 4
+('building', 0.5018898)
+('facade', 0.47713277)
+('architectural', 0.4496411)
+('architecture', 0.4331601)
+('construction', 0.4236592)
+('architect', 0.38566774)
+('concrete', 0.32617098)
+
+Topic: 5
+('municipality', 0.38708824)
+('municipal', 0.37404686)
+('building', 0.36620456)
+('palace', 0.32192612)
+('construction', 0.3115026)
+('architecture', 0.30792585)
+('museum', 0.2944048)
+
+Topic: 6
+('building', 0.3987249)
+('construction', 0.33743778)
+('ngo', 0.33184108)
+('village', 0.32492733)
+('architecture', 0.32147816)
+('environment', 0.32005942)
+('sustainable', 0.313433)
+
+Topic: 7
+('building designed', 0.52581674)
+('building', 0.51541317)
+('design', 0.4536565)
+('public space', 0.44306278)
+('activity', 0.39395723)
+('room', 0.3871066)
+('structure', 0.37663248)
+
+Topic: 8
+('building', 0.37201372)
+('indiana convention center', 0.3655708)
+('community center', 0.36265227)
+('facility', 0.3517937)
+('downtown', 0.3483684)
+('convention center', 0.33112395)
+('architecture', 0.31726402)
+
+Topic: 9
+('court building', 0.5691007)
+('new courthouse', 0.50437033)
+('courthouse', 0.47933954)
+('courtroom', 0.45006913)
+('district court', 0.39955798)
+('court', 0.38463405)
+('judiciary', 0.34973082)
+
+Topic: 10
+('façade', 0.46002337)
+('facade', 0.46002334)
+('building', 0.4588406)
+('construction', 0.41881058)
+('facility', 0.3532231)
+('design', 0.34994388)
+('haeahn architecture', 0.3320399)
+
+Topic: 11
+('façade', 0.45408285)
+('facade', 0.4540828)
+('building', 0.45355248)
+('architectural', 0.4102186)
+('architecture', 0.38169676)
+('construction', 0.3497194)
+('environment', 0.34342998)
+
+Topic: 12
+('community centre', 0.4841626)
+('community center', 0.41043806)
+('building', 0.39159763)
+('facility', 0.3757099)
+('public space', 0.3458532)
+('infrastructure', 0.34044486)
+('architecture', 0.3209864)
+
+Topic: 13
+('new building', 0.59375155)
+('building', 0.542426)
+('architectural', 0.53850996)
+('façade', 0.52243644)
+('facade', 0.5224364)
+('architecture', 0.5032848)
+('foyer', 0.49831283)
+
+Topic: 14
+('educational park', 0.4769706)
+('building', 0.44904396)
+('design workshop', 0.43879086)
+('classroom', 0.42940694)
+('school community', 0.42624685)
+('workshop', 0.4055292)
+('construction', 0.38722482)
+
+Topic: 15
+('dutch parliament', 0.4172225)
+('architect', 0.39807427)
+('building', 0.3941121)
+('renovation', 0.3713104)
+('architecture', 0.36180204)
+('municipality', 0.35455084)
+('amsterdam', 0.3518959)
+
+Topic: 16
+('police station', 0.49336427)
+('police headquarters', 0.48040718)
+('police force', 0.39804107)
+('new police', 0.38714272)
+('police department', 0.38634467)
+('facility', 0.34772247)
+('facade', 0.3268367)
+
+Topic: 17
+('garden restroom', 0.46771634)
+('public toilet', 0.4582926)
+('toilet project', 0.44293252)
+('public restroom', 0.41162547)
+('men woman toilet', 0.4023598)
+('woman toilet', 0.39125168)
+('toilet reforming', 0.37818325)
+
+Topic: 18
+('building', 0.3922993)
+('architectural', 0.37822556)
+('construction', 0.34377813)
+('architecture', 0.33250898)
+('public space', 0.33028343)
+('architect', 0.29221216)
+('roof', 0.26344836)
+
+Topic: 19
+('building', 0.4245783)
+('new building', 0.39851612)
+('façade', 0.38361174)
+('housing', 0.3788811)
+('municipal', 0.37419677)
+('entrance building', 0.35434955)
+('municipality', 0.3540422)
+
+Topic: 20
+('uppsala', 0.46112198)
+('copenhagen', 0.40928307)
+('new building', 0.407668)
+('building', 0.40219948)
+('førde', 0.39922374)
+('new city hall', 0.3788641)
+('municipality', 0.3715867)
+
+Topic: 21
+('gothenburg', 0.38482273)
+('pier', 0.3714094)
+('building', 0.37032506)
+('harbor', 0.36513776)
+('facade', 0.3635763)
+('harbour', 0.35451105)
+('waterfront', 0.3503163)
+
+Topic: 22
+('court building', 0.64304495)
+('courthouse building', 0.60313296)
+('façade', 0.5322795)
+('existing building', 0.52374923)
+('court tower', 0.5136907)
+('new building', 0.5088186)
+('judicial centre', 0.5059052)
+
+Topic: 23
+('housing', 0.3883875)
+('community support', 0.37202287)
+('communal house', 0.35575977)
+('homeless', 0.33953726)
+('community', 0.3385772)
+('shelter', 0.33658946)
+('communal', 0.32776994)
+
+Topic: 24
+('village', 0.31899953)
+('ngo', 0.31314057)
+('woman house', 0.30146053)
+('building', 0.2847578)
+('construction', 0.2612361)
+('garden', 0.25740284)
+('sustainable', 0.25565538)
+
+Topic: 25
+('new building', 0.46917126)
+('parish centre', 0.45903742)
+('cathedral', 0.4207001)
+('building', 0.41365802)
+('church street', 0.39481688)
+('rectory', 0.39364892)
+('church', 0.38193008)
+
+Topic: 26
+('new community centre', 0.6811241)
+('community centre', 0.652648)
+('civic center', 0.57721186)
+('centre city', 0.5698715)
+('new building', 0.53828305)
+('congress centre', 0.526181)
+('existing building', 0.52089524)
+
+Topic: 27
+('redesign public space', 0.4110763)
+('building', 0.40854967)
+('village', 0.3792708)
+('façade', 0.3701188)
+('courtyard', 0.34005597)
+('construction', 0.3290741)
+('main hall', 0.328636)
+
+Topic: 28
+('building', 0.39053762)
+('child house', 0.384668)
+('community hall', 0.3395149)
+('village', 0.30776703)
+('architecture', 0.29409432)
+('house', 0.27575815)
+('view terrace', 0.27414095)
+
+Topic: 29
+('new civic office', 0.47801954)
+('city hall', 0.46789318)
+('town hall', 0.45822087)
+('new building', 0.45437336)
+('civic office', 0.45380637)
+('public service building', 0.453212)
+('facade', 0.44820744)
+
+Topic: 30
+('building', 0.3967933)
+('tenancy', 0.3564307)
+('environmental atrium', 0.3213493)
+('facility', 0.30518222)
+('parramatta', 0.27734196)
+('council', 0.27455157)
+('legislative council', 0.26916438)
+
+Topic: 31
+('new public façade', 0.4980049)
+('façade', 0.4908216)
+('public façade', 0.46494937)
+('french embassy', 0.46275306)
+('building', 0.45679688)
+('embassy', 0.44002375)
+('new embassy', 0.43599007)
+
+Topic: 32
+('harbor', 0.40877584)
+('coastal', 0.39900136)
+('harbour', 0.3953679)
+('waterfront', 0.3883387)
+('waterfront tavern', 0.3872811)
+('shore', 0.36766392)
+('beach', 0.34248227)
+
+Topic: 33
+('architect', 0.454987)
+('architectural', 0.41897845)
+('architecture', 0.41265833)
+('building', 0.36199623)
+('national assembly building', 0.33934718)
+('construction', 0.32072777)
+('assembly building', 0.30812174)
+
+Topic: 34
+('facility', 0.37775075)
+('residential', 0.3446283)
+('building', 0.33584732)
+('expressway', 0.33314303)
+('ramp', 0.32572752)
+('calgary', 0.3167163)
+('courtyard', 0.29771677)
+
+Topic: 35
+('building', 0.4089826)
+('hall building', 0.36515418)
+('construction', 0.34941393)
+('municipal', 0.3411845)
+('santiago', 0.3241391)
+('concrete', 0.32409525)
+('chile', 0.32176417)
+
+Topic: 36
+('building', 0.37929413)
+('surrounding landscape', 0.37265748)
+('canoe', 0.35960743)
+('roof', 0.3480818)
+('landscape', 0.3434371)
+('lake', 0.33833963)
+('architectural', 0.32610103)
+
+Topic: 37
+('building', 0.381827)
+('desert site', 0.30337703)
+('prairie grass', 0.2913161)
+('community hall', 0.28014034)
+('landscape', 0.27621037)
+('newbern town hall', 0.27423453)
+('facility', 0.2734058)
+
+Topic: 38
+('service building', 0.40283412)
+('city river bank', 0.3859636)
+('water street', 0.38400286)
+('city river', 0.3707627)
+('riverfront', 0.33861566)
+('river bank', 0.3377758)
+('building', 0.33419794)
+
+Topic: 39
+('architectural mass', 0.5190304)
+('architectural', 0.50496274)
+('facade', 0.4814893)
+('residential', 0.47001165)
+('architecture', 0.45791686)
+('building', 0.44864464)
+('enhanced architectural', 0.43116385)
+
+Topic: 40
+('building', 0.44482034)
+('piazza', 0.34373456)
+('milan', 0.30228415)
+('structure', 0.30055267)
+('design process', 0.3000927)
+('urban', 0.276057)
+('public space', 0.27389354)
+
+Topic: 41
+('sustainable construction', 0.59937924)
+('sustainability', 0.5228969)
+('building', 0.5146969)
+('sustainable', 0.49150985)
+('environment', 0.48649585)
+('physical environment', 0.47275335)
+('facade', 0.42942947)
+
+Topic: 42
+('rooftop corridor', 0.45573777)
+('building', 0.3994066)
+('embankment top', 0.38596523)
+('embankment top road', 0.3786618)
+('landscape', 0.35209137)
+('construction', 0.34200698)
+('wetland', 0.33391833)
+
+Topic: 43
+('child family centre', 0.5960432)
+('family centre', 0.52091694)
+('childcare', 0.4450283)
+('child family', 0.41087955)
+('glen child family', 0.33713117)
+('facility', 0.32198167)
+('playground', 0.31937715)
+
+Topic: 44
+('building', 0.4063807)
+('landscape', 0.3777637)
+('construction', 0.36312526)
+('garden', 0.31879324)
+('restoration', 0.3025033)
+('land', 0.29426515)
+('architecture', 0.29416585)
+
+Topic: 45
+('garden space', 0.41636157)
+('commercial tenancy', 0.39768434)
+('tenancy', 0.3725137)
+('indoor garden', 0.362665)
+('visitor pavilion', 0.35706758)
+('civic street', 0.35424703)
+('tavern', 0.33692956)
+
+Topic: 46
+('working environment', 0.38474154)
+('architectural', 0.3659063)
+('production area', 0.35296297)
+('showroom', 0.34773308)
+('individual cell office', 0.34470415)
+('building', 0.33681217)
+('urban environment house', 0.32764894)
+
+Topic: 47
+('building', 0.3852888)
+('façade', 0.36956266)
+('construction', 0.34718674)
+('architecture', 0.34394795)
+('concrete', 0.31588304)
+('landscape', 0.2892662)
+('environment', 0.2867593)
+
+Topic: 48
+('municipality renovate demonstrates', 0.5605228)
+('building', 0.54436195)
+('village center', 0.54124135)
+('municipality renovate', 0.5289668)
+('village community', 0.5279182)
+('village', 0.49665552)
+('community hall', 0.49469987)
+

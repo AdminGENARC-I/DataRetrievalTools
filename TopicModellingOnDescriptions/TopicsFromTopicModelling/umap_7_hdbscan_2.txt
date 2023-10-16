@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 6, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 2, 'min_samples': 8, 'prediction_data': True}
+
+
+Topic: 0
+('fire station', 0.51929784)
+('fire brigade', 0.44480562)
+('firefighter', 0.35093266)
+('facility', 0.33730695)
+('building', 0.2944626)
+('construction', 0.284875)
+('station', 0.27998024)
+
+Topic: 1
+('school community', 0.4429027)
+('building', 0.4345706)
+('classroom', 0.37372792)
+('construction', 0.3629257)
+('workshop', 0.36250508)
+('architecture', 0.34223962)
+('educational', 0.3229006)
+
+Topic: 2
+('building', 0.38223326)
+('village', 0.34076318)
+('architectural', 0.34057307)
+('construction', 0.3397389)
+('architecture', 0.3185146)
+('courtyard', 0.30969623)
+('facade', 0.30958313)
+

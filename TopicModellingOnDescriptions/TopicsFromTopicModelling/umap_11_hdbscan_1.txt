@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 6, 'n_components': 2, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 2, 'min_samples': 5, 'prediction_data': True}
+
+
+Topic: 0
+('garden restroom', 0.46771646)
+('public toilet', 0.4582926)
+('toilet project', 0.44293252)
+('public restroom', 0.41162544)
+('woman toilet', 0.39125168)
+('toilet reforming', 0.37818325)
+('restroom', 0.36606622)
+
+Topic: 1
+('seoul new city', 0.5978236)
+('square seoul', 0.5667349)
+('seoul city', 0.56472445)
+('seoul square seoul', 0.5553024)
+('seoul new', 0.554806)
+('seoul square', 0.5513872)
+('seoul', 0.5191942)
+
+Topic: 2
+('building', 0.45306075)
+('architectural', 0.40027112)
+('facade', 0.39525664)
+('construction', 0.39477527)
+('architecture', 0.36965084)
+('courtyard', 0.33262813)
+('facility', 0.33117795)
+

@@ -1,0 +1,50 @@
+UMAP Parameters: {'n_neighbors': 9, 'n_components': 2, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 5, 'min_samples': 5, 'prediction_data': True}
+
+
+Topic: 0
+('garden restroom', 0.46771634)
+('public toilet', 0.45829257)
+('toilet project', 0.44293255)
+('public restroom', 0.41162547)
+('woman toilet', 0.39125162)
+('toilet reforming', 0.3781832)
+('restroom', 0.36606625)
+
+Topic: 1
+('fire station', 0.54601324)
+('new fire station', 0.5377405)
+('fire brigade', 0.435736)
+('firefighter', 0.34754413)
+('fire engine', 0.33284378)
+('building', 0.32845277)
+('facility', 0.32834977)
+
+Topic: 2
+('seoul new city', 0.6039104)
+('square seoul', 0.588055)
+('seoul square seoul', 0.58064526)
+('seoul square', 0.57438314)
+('seoul new', 0.5681218)
+('seoul city', 0.56715465)
+('seoul', 0.53434366)
+
+Topic: 3
+('court building', 0.5691007)
+('new courthouse', 0.5043703)
+('courthouse', 0.4793396)
+('courtroom', 0.4500692)
+('court', 0.38463414)
+('judiciary', 0.3497309)
+('judicial', 0.34325898)
+
+Topic: 4
+('building', 0.43629146)
+('architectural', 0.42414162)
+('facade', 0.4154678)
+('construction', 0.3982754)
+('architecture', 0.3815422)
+('architect', 0.32435727)
+('design', 0.3125738)
+

@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 6, 'n_components': 4, 'min_dist': 0.05}
+
+HDBScan Parameters: {'min_cluster_size': 8, 'min_samples': 8, 'prediction_data': True}
+
+
+Topic: 0
+('garden restroom', 0.46771634)
+('public toilet', 0.45829257)
+('toilet project', 0.44293252)
+('public restroom', 0.41162544)
+('woman toilet', 0.39125162)
+('toilet reforming', 0.37818316)
+('restroom', 0.36606622)
+
+Topic: 1
+('building', 0.3523898)
+('facade', 0.33756256)
+('construction', 0.33470717)
+('architectural', 0.3213551)
+('architecture', 0.30471408)
+('courtyard', 0.26458701)
+('urban', 0.26385403)
+

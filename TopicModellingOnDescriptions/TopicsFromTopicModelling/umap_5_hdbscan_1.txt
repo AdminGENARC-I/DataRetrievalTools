@@ -1,0 +1,32 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 2, 'min_samples': 5, 'prediction_data': True}
+
+
+Topic: 0
+('seoul new city', 0.5978236)
+('square seoul', 0.5667349)
+('seoul city', 0.5647243)
+('seoul square seoul', 0.5553024)
+('seoul new', 0.554806)
+('seoul square', 0.55138725)
+('seoul', 0.5191941)
+
+Topic: 1
+('fire station', 0.51929784)
+('fire brigade', 0.44480562)
+('firefighter', 0.35093257)
+('facility', 0.3373069)
+('building', 0.29446256)
+('construction', 0.2848751)
+('station', 0.2799803)
+
+Topic: 2
+('building', 0.41957223)
+('facade', 0.38641328)
+('construction', 0.38438466)
+('architectural', 0.3793102)
+('architecture', 0.34482765)
+('architect', 0.32012576)
+('facility', 0.26448298)
+

@@ -1,0 +1,446 @@
+UMAP Parameters: {'n_neighbors': 9, 'n_components': 6, 'min_dist': 0.15000000000000002}
+
+HDBScan Parameters: {'min_cluster_size': 2, 'min_samples': 2, 'prediction_data': True}
+
+
+Topic: 0
+('building', 0.4519867)
+('architectural', 0.45188802)
+('architecture', 0.4232127)
+('façade', 0.41443256)
+('facade', 0.41443256)
+('architect', 0.39835304)
+('construction', 0.3917722)
+
+Topic: 1
+('community centre', 0.5392278)
+('facility', 0.515527)
+('community center', 0.51256186)
+('new building', 0.47781998)
+('building', 0.4515931)
+('town hall', 0.42024946)
+('housing', 0.4141658)
+
+Topic: 2
+('fire station', 0.51929784)
+('fire brigade', 0.44480562)
+('police station', 0.37499607)
+('firefighter', 0.35093257)
+('facility', 0.33730695)
+('fire engine', 0.2971508)
+('building', 0.2944625)
+
+Topic: 3
+('village', 0.48313475)
+('villager', 0.36382043)
+('rural', 0.33979473)
+('town', 0.30799252)
+('courtyard', 0.29193228)
+('building', 0.26775968)
+('landscape', 0.25309902)
+
+Topic: 4
+('building', 0.36485428)
+('construction', 0.32491636)
+('village', 0.31562212)
+('facility', 0.30460548)
+('sustainable', 0.28640503)
+('landscape', 0.27867776)
+('rwanda', 0.2650847)
+
+Topic: 5
+('municipal museum', 0.4109478)
+('municipal museum abade', 0.3959937)
+('municipal', 0.37404674)
+('building', 0.36620453)
+('palace', 0.32192612)
+('construction', 0.31150264)
+('architecture', 0.30792582)
+
+Topic: 6
+('court building', 0.5691007)
+('new courthouse', 0.5043702)
+('courthouse', 0.47933954)
+('courtroom', 0.45006913)
+('criminal court', 0.40462738)
+('district court', 0.39955795)
+('court', 0.38463408)
+
+Topic: 7
+('harbor', 0.41202992)
+('pier', 0.3934583)
+('waterfront', 0.37213892)
+('coastal', 0.36382502)
+('harbour', 0.35863572)
+('building', 0.33073595)
+('boat', 0.31377712)
+
+Topic: 8
+('building', 0.5025806)
+('village', 0.4737189)
+('residential area', 0.43714997)
+('construction', 0.43185288)
+('architecture', 0.4097735)
+('courtyard', 0.40807563)
+('landscape', 0.35991648)
+
+Topic: 9
+('building', 0.47098535)
+('façades', 0.40011317)
+('construction', 0.39684016)
+('design workshop', 0.381984)
+('architecture', 0.3775569)
+('school community', 0.35251838)
+('workshop', 0.34408173)
+
+Topic: 10
+('garden restroom', 0.4677164)
+('public toilet', 0.45829257)
+('toilet project', 0.4429326)
+('public restroom', 0.41162544)
+('men woman toilet', 0.4023598)
+('woman toilet', 0.39125162)
+('toilet reforming', 0.37818325)
+
+Topic: 11
+('building', 0.4138869)
+('facade', 0.39342517)
+('tenancy', 0.35411382)
+('architect', 0.3270195)
+('environmental atrium', 0.31140506)
+('council', 0.30453157)
+('legislative council', 0.30382383)
+
+Topic: 12
+('mosque', 0.43597865)
+('new building', 0.4192034)
+('facade', 0.41455594)
+('building', 0.38613603)
+('church', 0.37466097)
+('cathedral', 0.37004852)
+('rectory', 0.33560592)
+
+Topic: 13
+('new public façade', 0.49800488)
+('façade', 0.4908216)
+('french embassy', 0.46275306)
+('building', 0.45679677)
+('embassy', 0.44002372)
+('new embassy', 0.43599004)
+('architecture', 0.4267974)
+
+Topic: 14
+('child family centre', 0.5606915)
+('family centre', 0.47820145)
+('childcare', 0.42936075)
+('playground', 0.37845135)
+('child family', 0.37694976)
+('glen child family', 0.3281048)
+('neighbourhood', 0.32418337)
+
+Topic: 15
+('building', 0.5138547)
+('municipality arranged architectural', 0.5069567)
+('architectural competition new', 0.43970752)
+('municipality arranged', 0.43711022)
+('architectural competition', 0.41530347)
+('modern trail centre', 0.41357404)
+('facility', 0.41190404)
+
+Topic: 16
+('building exhibition', 0.55834675)
+('building provides', 0.52409893)
+('building', 0.5163208)
+('facade', 0.48185486)
+('auditorium', 0.463206)
+('foyer', 0.4607806)
+('changing room', 0.45887965)
+
+Topic: 17
+('architect', 0.4552076)
+('architectural', 0.41017556)
+('building', 0.40093082)
+('architecture', 0.39875492)
+('house parliament', 0.37248173)
+('construction', 0.33583707)
+('palace westminster', 0.33557853)
+
+Topic: 18
+('parking garage', 0.42458782)
+('parking', 0.41756797)
+('parking lot', 0.40298834)
+('park', 0.3546818)
+('urban space', 0.3463022)
+('area park', 0.34341884)
+('building', 0.34184146)
+
+Topic: 19
+('backyard', 0.4894479)
+('courtyard', 0.48428774)
+('environment', 0.48277098)
+('garden', 0.4581756)
+('surrounding', 0.43393818)
+('vegetation', 0.428119)
+('forest', 0.3970464)
+
+Topic: 20
+('seoul new city', 0.5978236)
+('square seoul', 0.5667349)
+('seoul city', 0.5647245)
+('seoul square seoul', 0.5553024)
+('seoul new', 0.554806)
+('seoul square', 0.5513873)
+('seoul', 0.5191942)
+
+Topic: 21
+('renovation', 0.54204065)
+('building', 0.506968)
+('architectural', 0.44072893)
+('design team', 0.41714513)
+('design proposal', 0.41648743)
+('architect', 0.4132362)
+('park remains mostly', 0.38812956)
+
+Topic: 22
+('embassy architecture', 0.5200417)
+('annex building embassy', 0.43173337)
+('modern architecture', 0.38803422)
+('embassy', 0.38280421)
+('embassy republic', 0.37379068)
+('international style modernism', 0.36610913)
+('architecture', 0.363034)
+
+Topic: 23
+('construction process', 0.5541468)
+('optimize construction', 0.4834544)
+('building', 0.4523105)
+('construction', 0.42300206)
+('facade', 0.38516563)
+('design', 0.31893626)
+('modelling', 0.3171815)
+
+Topic: 24
+('building', 0.4495009)
+('modernist architecture', 0.41875327)
+('poznań', 0.41484055)
+('szczecin', 0.40630496)
+('rooftop', 0.40379882)
+('construction', 0.38139594)
+('szczęsny', 0.3493055)
+
+Topic: 25
+('earthquake', 0.49839634)
+('construction system', 0.49265635)
+('building', 0.46494466)
+('building minamisoma', 0.45434418)
+('building minamisoma city', 0.45136923)
+('disaster prevention', 0.44567144)
+('building became', 0.43853217)
+
+Topic: 26
+('prison architecture', 0.6316565)
+('facility designed', 0.4230972)
+('penitentiary', 0.4018104)
+('prison', 0.39723116)
+('refugee camp', 0.39572525)
+('rehabilitate', 0.3835274)
+('facility', 0.38313514)
+
+Topic: 27
+('technical building', 0.44982183)
+('building', 0.4325232)
+('extension building', 0.4217412)
+('existing building', 0.39861876)
+('office building', 0.3781166)
+('building office', 0.37765414)
+('new building', 0.37219632)
+
+Topic: 28
+('christchurch city', 0.49317)
+('christchurch', 0.48723662)
+('people christchurch', 0.45658964)
+('new woolston community', 0.37816942)
+('woolston community', 0.3465745)
+('māori', 0.326105)
+('building', 0.32498527)
+
+Topic: 29
+('tbilisi', 0.46851987)
+('georgia', 0.41825712)
+('public service hall', 0.40978152)
+('georgian', 0.39897043)
+('service hall', 0.3920942)
+('main façade', 0.38105607)
+('facade consists', 0.36367983)
+
+Topic: 30
+('rohingya refugee', 0.5293405)
+('rohingya cultural', 0.4897158)
+('rohingya cultural memory', 0.45001897)
+('refugee camp', 0.42257094)
+('rohingya', 0.38623366)
+('largest refugee camp', 0.35577023)
+('refugee', 0.3333756)
+
+Topic: 31
+('support facility group', 0.53589827)
+('facility', 0.438026)
+('support renovating', 0.41847378)
+('kind activity integration', 0.3895803)
+('know facility', 0.3879251)
+('know facility disabled', 0.38781303)
+('employment', 0.3715732)
+
+Topic: 32
+('texas tower', 0.51502395)
+('houston', 0.5013184)
+('downtown', 0.38643777)
+('emancipation park', 0.30226812)
+('architecture', 0.2904837)
+('architect', 0.27708775)
+('tower', 0.2767119)
+
+Topic: 33
+('arche de', 0.48787236)
+('grande arche', 0.4674785)
+('archive france', 0.45623899)
+('renovation', 0.44664913)
+('louvre', 0.44643265)
+('wooden louvre', 0.4448706)
+('national archive france', 0.43436134)
+
+Topic: 34
+('miami beach soundscape', 0.53905714)
+('beach city hall', 0.53705335)
+('miami beach city', 0.53302205)
+('miami beach square', 0.5291203)
+('convention center', 0.5156089)
+('miami beach', 0.48176348)
+('beach city', 0.44198585)
+
+Topic: 35
+('petersburg', 0.40439594)
+('moscow', 0.3958143)
+('russia river', 0.36921185)
+('park urban', 0.3631696)
+('zaryadye park', 0.36131227)
+('russia river system', 0.34772444)
+('park object', 0.3277686)
+
+Topic: 36
+('memorial space', 0.53251934)
+('monument would tribute', 0.52085656)
+('people memorialize individual', 0.4984247)
+('new memorial space', 0.49329844)
+('monument', 0.48694903)
+('type memorial', 0.4844245)
+('people memorialize', 0.48040026)
+
+Topic: 37
+('al shaheed monument', 0.49126768)
+('shaheed monument', 0.46993902)
+('design monument', 0.43855858)
+('monument', 0.3481862)
+('tower structure', 0.34009445)
+('persian history', 0.3327543)
+('building', 0.3277969)
+
+Topic: 38
+('community support', 0.37036753)
+('community development', 0.35816467)
+('walkway', 0.35782224)
+('housing', 0.33287132)
+('walkway resting', 0.32437158)
+('outdoor area', 0.3128662)
+('green area', 0.3079424)
+
+Topic: 39
+('ljubljana new building', 0.5610099)
+('maximilianeum congress centre', 0.5478209)
+('building', 0.49664235)
+('congress centre', 0.4951393)
+('congress centre brdo', 0.49097577)
+('façade', 0.48278284)
+('new building assembly', 0.4796371)
+
+Topic: 40
+('valletta city gate', 0.51890314)
+('city gate', 0.43326724)
+('valletta city', 0.42992902)
+('new city gate', 0.4110222)
+('valletta', 0.3782079)
+('salamanca avenue', 0.3756453)
+('city valladolid', 0.3617433)
+
+Topic: 41
+('façade', 0.3740674)
+('shelter designed', 0.3639028)
+('new australian embassy', 0.3104343)
+('landscaping', 0.29506937)
+('recreational facility', 0.2949238)
+('botanical garden', 0.29031655)
+('landscape', 0.28647327)
+
+Topic: 42
+('medieval stone tower', 0.6076206)
+('newly built towerlike', 0.5946241)
+('modernity project situated', 0.55050236)
+('tower traditional', 0.5369284)
+('new construction give', 0.5034294)
+('medieval stone', 0.4866596)
+('modernity project', 0.47602513)
+
+Topic: 43
+('municipality krumbach pursued', 0.6043875)
+('municipality krumbach', 0.5601109)
+('inside building parish', 0.54939646)
+('multipurpose building rectory', 0.5464805)
+('village church', 0.52708995)
+('village center rectory', 0.52647865)
+('hall small village', 0.5136229)
+
+Topic: 44
+('new police station', 0.56296074)
+('police station', 0.5613644)
+('municipal plot near', 0.5264435)
+('municipal plot', 0.46283)
+('neighbouring building allowing', 0.45741254)
+('municipal library urbanization', 0.40396985)
+('making bruges police', 0.39870775)
+
+Topic: 45
+('patio frame nature', 0.3353948)
+('sandstone', 0.31211078)
+('patio', 0.31081545)
+('patio frame', 0.2954985)
+('mark patio', 0.26292557)
+('pink sandstone', 0.2583815)
+('light mark patio', 0.25332463)
+
+Topic: 46
+('police headquarters monolithic', 0.5979611)
+('police operational', 0.5454873)
+('police operational command', 0.5436254)
+('operational area incorporated', 0.4939835)
+('operational area', 0.46385562)
+('outside southampton police', 0.45471996)
+('operation facility projecting', 0.45075333)
+
+Topic: 47
+('sra pou vocational', 0.4514148)
+('local ngo', 0.40965754)
+('ngo studio', 0.39767691)
+('vocational', 0.3970716)
+('vocational school', 0.3790385)
+('pou vocational', 0.37045074)
+('ngo', 0.36784667)
+
+Topic: 48
+('flederhaus open space', 0.5536995)
+('flederhaus open', 0.510663)
+('space broad corridor', 0.5094018)
+('public facility provides', 0.50139636)
+('house youth club', 0.48920584)
+('youth club office', 0.47735506)
+('place hall', 0.4705572)
+

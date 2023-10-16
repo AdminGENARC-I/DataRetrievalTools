@@ -1,0 +1,446 @@
+UMAP Parameters: {'n_neighbors': 9, 'n_components': 4, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 2, 'min_samples': 2, 'prediction_data': True}
+
+
+Topic: 0
+('building', 0.4549705)
+('architectural', 0.4471156)
+('facade', 0.44353348)
+('architecture', 0.41637868)
+('courtyard', 0.38936475)
+('construction', 0.3713475)
+('facility', 0.36089918)
+
+Topic: 1
+('fire station', 0.515412)
+('fire brigade', 0.4333691)
+('police station', 0.39630842)
+('facility', 0.3537985)
+('firefighter', 0.34002313)
+('building', 0.29674327)
+('construction', 0.2904231)
+
+Topic: 2
+('building', 0.41221124)
+('construction', 0.373092)
+('village', 0.34046763)
+('workshop', 0.31797963)
+('sustainable', 0.3053919)
+('environment', 0.28278005)
+('build', 0.27611998)
+
+Topic: 3
+('village', 0.49580806)
+('villager', 0.39767852)
+('rural', 0.35967296)
+('countryside', 0.33264256)
+('town', 0.3106615)
+('courtyard', 0.27470705)
+('building', 0.23578814)
+
+Topic: 4
+('community centre', 0.59555954)
+('facility', 0.5185734)
+('building', 0.4551804)
+('town hall', 0.43667755)
+('centre', 0.39202547)
+('public space', 0.39176816)
+('architectural', 0.37713754)
+
+Topic: 5
+('building designed', 0.45691842)
+('building', 0.41500905)
+('façade', 0.41134328)
+('facade', 0.41134328)
+('new building', 0.39342743)
+('architect', 0.39226624)
+('municipality', 0.39077288)
+
+Topic: 6
+('court building', 0.56910074)
+('new courthouse', 0.5043702)
+('courthouse', 0.47933954)
+('courtroom', 0.45006913)
+('district court', 0.39955798)
+('court', 0.38463408)
+('judiciary', 0.34973085)
+
+Topic: 7
+('building', 0.35611027)
+('facade', 0.34027594)
+('construction', 0.30161148)
+('architecture', 0.3011096)
+('workshop', 0.284383)
+('infrastructure', 0.26211473)
+('mexico', 0.24112406)
+
+Topic: 8
+('court building', 0.64304495)
+('facade', 0.5322795)
+('façade', 0.5322795)
+('new building', 0.5088185)
+('building', 0.50001264)
+('architectural', 0.48635343)
+('architecture', 0.4606993)
+
+Topic: 9
+('harbor', 0.41202992)
+('pier', 0.3934583)
+('harbor bath', 0.38568506)
+('waterfront', 0.3721389)
+('coastal', 0.36382502)
+('harbour', 0.35863572)
+('building', 0.33073598)
+
+Topic: 10
+('embassy building', 0.5747901)
+('façade', 0.4483884)
+('facade', 0.4483884)
+('new embassy', 0.4297148)
+('embassy', 0.41959673)
+('consulate', 0.40500033)
+('architectural', 0.39079106)
+
+Topic: 11
+('architect', 0.4552076)
+('architectural', 0.41017556)
+('building', 0.40093094)
+('architecture', 0.39875495)
+('renovation', 0.3880006)
+('house parliament', 0.3724817)
+('construction', 0.33583707)
+
+Topic: 12
+('municipal service building', 0.4466834)
+('service building', 0.42895082)
+('building', 0.42307246)
+('façade', 0.41719362)
+('municipal', 0.34015876)
+('courtyard', 0.3267924)
+('municipality', 0.3209678)
+
+Topic: 13
+('restroom designed', 0.6383058)
+('garden restroom', 0.62524796)
+('tokyo toilet project', 0.6117265)
+('public toilet', 0.59838426)
+('public restroom', 0.5959312)
+('toilet project', 0.5873853)
+('public restroom especially', 0.57835424)
+
+Topic: 14
+('homeless facility', 0.4645902)
+('homeless shelter', 0.43583393)
+('housing', 0.40390876)
+('communal house', 0.39537942)
+('shelter', 0.37028253)
+('homeless', 0.3697737)
+('homelessness', 0.35701132)
+
+Topic: 15
+('child family centre', 0.5880579)
+('family centre', 0.5036796)
+('childcare', 0.44129485)
+('child family', 0.4106824)
+('glen child family', 0.34242606)
+('playground', 0.3328492)
+('facility', 0.31809124)
+
+Topic: 16
+('church building', 0.6158588)
+('parish center', 0.49864423)
+('parish centre', 0.49668595)
+('parish house', 0.4787134)
+('new building', 0.4768951)
+('rectory', 0.44051105)
+('new parish', 0.43850192)
+
+Topic: 17
+('building', 0.41074502)
+('municipal museum abade', 0.39410633)
+('monastery são bento', 0.39160967)
+('municipal museum', 0.39132982)
+('municipal', 0.38054007)
+('palace', 0.3702988)
+('monastery são', 0.36611703)
+
+Topic: 18
+('public toilet project', 0.49539214)
+('public toilet', 0.45829257)
+('toilet project', 0.44293258)
+('original public toilet', 0.41375732)
+('old public toilet', 0.39553177)
+('woman toilet', 0.39125162)
+('toilet often', 0.389346)
+
+Topic: 19
+('building', 0.5384147)
+('activity within city', 0.508852)
+('small village', 0.48699224)
+('construction', 0.47070575)
+('village', 0.4579932)
+('two building', 0.44742614)
+('architecture', 0.4033656)
+
+Topic: 20
+('seoul new city', 0.5978236)
+('square seoul', 0.5667349)
+('seoul city', 0.5647243)
+('seoul square seoul', 0.5553024)
+('seoul new', 0.554806)
+('seoul square', 0.55138725)
+('line seoul new', 0.5310495)
+
+Topic: 21
+('building', 0.4362266)
+('type façades', 0.42878038)
+('façades', 0.42391625)
+('construction', 0.36514476)
+('barcelona', 0.357632)
+('centre community life', 0.33222583)
+('courtyard', 0.31722432)
+
+Topic: 22
+('earthquake', 0.49839628)
+('construction system', 0.49265632)
+('building', 0.4649447)
+('building minamisoma', 0.4543442)
+('building minamisoma city', 0.45136917)
+('disaster prevention', 0.44567144)
+('building became', 0.4385321)
+
+Topic: 23
+('office building', 0.5503129)
+('building', 0.44669074)
+('podium building area', 0.40377033)
+('baidu international building', 0.40127093)
+('podium building', 0.3835311)
+('office area', 0.35807288)
+('tower area', 0.3526343)
+
+Topic: 24
+('architectural form mosque', 0.6705414)
+('form mosque', 0.5903317)
+('mosque social complex', 0.57237804)
+('built mosque', 0.5679183)
+('mosque', 0.53732395)
+('mosque social', 0.5351826)
+('limited mosque', 0.52952015)
+
+Topic: 25
+('gembloux medieval city', 0.5781412)
+('gembloux medieval', 0.44708675)
+('lille city', 0.43774474)
+('lille', 0.41375405)
+('urban landscape', 0.41324183)
+('medieval city', 0.38788587)
+('arbrisseau neighborhood', 0.38221353)
+
+Topic: 26
+('shaheed monument', 0.4463083)
+('al shaheed monument', 0.44278756)
+('lok sabha', 0.35847306)
+('india gate', 0.33379436)
+('sabha', 0.3230301)
+('monument', 0.32092482)
+('parliament', 0.31299293)
+
+Topic: 27
+('auditorium', 0.5191446)
+('transporting auditorium', 0.50886977)
+('new front building', 0.5071343)
+('transporting auditorium underground', 0.48270595)
+('changing room', 0.47304964)
+('mass entertainment theater', 0.47008404)
+('lounge west façade', 0.4687787)
+
+Topic: 28
+('tbilisi', 0.46851987)
+('georgia', 0.41825712)
+('public service hall', 0.40978152)
+('georgian', 0.39897043)
+('service hall', 0.3920942)
+('main façade', 0.38105607)
+('facade consists', 0.3636799)
+
+Topic: 29
+('christchurch city', 0.49317)
+('christchurch', 0.48723665)
+('people christchurch', 0.45658973)
+('new woolston community', 0.37816936)
+('woolston community', 0.3465745)
+('māori', 0.326105)
+('building', 0.32498536)
+
+Topic: 30
+('ljubljana new building', 0.5610099)
+('maximilianeum congress centre', 0.5478209)
+('building', 0.49664238)
+('congress centre', 0.49513948)
+('congress centre brdo', 0.4909758)
+('façade', 0.48278278)
+('new building assembly', 0.479637)
+
+Topic: 31
+('building', 0.46095443)
+('valletta city gate', 0.44257516)
+('facade', 0.43265587)
+('new parliament building', 0.43138123)
+('new city gate', 0.4176128)
+('parliament building', 0.41625124)
+('architecture', 0.41381115)
+
+Topic: 32
+('construction process', 0.54058516)
+('optimize construction', 0.46961665)
+('building', 0.40597045)
+('engineering design', 0.39840126)
+('construction', 0.37290245)
+('modelling', 0.35199934)
+('public building', 0.3309244)
+
+Topic: 33
+('building vietnamese', 0.5846431)
+('bamboo architecture', 0.4708004)
+('sustainable architecture', 0.4354406)
+('bamboo structure', 0.42132643)
+('building', 0.42090136)
+('bamboo', 0.3817026)
+('vietnamese national', 0.3804744)
+
+Topic: 34
+('miami beach soundscape', 0.5390573)
+('beach city hall', 0.53705335)
+('miami beach city', 0.533022)
+('miami beach square', 0.52912027)
+('convention center', 0.5156089)
+('miami beach', 0.48176354)
+('beach city', 0.44198585)
+
+Topic: 35
+('facility previously', 0.5052111)
+('revival style pavilion', 0.5041257)
+('harmed construction', 0.47061077)
+('facility include consultation', 0.46582395)
+('trail centre', 0.45805413)
+('housing boitumelo project', 0.4440465)
+('housing music school', 0.4375993)
+
+Topic: 36
+('memorial space', 0.53251934)
+('monument would tribute', 0.5208566)
+('people memorialize individual', 0.49842468)
+('new memorial space', 0.49329847)
+('monument', 0.48694903)
+('type memorial', 0.48442447)
+('people memorialize', 0.48040026)
+
+Topic: 37
+('dhaka', 0.43714094)
+('republic turkey dhaka', 0.42498416)
+('turkey dhaka', 0.41882735)
+('bangladesh', 0.37096715)
+('embassy', 0.32626325)
+('national assembly building', 0.3185984)
+('embassy republic turkey', 0.312162)
+
+Topic: 38
+('youth centre', 0.5183532)
+('partnership birmingham youth', 0.46269864)
+('birmingham youth service', 0.4611745)
+('lighthouse', 0.45958894)
+('people centre birmingham', 0.45169777)
+('new facility', 0.44081485)
+('people local community', 0.4320023)
+
+Topic: 39
+('hockey field create', 0.49959725)
+('innovative facade establishes', 0.47953403)
+('innovative facade', 0.47057843)
+('hockey field', 0.4634302)
+('meaningful place caf', 0.45880026)
+('microclimate club activity', 0.44352698)
+('next building setting', 0.43698472)
+
+Topic: 40
+('free press monument', 0.5019654)
+('front building face', 0.46280333)
+('home symbol journalist', 0.45773157)
+('residence front building', 0.45694703)
+('building', 0.42435256)
+('room whereas residential', 0.4176582)
+('residential area view', 0.4151665)
+
+Topic: 41
+('integrates design urban', 0.6333101)
+('geometric profile building', 0.55601525)
+('geometry design asset', 0.5509882)
+('monument mirror designed', 0.5375917)
+('sustainability beauty visually', 0.5250757)
+('existing building monument', 0.5233149)
+('faceted geometry design', 0.5115136)
+
+Topic: 42
+('lasipalatsi building', 0.4953922)
+('foyer', 0.41670674)
+('office nearby lasipalatsi', 0.40547532)
+('art museum', 0.37140387)
+('within lasipalatsi', 0.3680552)
+('meeting centre', 0.33844176)
+('anderson art museum', 0.33677948)
+
+Topic: 43
+('museum fort vechten', 0.41223264)
+('monolithic building permit', 0.40466323)
+('museum accessible fort', 0.40159458)
+('fort vechten', 0.397356)
+('facade', 0.3823915)
+('museum fort', 0.37912017)
+('building', 0.35614565)
+
+Topic: 44
+('renovation', 0.52688724)
+('last building designed', 0.4583453)
+('new entrance pavilion', 0.440032)
+('building', 0.43201983)
+('listed landmark', 0.40632486)
+('entrance pavilion', 0.3990447)
+('pavilion', 0.35729924)
+
+Topic: 45
+('housed community clubhouse', 0.5615511)
+('curved building', 0.5240314)
+('building gate', 0.4857033)
+('plan community center', 0.47688034)
+('housed community', 0.46682045)
+('clubhouse', 0.45534444)
+('main structure offer', 0.44714093)
+
+Topic: 46
+('downtown', 0.4066872)
+('architecture', 0.3835733)
+('music center', 0.37830555)
+('station main', 0.3602651)
+('houston', 0.3581248)
+('architect', 0.33928356)
+('main street', 0.31798384)
+
+Topic: 47
+('hanok village bukchon', 0.49562147)
+('village bukchon', 0.4747988)
+('quiet magok station', 0.43473452)
+('hanok village', 0.42524248)
+('magok district', 0.41610962)
+('large dark room', 0.41091907)
+('room unease', 0.40944666)
+
+Topic: 48
+('office building set', 0.5693685)
+('office building', 0.537536)
+('office building centre', 0.50117266)
+('maintenance room', 0.35759377)
+('maintenance room well', 0.35104138)
+('tower', 0.3268047)
+('make easy visualize', 0.32459956)
+

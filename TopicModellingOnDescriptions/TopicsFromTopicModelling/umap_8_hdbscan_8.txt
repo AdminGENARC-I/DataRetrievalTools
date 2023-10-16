@@ -1,0 +1,23 @@
+UMAP Parameters: {'n_neighbors': 3, 'n_components': 6, 'min_dist': 0.25}
+
+HDBScan Parameters: {'min_cluster_size': 8, 'min_samples': 8, 'prediction_data': True}
+
+
+Topic: 0
+('building', 0.46804023)
+('architectural', 0.43515664)
+('facade', 0.42587185)
+('architecture', 0.40838438)
+('construction', 0.40784293)
+('architect', 0.39126658)
+('design', 0.29794902)
+
+Topic: 1
+('fire station', 0.5192979)
+('fire brigade', 0.4448057)
+('firefighter', 0.3509326)
+('facility', 0.33730695)
+('building', 0.29446262)
+('construction', 0.28487504)
+('station', 0.2799803)
+
