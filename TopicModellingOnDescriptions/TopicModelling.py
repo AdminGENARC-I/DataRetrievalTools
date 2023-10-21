@@ -16,9 +16,6 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
 
-# Keyword Extraction: For each project, find keywords -> For each keyword, find which projects it belongs to
-# Topic Modelling: Hyperparameter A -> For each topic, go to each project and find if that topic exists in the project
-
 # Preprocess Text
 def preprocess_text(text: str) -> str:
   tokens = word_tokenize(text.lower())
