@@ -81,34 +81,36 @@ if __name__ == '__main__':
     umap_param = {'n_neighbors': 6, 'n_components': 4, 'min_dist': 0.25}
     hdbscan_param = {'min_cluster_size': 2, 'min_samples': 2, 'prediction_data': True}
     
-    topic_model = BERTopic(
-        embedding_model=embedding_model,
-        umap_model=UMAP(**umap_param),
-        hdbscan_model=HDBSCAN(**hdbscan_param),
-        representation_model=representation_model,
-        min_topic_size=5,
-        top_n_words=7,
-        n_gram_range=(1, 3),
-        nr_topics=30,
-        calculate_probabilities=True,
-        )
-    
-    topics, probs = topic_model.fit_transform(descriptions)
-    
-    with open('./TopicsFromTopicModellingOG/topics.txt', 'w') as file:
-        file_content = "Topic Modelling with Topic-to-Project Mappings\n"
-        file_content += "UMAP Parameters: {0}\nHDBScan Parameters: {1}\n\n".format(umap_param, hdbscan_param)
+    possible_num_topics = [30, 50, 70]
+    for num_topics in possible_num_topics:
+        topic_model = BERTopic(
+            embedding_model=embedding_model,
+            umap_model=UMAP(**umap_param),
+            hdbscan_model=HDBSCAN(**hdbscan_param),
+            representation_model=representation_model,
+            min_topic_size=5,
+            top_n_words=7,
+            n_gram_range=(1, 3),
+            nr_topics=num_topics,
+            calculate_probabilities=True,
+            )
         
-        for index in range(len(topics)):
-            topic_representation = topic_model.get_topic(index)
-            if isinstance(topic_representation, bool):
-                break
+        topics, probs = topic_model.fit_transform(descriptions)
+        
+        with open('./TopicsFromTopicModellingOG/topics_{0}.txt'.format(num_topics), 'w') as file:
+            file_content = "Topic Modelling with Topic-to-Project Mappings\n"
+            file_content += "UMAP Parameters: {0}\nHDBScan Parameters: {1}\n\n".format(umap_param, hdbscan_param)
             
-            project_ids = get_projects_for_topic(topic_representation)
-            
-            file_content += "Topic: {0} -> [{1}]\n".format(str(index), ', '.join(project_ids))
-            for keyword in topic_representation:
-                file_content += "{0}\n".format(keyword)
-            file_content += "\n"
-            
-        file.write(file_content)
+            for index in range(len(topics)):
+                topic_representation = topic_model.get_topic(index)
+                if isinstance(topic_representation, bool):
+                    break
+                
+                project_ids = get_projects_for_topic(topic_representation)
+                
+                file_content += "Topic: {0} -> [{1}]\n".format(str(index), ', '.join(project_ids))
+                for keyword in topic_representation:
+                    file_content += "{0}\n".format(keyword)
+                file_content += "\n"
+                
+            file.write(file_content)
