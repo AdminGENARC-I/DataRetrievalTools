@@ -2,7 +2,7 @@ from typing import Mapping, Tuple
 import nltk
 from numpy import nan
 import pandas as pd
-from sympy import true
+import matplotlib.pyplot as plt
 
 from umap import UMAP
 from hdbscan import HDBSCAN
@@ -70,7 +70,8 @@ def get_projects_for_topic(keywords: Mapping[str, Tuple[str, float]]) -> list[st
     
     return project_ids
 
-if __name__ == '__main__':
+# Run BERTopic algorithm on Project Descriptions
+def run_bert(num_topics: int):
     projects = get_projects()
     descriptions = [project[1] for project in projects]
     
@@ -81,9 +82,7 @@ if __name__ == '__main__':
     umap_param = {'n_neighbors': 6, 'n_components': 4, 'min_dist': 0.25}
     hdbscan_param = {'min_cluster_size': 2, 'min_samples': 2, 'prediction_data': True}
     
-    possible_num_topics = [30, 50, 70]
-    for num_topics in possible_num_topics:
-        topic_model = BERTopic(
+    topic_model = BERTopic(
             embedding_model=embedding_model,
             umap_model=UMAP(**umap_param),
             hdbscan_model=HDBSCAN(**hdbscan_param),
@@ -95,22 +94,44 @@ if __name__ == '__main__':
             calculate_probabilities=True,
             )
         
-        topics, probs = topic_model.fit_transform(descriptions)
+    topics, probs = topic_model.fit_transform(descriptions)
+    
+    if len(topics) < 5:
+        run_bert(num_topics)
+        return
+    
+    with open('./TopicsFromTopicModellingOG/topics_{0}.txt'.format(num_topics), 'w') as file:
+        file_content = "Topic Modelling with Topic-to-Project Mappings\n"
+        file_content += "UMAP Parameters: {0}\nHDBScan Parameters: {1}\n\n".format(umap_param, hdbscan_param)
         
-        with open('./TopicsFromTopicModellingOG/topics_{0}.txt'.format(num_topics), 'w') as file:
-            file_content = "Topic Modelling with Topic-to-Project Mappings\n"
-            file_content += "UMAP Parameters: {0}\nHDBScan Parameters: {1}\n\n".format(umap_param, hdbscan_param)
+        topic_indices = []
+        project_ids_counts = []
+        
+        for index in range(len(topics)):
+            topic_representation = topic_model.get_topic(index)
+            if isinstance(topic_representation, bool):
+                topic_indices.append(index)
+                project_ids_counts.append(0)
+                break
             
-            for index in range(len(topics)):
-                topic_representation = topic_model.get_topic(index)
-                if isinstance(topic_representation, bool):
-                    break
-                
-                project_ids = get_projects_for_topic(topic_representation)
-                
-                file_content += "Topic: {0} -> [{1}]\n".format(str(index), ', '.join(project_ids))
-                for keyword in topic_representation:
-                    file_content += "{0}\n".format(keyword)
-                file_content += "\n"
-                
-            file.write(file_content)
+            project_ids = get_projects_for_topic(topic_representation)
+            topic_indices.append(index)
+            project_ids_counts.append(len(project_ids))
+            
+            file_content += "Topic: {0} -> [{1}]\n".format(str(index), ', '.join(project_ids))
+            for keyword in topic_representation:
+                file_content += "{0}\n".format(keyword)
+            file_content += "\n"
+        
+        plt.clf()
+        plt.bar(topic_indices, project_ids_counts)
+        plt.xlabel("Topic Index")
+        plt.ylabel("No. of projects related to this topic")
+        plt.savefig('./TopicsFromTopicModellingOG/topics_stats_{0}.png'.format(num_topics))
+            
+        file.write(file_content)
+
+if __name__ == '__main__':
+    possible_num_topics = [30, 50, 70]
+    for num_topics in possible_num_topics:
+        run_bert(num_topics)
