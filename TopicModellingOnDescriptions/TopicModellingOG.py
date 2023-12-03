@@ -1,8 +1,7 @@
 from typing import Mapping, Tuple
 import nltk
-from numpy import nan
+import json
 import pandas as pd
-import matplotlib.pyplot as plt
 
 from umap import UMAP
 from hdbscan import HDBSCAN
@@ -100,38 +99,30 @@ def run_bert(num_topics: int):
         run_bert(num_topics)
         return
     
-    with open('./TopicsFromTopicModellingOG/topics_{0}.txt'.format(num_topics), 'w') as file:
-        file_content = "Topic Modelling with Topic-to-Project Mappings\n"
-        file_content += "UMAP Parameters: {0}\nHDBScan Parameters: {1}\n\n".format(umap_param, hdbscan_param)
+    topic_keywords = {}
+    project_to_topics = {}
+    
+    for index in range(len(topics)):
+        topic_representation = topic_model.get_topic(index)
+        if isinstance(topic_representation, bool):
+            break
         
-        topic_indices = []
-        project_ids_counts = []
+        index_str = str(index)
+        project_ids = get_projects_for_topic(topic_representation)
         
-        for index in range(len(topics)):
-            topic_representation = topic_model.get_topic(index)
-            if isinstance(topic_representation, bool):
-                topic_indices.append(index)
-                project_ids_counts.append(0)
-                break
-            
-            project_ids = get_projects_for_topic(topic_representation)
-            topic_indices.append(index)
-            project_ids_counts.append(len(project_ids))
-            
-            file_content += "Topic: {0} -> [{1}]\n".format(str(index), ', '.join(project_ids))
-            for keyword in topic_representation:
-                file_content += "{0}\n".format(keyword)
-            file_content += "\n"
+        for project_id in project_ids:
+            project_id_str = str(project_id)
+            if project_to_topics.get(project_id_str) == None:
+                project_to_topics[project_id_str] = [index_str]
+            else:
+                project_to_topics[project_id_str].append(index_str)
         
-        plt.clf()
-        plt.bar(topic_indices, project_ids_counts)
-        plt.xlabel("Topic Index")
-        plt.ylabel("No. of projects related to this topic")
-        plt.savefig('./TopicsFromTopicModellingOG/topics_stats_{0}.png'.format(num_topics))
-            
-        file.write(file_content)
+        topic_keywords[index_str] = []
+        for keyword in topic_representation:
+            topic_keywords[index_str].append(keyword[0])
+
+    with open('./TopicsFromTopicModellingOG/topics_og.json', 'w') as file:
+        json.dump({ "topics": topic_keywords, "projects": project_to_topics }, file)
 
 if __name__ == '__main__':
-    possible_num_topics = [30, 50, 70]
-    for num_topics in possible_num_topics:
-        run_bert(num_topics)
+    run_bert(70)
